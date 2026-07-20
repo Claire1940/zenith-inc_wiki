@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Zenith Inc Wiki - Codes, Upgrades & Prestige",
+      "description": "Zenith Inc Wiki provides Roblox codes, upgrade guides, tower progression tips, prestige strategies, and complete gameplay information for Incremental Simulator players.",
+      "keywords": "Zenith Inc, Roblox, Codes, Incremental Simulator, Tower, Prestige",
+      "ogTitle": "Zenith Inc Wiki - Codes, Upgrades & Prestige",
+      "ogDescription": "Zenith Inc Wiki provides Roblox codes, upgrade guides, tower progression tips, prestige strategies, and complete gameplay information for Incremental Simulator players.",
+      "twitterTitle": "Zenith Inc Wiki - Codes, Upgrades & Prestige",
+      "twitterDescription": "Zenith Inc Wiki covers Roblox codes, upgrades, tower progression, prestige, and currency guides for the Incremental Simulator."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox Incremental Tower Simulator",
+    "title": "Zenith Inc Wiki",
+    "description": "Complete Zenith Inc Wiki covering tower progression, upgrades, currencies, prestige mechanics, automation systems, and free codes for Roblox players.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Incremental",
+        "label": "Tower Simulator"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "Multi-layer",
+        "label": "Currency Systems"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "Active",
+        "label": "Redeem Codes"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Weekly",
+        "label": "Content Updates"
       }
     }
   },
@@ -785,26 +785,24 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Climb the Tower in Zenith Inc?",
+    "description": "Start your Zenith Inc journey on Roblox. Redeem codes, optimize upgrades, and prestige for infinite growth!",
+    "joinCommunity": "Watch Gameplay",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Zenith Inc Wiki",
+    "description": "Your complete resource hub for Zenith Inc codes, upgrades, tower progression, prestige strategies, and currency guides on Roblox.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Play on Roblox",
+    "youtube": "Gameplay Video",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Zenith Inc Wiki. Not affiliated with the developers of Zenith Inc or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

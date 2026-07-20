@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "description": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération, des conseils de fabrication, des commandes, des mods et des liens communautaires pour le jeu de braquage furtif sur Steam.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, téléchargement de la démo, guide pour débutants, guide de coopération, fabrication, équipement, mods, BepInEx, jeu Steam, jeu furtif",
-      "ogTitle": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "ogDescription": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération, des conseils de fabrication et des mods pour le jeu de braquage furtif sur Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "twitterDescription": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération et des conseils de fabrication."
+      "title": "Wiki Zenith Inc - Codes, Améliorations et Prestige",
+      "description": "Le Wiki Zenith Inc fournit des codes Roblox, des guides d'amélioration, des astuces de progression des tours, des stratégies de prestige et des informations complètes de gameplay pour les joueurs du Simulateur Incrémental.",
+      "keywords": "Zenith Inc, Roblox, Codes, Simulateur Incrémental, Tour, Prestige",
+      "ogTitle": "Wiki Zenith Inc - Codes, Améliorations et Prestige",
+      "ogDescription": "Le Wiki Zenith Inc fournit des codes Roblox, des guides d'amélioration, des astuces de progression des tours, des stratégies de prestige et des informations complètes de gameplay pour les joueurs du Simulateur Incrémental.",
+      "twitterTitle": "Wiki Zenith Inc - Codes, Améliorations et Prestige",
+      "twitterDescription": "Le Wiki Zenith Inc couvre les codes Roblox, les améliorations, la progression des tours, le prestige et les guides de monnaie pour le Simulateur Incrémental."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles à venir"
   },
   "hero": {
-    "badge": "Minuscules gnomes. Grandes maisons. Braquages furtifs entre amis.",
-    "title": "Lucid Blocks wiki",
-    "description": "Votre centre pour Lucid Blocks : comment fonctionnent les braquages, les tâches de Haut-Gnome, la fabrication et les améliorations, les ennemis, les commandes et les moyens les plus rapides de survivre à chaque partie.",
-    "getFreeCodesCTA": "Télécharger la démo",
-    "playOnSteamCTA": "Ajouter à la liste de souhaits sur Steam",
+    "badge": "Simulateur de Tour Incrémental sur Roblox",
+    "title": "Wiki Zenith Inc",
+    "description": "Wiki complet de Zenith Inc couvrant la progression des tours, les améliorations, les monnaies, les mécaniques de prestige, les systèmes d'automatisation et les codes gratuits pour les joueurs Roblox.",
+    "getFreeCodesCTA": "Obtenir des Codes Gratuits",
+    "playOnRobloxCTA": "Jouer sur Roblox",
     "stats": {
       "stat1": {
-        "value": "15K",
-        "label": "Pic de CCU (Démo)"
+        "value": "Incrémental",
+        "label": "Simulateur de Tour"
       },
       "stat2": {
-        "value": "6",
-        "label": "Joueurs en coopération"
+        "value": "Multi-niveaux",
+        "label": "Systèmes de Monnaie"
       },
       "stat3": {
-        "value": "31/01/2026",
-        "label": "Sortie de la démo"
+        "value": "Actifs",
+        "label": "Codes d'Échange"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plateforme"
+        "value": "Hebdomadaire",
+        "label": "Mises à Jour de Contenu"
       }
     }
   },
@@ -606,32 +606,6 @@
         }
       ]
     },
-    "community": {
-      "title": "Communauté et Discord de Lucid Blocks",
-      "subtitle": "Trouvez des équipes, des mises à jour, des discussions",
-      "links": [
-        {
-          "title": "Discord officiel",
-          "subtitle": "Annonces • Commentaires • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
-        },
-        {
-          "title": "X officiel (Twitter)",
-          "subtitle": "Mises à jour et publications des développeurs",
-          "url": "https://x.com/lucidblocks"
-        },
-        {
-          "title": "Hub de la communauté Steam",
-          "subtitle": "Discussions • Captures d'écran • Guides",
-          "url": "https://steamcommunity.com/app/3495730"
-        },
-        {
-          "title": "Page du magasin Steam",
-          "subtitle": "Liste de souhaits • Démo • Description officielle",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
-        }
-      ]
-    },
     "modsBepInEx": {
       "title": "Configuration des mods et de BepInEx de Lucid Blocks",
       "subtitle": "Installez les mods proprement",
@@ -819,26 +793,24 @@
     ]
   },
   "cta": {
-    "title": "Prêt à commencer à braquer ?",
-    "description": "Rejoignez la communauté Lucid Blocks sur Discord pour des groupes de coopération, des mises à jour et des discussions sur les mods !",
-    "joinCommunity": "Rejoindre Discord",
-    "joinGame": "Obtenir la démo sur Steam"
+    "title": "Prêt à Gravir la Tour dans Zenith Inc ?",
+    "description": "Commencez votre aventure Zenith Inc sur Roblox. Échangez des codes, optimisez les améliorations et prestigez pour une croissance infinie !",
+    "joinCommunity": "Voir le Gameplay",
+    "joinGame": "Jouer sur Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Votre centre de ressources complet pour les braquages furtifs, les stratégies de coopération, les mods et les guides communautaires de Lucid Blocks.",
+    "title": "Wiki Zenith Inc",
+    "description": "Votre centre de ressources complet pour les codes Zenith Inc, les améliorations, la progression des tours, les stratégies de prestige et les guides de monnaie sur Roblox.",
     "resources": "Ressources",
     "community": "Communauté",
-    "legal": "Légal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Communauté Steam",
-    "steamStore": "Magasin Steam",
+    "legal": "Mentions légales",
+    "roblox": "Jouer sur Roblox",
+    "youtube": "Vidéo de Gameplay",
     "about": "À propos",
     "privacy": "Politique de confidentialité",
     "terms": "Conditions d'utilisation",
     "copyrightNotice": "Droits d'auteur",
-    "copyright": "© 2026 Lucid Blocks Wiki. Non affilié aux développeurs de Lucid Blocks.",
+    "copyright": "© 2026 Wiki Zenith Inc. Non affilié aux développeurs de Zenith Inc ni à Roblox Corporation.",
     "disclaimer": "Site web de ressources non officiel créé par des fans."
   },
   "pages": {

@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "description": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricação, biomas, conquistas, sobrevivência, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "ogDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "twitterDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas e dicas de sobrevivência para o sandbox de voxel surreal no Steam."
+      "title": "Wiki Zenith Inc - Códigos, Melhorias e Prestígio",
+      "description": "A Wiki Zenith Inc oferece códigos do Roblox, guias de melhorias, dicas de progressão de torres, estratégias de prestígio e informações completas de gameplay para jogadores do Simulador Incremental.",
+      "keywords": "Zenith Inc, Roblox, Códigos, Simulador Incremental, Torre, Prestígio",
+      "ogTitle": "Wiki Zenith Inc - Códigos, Melhorias e Prestígio",
+      "ogDescription": "A Wiki Zenith Inc oferece códigos do Roblox, guias de melhorias, dicas de progressão de torres, estratégias de prestígio e informações completas de gameplay para jogadores do Simulador Incremental.",
+      "twitterTitle": "Wiki Zenith Inc - Códigos, Melhorias e Prestígio",
+      "twitterDescription": "A Wiki Zenith Inc cobre códigos do Roblox, melhorias, progressão de torres, prestígio e guias de moedas para o Simulador Incremental."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Artigos em breve"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de Sobrevivência Voxel",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore biomas oníricos, combine itens com Apotheosis, construa livremente e sobreviva a criaturas estranhas neste sandbox surreal de mundo aberto no Steam.",
-    "getFreeCodesCTA": "Explore o Guia de Criação",
-    "playOnSteamCTA": "Jogue no Steam",
+    "badge": "Simulador de Torre Incremental no Roblox",
+    "title": "Wiki Zenith Inc",
+    "description": "Wiki completa do Zenith Inc cobrindo progressão de torres, melhorias, moedas, mecânicas de prestígio, sistemas de automação e códigos grátis para jogadores do Roblox.",
+    "getFreeCodesCTA": "Pegar Códigos Grátis",
+    "playOnRobloxCTA": "Jogar no Roblox",
     "stats": {
       "stat1": {
-        "value": "1.325",
-        "label": "Jogadores Online"
+        "value": "Incremental",
+        "label": "Simulador de Torre"
       },
       "stat2": {
-        "value": "1.986",
-        "label": "Pico de CCU"
+        "value": "Multinível",
+        "label": "Sistemas de Moeda"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Avaliações Positivas"
+        "value": "Ativos",
+        "label": "Códigos de Resgate"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Data de Lançamento"
+        "value": "Semanal",
+        "label": "Atualizações de Conteúdo"
       }
     }
   },
@@ -785,26 +785,24 @@
     ]
   },
   "cta": {
-    "title": "Pronto para explorar Lucid Blocks?",
-    "description": "Junte-se à comunidade de Lucid Blocks no Discord para guias, atualizações e discussões!",
-    "joinCommunity": "Entrar no Discord",
-    "joinGame": "Jogue no Steam"
+    "title": "Pronto para Escalar a Torre no Zenith Inc?",
+    "description": "Comece sua jornada no Zenith Inc no Roblox. Resgate códigos, otimize melhorias e faça prestígio para crescimento infinito!",
+    "joinCommunity": "Assistir Gameplay",
+    "joinGame": "Jogar no Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Seu centro de recursos completo para crafting, biomas, criaturas, conquistas e guias de sobrevivência de Lucid Blocks.",
+    "title": "Wiki Zenith Inc",
+    "description": "Seu hub completo de recursos para códigos do Zenith Inc, melhorias, progressão de torres, estratégias de prestígio e guias de moedas no Roblox.",
     "resources": "Recursos",
     "community": "Comunidade",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidade Steam",
-    "steamStore": "Loja Steam",
+    "roblox": "Jogar no Roblox",
+    "youtube": "Vídeo de Gameplay",
     "about": "Sobre",
     "privacy": "Política de Privacidade",
     "terms": "Termos de Serviço",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Wiki de Lucid Blocks. Não afiliada aos desenvolvedores de Lucid Blocks.",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Wiki Zenith Inc. Não afiliada aos desenvolvedores de Zenith Inc ou à Roblox Corporation.",
     "disclaimer": "Site de recursos não oficial feito por fãs."
   },
   "pages": {

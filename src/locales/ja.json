@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "description": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, クラフト, バイオーム, 実績, サバイバル, Steam",
-      "ogTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "ogDescription": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "twitterTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "twitterDescription": "Lucid Blocks Wikiでは、Steamの超現実的なボクセルサンドボックスにおけるクラフト、バイオーム、クリーチャー、アイテム、実績、サバイバルのヒントを網羅しています。"
+      "title": "Zenith Inc Wiki - コード、アップグレード、プレステージ",
+      "description": "Zenith Inc Wikiは、Robloxのコード、アップグレードガイド、タワー進行のコツ、プレステージ戦略、インクリメンタルシミュレータープレイヤー向けの完全なゲームプレイ情報を提供します。",
+      "keywords": "Zenith Inc, Roblox, コード, インクリメンタルシミュレーター, タワー, プレステージ",
+      "ogTitle": "Zenith Inc Wiki - コード、アップグレード、プレステージ",
+      "ogDescription": "Zenith Inc Wikiは、Robloxのコード、アップグレードガイド、タワー進行のコツ、プレステージ戦略、インクリメンタルシミュレータープレイヤー向けの完全なゲームプレイ情報を提供します。",
+      "twitterTitle": "Zenith Inc Wiki - コード、アップグレード、プレステージ",
+      "twitterDescription": "Zenith Inc Wikiは、Robloxのコード、アップグレード、タワー進行、プレステージ、通貨ガイドをインクリメンタルシミュレーター向けに網羅しています。"
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "記事は近日公開予定です"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ ボクセル・サバイバル・サンドボックス",
-    "title": "Lucid Blocks Wiki",
-    "description": "夢のようなバイオームを探索し、Apotheosisでアイテムを融合、自由に建築を楽しみましょう。Steamで繰り広げられるこのシュールなオープンワールド・サンドボックスで、奇妙なクリーチャーから生き延びてください。",
-    "getFreeCodesCTA": "クラフトガイドを見る",
-    "playOnSteamCTA": "Steamでプレイ",
+    "badge": "Robloxのインクリメンタルタワーシミュレーター",
+    "title": "Zenith Inc Wiki",
+    "description": "タワー進行、アップグレード、通貨、プレステージ仕組み、自動化システム、無料コードを網羅したZenith Incの完全Wiki。Robloxプレイヤー向け。",
+    "getFreeCodesCTA": "無料コードを入手",
+    "playOnRobloxCTA": "Robloxでプレイ",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "オンラインプレイヤー"
+        "value": "インクリメンタル",
+        "label": "タワーシミュレーター"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "最大同時接続数"
+        "value": "多重システム",
+        "label": "通貨システム"
       },
       "stat3": {
-        "value": "97%",
-        "label": "好評"
+        "value": "配信中",
+        "label": "引き換えコード"
       },
       "stat4": {
-        "value": "2026年3月12日",
-        "label": "リリース日"
+        "value": "毎週",
+        "label": "コンテンツ更新"
       }
     }
   },
@@ -785,26 +785,24 @@
     ]
   },
   "cta": {
-    "title": "Lucid Blocksを探索する準備はできましたか？",
-    "description": "DiscordのLucid Blocksコミュニティに参加して、ガイドや最新情報、ディスカッションをチェックしましょう！",
-    "joinCommunity": "Discordに参加",
-    "joinGame": "Steamでプレイ"
+    "title": "Zenith Incでタワーを登る準備はできましたか？",
+    "description": "RobloxでZenith Incの旅を始めましょう。コードを引き換え、アップグレードを最適化し、無限の成長のためにプレステージしましょう！",
+    "joinCommunity": "ゲームプレイを見る",
+    "joinGame": "Robloxでプレイ"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocksのクラフト、バイオーム、クリーチャー、実績、サバイバルガイドに関する完全なリソースハブです。",
+    "title": "Zenith Inc Wiki",
+    "description": "RobloxのZenith Incのコード、アップグレード、タワー進行、プレステージ戦略、通貨ガイドを網羅した総合リソースハブです。",
     "resources": "リソース",
     "community": "コミュニティ",
     "legal": "法的情報",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam コミュニティ",
-    "steamStore": "Steam ストア",
-    "about": "このサイトについて",
+    "roblox": "Robloxでプレイ",
+    "youtube": "ゲームプレイ動画",
+    "about": "概要",
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "copyrightNotice": "著作権",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocksの開発元とは提携していません。",
+    "copyright": "© 2026 Zenith Inc Wiki. Zenith Incの開発元およびRoblox Corporationとは提携していません。",
     "disclaimer": "非公式のファン作成リソースサイトです。"
   },
   "pages": {

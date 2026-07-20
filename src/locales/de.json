@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "Zenith Inc Wiki - Codes, Upgrades & Prestige",
+      "description": "Das Zenith Inc Wiki bietet Roblox-Codes, Upgrade-Guides, Turm-Fortschritts-Tipps, Prestige-Strategien und vollständige Gameplay-Informationen für Inkremental-Simulator-Spieler.",
+      "keywords": "Zenith Inc, Roblox, Codes, Inkremental-Simulator, Turm, Prestige",
+      "ogTitle": "Zenith Inc Wiki - Codes, Upgrades & Prestige",
+      "ogDescription": "Das Zenith Inc Wiki bietet Roblox-Codes, Upgrade-Guides, Turm-Fortschritts-Tipps, Prestige-Strategien und vollständige Gameplay-Informationen für Inkremental-Simulator-Spieler.",
+      "twitterTitle": "Zenith Inc Wiki - Codes, Upgrades & Prestige",
+      "twitterDescription": "Das Zenith Inc Wiki deckt Roblox-Codes, Upgrades, Turm-Fortschritt, Prestige und Währungs-Guides für den Inkremental-Simulator ab."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Artikel folgen bald"
   },
   "hero": {
-    "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
-    "getFreeCodesCTA": "Demo herunterladen",
-    "playOnSteamCTA": "Auf die Wunschliste bei Steam",
+    "badge": "Roblox Incremental Tower Simulator",
+    "title": "Zenith Inc Wiki",
+    "description": "Komplettes Zenith Inc Wiki zu Turm-Fortschritt, Upgrades, Währungen, Prestige-Mechaniken, Automatisierungssystemen und kostenlosen Codes für Roblox-Spieler.",
+    "getFreeCodesCTA": "Kostenlose Codes holen",
+    "playOnRobloxCTA": "Auf Roblox spielen",
     "stats": {
       "stat1": {
-        "value": "15.000",
-        "label": "Gleichzeitige Spieler (Demo)"
+        "value": "Incremental",
+        "label": "Turm-Simulator"
       },
       "stat2": {
-        "value": "6",
-        "label": "Koop-Spieler"
+        "value": "Mehrschichtig",
+        "label": "Währungssysteme"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo-Veröffentlichung"
+        "value": "Aktiv",
+        "label": "Einlöse-Codes"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plattform"
+        "value": "Wöchentlich",
+        "label": "Inhalts-Updates"
       }
     }
   },
@@ -606,32 +606,6 @@
         }
       ]
     },
-    "community": {
-      "title": "Lucid Blocks Community & Discord",
-      "subtitle": "Finde Trupps, Updates, Diskussionen",
-      "links": [
-        {
-          "title": "Offizieller Discord",
-          "subtitle": "Ankündigungen • Feedback • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
-        },
-        {
-          "title": "Offizielles X (Twitter)",
-          "subtitle": "Updates & Entwicklerbeiträge",
-          "url": "https://x.com/lucidblocks"
-        },
-        {
-          "title": "Steam Community Hub",
-          "subtitle": "Diskussionen • Screenshots • Leitfäden",
-          "url": "https://steamcommunity.com/app/3495730"
-        },
-        {
-          "title": "Steam Store Seite",
-          "subtitle": "Wunschliste • Demo • Offizielle Beschreibung",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
-        }
-      ]
-    },
     "modsBepInEx": {
       "title": "Lucid Blocks Mods & BepInEx Setup",
       "subtitle": "Installiere Mods auf saubere Weise",
@@ -819,26 +793,24 @@
     ]
   },
   "cta": {
-    "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
-    "joinCommunity": "Discord beitreten",
-    "joinGame": "Demo auf Steam herunterladen"
+    "title": "Bereit, den Turm in Zenith Inc zu erklimmen?",
+    "description": "Starte deine Zenith Inc-Reise auf Roblox. Löse Codes ein, optimiere Upgrades und prestige für unendliches Wachstum!",
+    "joinCommunity": "Gameplay ansehen",
+    "joinGame": "Auf Roblox spielen"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "Zenith Inc Wiki",
+    "description": "Dein umfassendes Ressourcen-Center für Zenith Inc Codes, Upgrades, Turm-Fortschritt, Prestige-Strategien und Währungs-Guides auf Roblox.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Auf Roblox spielen",
+    "youtube": "Gameplay-Video",
     "about": "Über uns",
     "privacy": "Datenschutzrichtlinie",
     "terms": "Nutzungsbedingungen",
     "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
+    "copyright": "© 2026 Zenith Inc Wiki. Nicht mit den Entwicklern von Zenith Inc oder der Roblox Corporation verbunden.",
     "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
   },
   "pages": {

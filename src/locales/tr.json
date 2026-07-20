@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "description": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları, kontroller, modlar ve topluluk bağlantıları edinin.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, demo indirme, başlangıç rehberi, işbirliği rehberi, üretim, ekipman, modlar, BepInEx, Steam oyunu, gizli oyun",
-      "ogTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "ogDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları ve modlar edinin.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "twitterDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri ve üretim ipuçları edinin."
+      "title": "Zenith Inc Wiki - Kodlar, Yükseltmeler ve Prestij",
+      "description": "Zenith Inc Wiki, Artan Simülatör oyuncuları için Roblox kodları, yükseltme rehberleri, kule ilerlemesi ipuçları, prestij stratejileri ve eksiksiz oynanış bilgileri sağlar.",
+      "keywords": "Zenith Inc, Roblox, Kodlar, Artan Simülatör, Kule, Prestij",
+      "ogTitle": "Zenith Inc Wiki - Kodlar, Yükseltmeler ve Prestij",
+      "ogDescription": "Zenith Inc Wiki, Artan Simülatör oyuncuları için Roblox kodları, yükseltme rehberleri, kule ilerlemesi ipuçları, prestij stratejileri ve eksiksiz oynanış bilgileri sağlar.",
+      "twitterTitle": "Zenith Inc Wiki - Kodlar, Yükseltmeler ve Prestij",
+      "twitterDescription": "Zenith Inc Wiki, Artan Simülatör için Roblox kodlarını, yükseltmeleri, kule ilerlemesini, prestiji ve para birimi rehberlerini kapsar."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Makaleler yakında"
   },
   "hero": {
-    "badge": "Ufak cüceler. Büyük evler. Arkadaşlarla gizli soygunlar.",
-    "title": "Lucid Blocks wiki",
-    "description": "Lucid Blocks için merkeziniz: soygunlar nasıl işliyor, Yüksek Cüce işleri, üretim & geliştirmeler, düşmanlar, kontroller ve her koşuda hayatta kalmanın en hızlı yolları.",
-    "getFreeCodesCTA": "Demo İndir",
-    "playOnSteamCTA": "Steam'de İstek Listesine Ekle",
+    "badge": "Roblox Artan Kule Simülatörü",
+    "title": "Zenith Inc Wiki",
+    "description": "Kule ilerlemesi, yükseltmeleri, para birimleri, prestij mekanikleri, otomasyon sistemleri ve Roblox oyuncuları için ücretsiz kodları kapsayan kapsamlı Zenith Inc Wiki.",
+    "getFreeCodesCTA": "Ücretsiz Kodları Al",
+    "playOnRobloxCTA": "Roblox'ta Oyna",
     "stats": {
       "stat1": {
-        "value": "15B",
-        "label": "En Yüksek Eş Zamanlı Kullanıcı (Demo)"
+        "value": "Artan",
+        "label": "Kule Simülatörü"
       },
       "stat2": {
-        "value": "6",
-        "label": "İşbirliği Oyuncusu"
+        "value": "Çok Katmanlı",
+        "label": "Para Birimi Sistemleri"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo Yayın Tarihi"
+        "value": "Aktif",
+        "label": "Kullanım Kodları"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Platform"
+        "value": "Haftalık",
+        "label": "İçerik Güncellemeleri"
       }
     }
   },
@@ -606,32 +606,6 @@
         }
       ]
     },
-    "community": {
-      "title": "Lucid Blocks Topluluk & Discord",
-      "subtitle": "Kadrolar, güncellemeler, tartışmalar bulun",
-      "links": [
-        {
-          "title": "Resmi Discord",
-          "subtitle": "Duyurular • Geri Bildirim • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
-        },
-        {
-          "title": "Resmi X (Twitter)",
-          "subtitle": "Güncellemeler & geliştirici gönderileri",
-          "url": "https://x.com/lucidblocks"
-        },
-        {
-          "title": "Steam Topluluk Merkezi",
-          "subtitle": "Tartışmalar • Ekran Görüntüleri • Rehberler",
-          "url": "https://steamcommunity.com/app/3495730"
-        },
-        {
-          "title": "Steam Mağaza Sayfası",
-          "subtitle": "İstek Listesi • Demo • Resmi açıklama",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
-        }
-      ]
-    },
     "modsBepInEx": {
       "title": "Lucid Blocks Modlar & BepInEx Kurulumu",
       "subtitle": "Modları temiz bir şekilde kurun",
@@ -819,26 +793,24 @@
     ]
   },
   "cta": {
-    "title": "Soygun Yapmaya Hazır mısınız?",
-    "description": "İşbirliği grupları, güncellemeler ve mod tartışmaları için Discord'da Lucid Blocks topluluğuna katılın!",
-    "joinCommunity": "Discord'a Katıl",
-    "joinGame": "Steam'de Demo Al"
+    "title": "Zenith Inc'de Kuleye Tırmanmaya Hazır mısın?",
+    "description": "Roblox'ta Zenith Inc yolculuğuna başla. Kodları kullan, yükseltmeleri optimize et ve sonsuz büyüme için prestij yap!",
+    "joinCommunity": "Oynanışı İzle",
+    "joinGame": "Roblox'ta Oyna"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocks gizli soygunları, işbirliği stratejileri, modlar ve topluluk rehberleri için eksiksiz kaynak merkeziniz.",
+    "title": "Zenith Inc Wiki",
+    "description": "Roblox'ta Zenith Inc kodları, yükseltmeleri, kule ilerlemesi, prestij stratejileri ve para birimi rehberleri için kapsamlı kaynak merkeziniz.",
     "resources": "Kaynaklar",
     "community": "Topluluk",
     "legal": "Yasal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Topluluğu",
-    "steamStore": "Steam Mağazası",
+    "roblox": "Roblox'ta Oyna",
+    "youtube": "Oynanış Videosu",
     "about": "Hakkında",
     "privacy": "Gizlilik Politikası",
     "terms": "Hizmet Şartları",
     "copyrightNotice": "Telif Hakkı",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocks geliştiricileriyle bağlantılı değildir.",
+    "copyright": "© 2026 Zenith Inc Wiki. Zenith Inc veya Roblox Corporation geliştiricileriyle bağlantılı değildir.",
     "disclaimer": "Resmi olmayan hayran yapımı kaynak web sitesi."
   },
   "pages": {
