@@ -119,39 +119,39 @@
         {
           "code": "ZENITH",
           "reward": "Coins dan Gems Gratis",
-          "status": "Aktif"
+          "status": "Active"
         },
         {
           "code": "RELEASE",
           "reward": "Boost Mata Uang Awal",
-          "status": "Aktif"
+          "status": "Active"
         },
         {
           "code": "TOWER",
           "reward": "Bonus Progresi Menara",
-          "status": "Aktif"
+          "status": "Active"
         },
         {
           "code": "UPDATE2",
           "reward": "Boost 2x Coins",
-          "status": "Aktif"
+          "status": "Active"
         },
         {
-          "code": "PANJAT",
+          "code": "CLIMB",
           "reward": "Hadiah Gems Gratis",
-          "status": "Aktif"
+          "status": "Active"
         },
         {
           "code": "PRESTIGE",
           "reward": "Bonus Progres Prestige",
-          "status": "Aktif"
+          "status": "Active"
         }
       ],
       "note": "Codes peka terhadap huruf besar-kecil. Buka menu penukaran code di dalam Zenith Inc, masukkan code yang aktif, dan konfirmasi untuk segera mengklaim hadiah Anda secara instan."
     },
     "zenithIncBeginnerGuide": {
       "title": "Panduan Pemula Zenith Inc",
-      "displayType": "langkah-demi-langkah",
+      "displayType": "step-by-step",
       "intro": "Pemain baru harus fokus membangun fondasi pendapatan yang kuat sebelum mendaki lantai menara yang lebih tinggi. Ikuti langkah-langkah pemula ini untuk memahami upgrade, otomatisasi, dan progres prestige di Zenith Inc.",
       "steps": [
         {
@@ -188,7 +188,7 @@
     },
     "zenithIncProgressionGuide": {
       "title": "Panduan Progres Zenith Inc",
-      "displayType": "daftar-kartu",
+      "displayType": "card-list",
       "intro": "Progres Zenith Inc bergantung pada peningkatan penghasilan sumber daya, pembukaan upgrade yang lebih kuat, dan penggunaan mekanik reset secara efisien. Sistem-sistem ini bekerja sama untuk membantu pemain mencapai level menara yang lebih tinggi.",
       "items": [
         {
@@ -293,7 +293,7 @@
     },
     "zenithIncTowerGuide": {
       "title": "Panduan Menara Zenith Inc",
-      "displayType": "daftar-kartu",
+      "displayType": "card-list",
       "intro": "Menara adalah jalur progres utama di Zenith Inc. Pemain mendaki lantai demi lantai dengan meningkatkan pendapatan, membuka peningkatan, dan mencapai pencapaian baru.",
       "floors": [
         {
@@ -324,7 +324,7 @@
     },
     "zenithIncTipsAndTricks": {
       "title": "Tips dan Trik Zenith Inc",
-      "displayType": "akordeon",
+      "displayType": "accordion",
       "intro": "Pilihan peningkatan yang cerdas dan manajemen sumber daya yang efisien sangat penting dalam game inkremental. Tips ini membantu pemain Zenith Inc menghindari progres yang lambat dan memaksimalkan pertumbuhan.",
       "tips": [
         {
@@ -355,7 +355,7 @@
     },
     "zenithIncUpdates": {
       "title": "Pembaruan Zenith Inc",
-      "displayType": "akordeon",
+      "displayType": "accordion",
       "intro": "Pelacak pembaruan ini menyusun perubahan penting Zenith Inc, termasuk peningkatan progres, konten menara baru, dan peningkatan kualitas hidup.",
       "updates": [
         {

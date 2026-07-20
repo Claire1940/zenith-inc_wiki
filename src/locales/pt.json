@@ -119,39 +119,39 @@
         {
           "code": "ZENITH",
           "reward": "Coins e Gems grátis",
-          "status": "Ativo"
+          "status": "Active"
         },
         {
           "code": "RELEASE",
           "reward": "Boost inicial de moedas",
-          "status": "Ativo"
+          "status": "Active"
         },
         {
           "code": "TOWER",
           "reward": "Bônus de Progressão da Torre",
-          "status": "Ativo"
+          "status": "Active"
         },
         {
           "code": "UPDATE2",
           "reward": "Boost de 2x Coins",
-          "status": "Ativo"
+          "status": "Active"
         },
         {
-          "code": "SUBIR",
+          "code": "CLIMB",
           "reward": "Recompensa de Gems Grátis",
-          "status": "Ativo"
+          "status": "Active"
         },
         {
           "code": "PRESTIGE",
           "reward": "Bônus de Progresso de Prestige",
-          "status": "Ativo"
+          "status": "Active"
         }
       ],
       "note": "Os Codes diferenciam maiúsculas de minúsculas. Abra o menu de resgate de codes dentro do Zenith Inc, insira um code ativo e confirme para resgatar suas recompensas instantaneamente."
     },
     "zenithIncBeginnerGuide": {
       "title": "Guia de Iniciante do Zenith Inc",
-      "displayType": "passo a passo",
+      "displayType": "step-by-step",
       "intro": "Novos jogadores devem focar em construir uma base sólida de renda antes de avançar para andares mais altos da torre. Siga estes passos de iniciante para entender os upgrades, a automação e a progressão de Prestige no Zenith Inc.",
       "steps": [
         {
@@ -188,7 +188,7 @@
     },
     "zenithIncProgressionGuide": {
       "title": "Guia de Progressão do Zenith Inc",
-      "displayType": "lista de cards",
+      "displayType": "card-list",
       "intro": "A progressão no Zenith Inc depende da melhoria da geração de recursos, do desbloqueio de upgrades mais fortes e do uso eficiente das mecânicas de reset. Esses sistemas trabalham juntos para ajudar os jogadores a alcançar níveis de torre mais altos.",
       "items": [
         {

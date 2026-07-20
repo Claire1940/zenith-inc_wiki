@@ -119,39 +119,39 @@
         {
           "code": "ZENITH",
           "reward": "Coins y Gems gratis",
-          "status": "Activo"
+          "status": "Active"
         },
         {
           "code": "RELEASE",
           "reward": "Potenciador de moneda inicial",
-          "status": "Activo"
+          "status": "Active"
         },
         {
           "code": "TOWER",
           "reward": "Bonificación de progresión de la torre",
-          "status": "Activo"
+          "status": "Active"
         },
         {
-          "code": "ACTUALIZACIÓN2",
+          "code": "UPDATE2",
           "reward": "Potenciador de 2x Coins",
-          "status": "Activo"
+          "status": "Active"
         },
         {
-          "code": "SUBIR",
+          "code": "CLIMB",
           "reward": "Recompensa de Gems gratis",
-          "status": "Activo"
+          "status": "Active"
         },
         {
           "code": "PRESTIGE",
           "reward": "Bono de progreso de Prestige",
-          "status": "Activo"
+          "status": "Active"
         }
       ],
       "note": "Los Codes distinguen entre mayúsculas y minúsculas. Abre el menú de canje de Codes dentro de Zenith Inc, introduce un Code activo y confirma para reclamar tus recompensas al instante."
     },
     "zenithIncBeginnerGuide": {
       "title": "Guía para principiantes de Zenith Inc",
-      "displayType": "paso a paso",
+      "displayType": "step-by-step",
       "intro": "Los nuevos jugadores deben centrarse en construir una base sólida de ingresos antes de intentar alcanzar pisos más altos de la torre. Sigue estos pasos para principiantes para entender las mejoras, la automatización y la progresión de Prestige en Zenith Inc.",
       "steps": [
         {
@@ -293,7 +293,7 @@
     },
     "zenithIncTowerGuide": {
       "title": "Guía de la Torre de Zenith Inc",
-      "displayType": "lista-de-tarjetas",
+      "displayType": "card-list",
       "intro": "La torre es la ruta de progresión principal en Zenith Inc. Los jugadores suben pisos mejorando los ingresos, desbloqueando mejoras y alcanzando nuevos hitos.",
       "floors": [
         {
@@ -324,7 +324,7 @@
     },
     "zenithIncTipsAndTricks": {
       "title": "Consejos y trucos de Zenith Inc",
-      "displayType": "acordeón",
+      "displayType": "accordion",
       "intro": "Las elecciones de mejora inteligentes y la gestión eficiente de recursos son importantes en los juegos incrementales. Estos consejos ayudan a los jugadores de Zenith Inc a evitar una progresión lenta y a maximizar el crecimiento.",
       "tips": [
         {
@@ -355,7 +355,7 @@
     },
     "zenithIncUpdates": {
       "title": "Actualizaciones de Zenith Inc",
-      "displayType": "acordeón",
+      "displayType": "accordion",
       "intro": "Este rastreador de actualizaciones organiza cambios importantes de Zenith Inc, incluyendo mejoras de progresión, nuevo contenido de la torre y mejoras de calidad de vida.",
       "updates": [
         {
