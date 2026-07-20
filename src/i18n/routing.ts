@@ -1,8 +1,8 @@
 import { defineRouting } from 'next-intl/routing'
 
 export const routing = defineRouting({
-	// 支持的语言列表
-	locales: ['en', 'ru', 'pt', 'de', 'es', 'ja', 'tr', 'fr'],
+	// 支持的语言列表（依据 0_meta/zenith-inc_wiki/languages.json，按 priority 排序）
+	locales: ['en', 'pt', 'es', 'id'],
 
 	// 默认语言
 	defaultLocale: 'en',
