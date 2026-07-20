@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Zenith Inc Wiki - Codes, Tower Progression & Upgrades",
+  "short_name": "Zenith Inc",
+  "description": "Zenith Inc Wiki covers codes, tower progression, upgrades, currencies, prestige mechanics, automation systems, and tips for the Roblox incremental tower simulator.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#3c71dd",
+  "background_color": "#0a0f1f",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
