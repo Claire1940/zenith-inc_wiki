@@ -1,1 +1,582 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Zenith Inc Wiki - Codes, Upgrade & Prestige",
+      "description": "Zenith Inc Wiki menyediakan Roblox Codes, panduan upgrade, tips progresi menara, strategi Prestige, dan informasi gameplay lengkap untuk pemain Incremental Simulator.",
+      "keywords": "Zenith Inc, Roblox, Codes, Incremental Simulator, Menara, Prestige",
+      "ogTitle": "Zenith Inc Wiki - Codes, Upgrade & Prestige",
+      "ogDescription": "Zenith Inc Wiki menyediakan Roblox Codes, panduan upgrade, tips progresi menara, strategi Prestige, dan informasi gameplay lengkap untuk pemain Incremental Simulator.",
+      "twitterTitle": "Zenith Inc Wiki - Codes, Upgrade & Prestige",
+      "twitterDescription": "Zenith Inc Wiki membahas Roblox Codes, upgrade, progresi menara, Prestige, dan panduan mata uang untuk Incremental Simulator."
+    }
+  },
+  "nav": {
+    "guide": "Panduan",
+    "codes": "Codes",
+    "tier-list": "Tier List",
+    "upgrades": "Upgrade",
+    "currency": "Mata Uang",
+    "tower": "Menara",
+    "updates": "Pembaruan"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel segera hadir"
+  },
+  "hero": {
+    "badge": "Simulator Menara Inkremental Roblox",
+    "title": "Zenith Inc Wiki",
+    "description": "Wiki Zenith Inc Lengkap yang membahas progresi menara, upgrade, mata uang, mekanik Prestige, sistem otomatisasi, dan Codes gratis untuk pemain Roblox.",
+    "getFreeCodesCTA": "Dapatkan Codes Gratis",
+    "playOnRobloxCTA": "Mainkan di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "Inkremental",
+        "label": "Simulator Menara"
+      },
+      "stat2": {
+        "value": "Multi-lapis",
+        "label": "Sistem Mata Uang"
+      },
+      "stat3": {
+        "value": "Aktif",
+        "label": "Tukarkan Codes"
+      },
+      "stat4": {
+        "value": "Mingguan",
+        "label": "Pembaruan Konten"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Zenith Inc Gameplay",
+    "description": "Daki menara tanpa akhir, tumpuk upgrade, otomatisasi pendapatan, dan lakukan Prestige untuk pertumbuhan permanen dalam simulator menara inkremental Roblox ini."
+  },
+  "tools": {
+    "title": "Zenith Inc",
+    "titleHighlight": "Sumber Daya",
+    "subtitle": "Semua yang kamu butuhkan untuk mendaki menara, mengoptimalkan upgrade, dan melakukan Prestige lebih cepat di Zenith Inc",
+    "cards": [
+      {
+        "icon": "Hadiah",
+        "title": "Tukar Codes",
+        "description": "Codes aktif untuk Coins, Gems, dan boost gratis"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Panduan Pemula",
+        "description": "Langkah pertama, dasar-dasar pendapatan, dan progresi awal"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Panduan Progresi",
+        "description": "Otomatisasi, pengganda, Prestige, dan Ascension"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Panduan Upgrade",
+        "description": "Prioritas upgrade terbaik dan peringkat tier"
+      },
+      {
+        "icon": "Gem",
+        "title": "Panduan Mata Uang",
+        "description": "Coins, Gems, prestige points, dan cara mendapatkannya"
+      },
+      {
+        "icon": "Layers",
+        "title": "Panduan Menara",
+        "description": "Pencapaian lantai, syarat pembukaan, dan tips mendaki"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Tips dan Trik",
+        "description": "Strategi efisiensi dan kesalahan umum yang harus dihindari"
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Pembaruan",
+        "description": "Rilis konten terbaru, perubahan keseimbangan, dan Codes baru"
+      }
+    ]
+  },
+  "modules": {
+    "zenithIncCodes": {
+      "title": "Codes Zenith Inc",
+      "displayType": "code-cards",
+      "intro": "Tukar Codes membantu pemain Zenith Inc mendapatkan sumber daya tambahan selama perjalanan progresi mereka. Gunakan Codes aktif ini untuk menerima bonus mata uang, boost sementara, dan item bermanfaat yang mendukung upgrade dan pendakian menara.",
+      "codes": [
+        {
+          "code": "ZENITH",
+          "reward": "Coins dan Gems Gratis",
+          "status": "Aktif"
+        },
+        {
+          "code": "RELEASE",
+          "reward": "Boost Mata Uang Awal",
+          "status": "Aktif"
+        },
+        {
+          "code": "TOWER",
+          "reward": "Bonus Progresi Menara",
+          "status": "Aktif"
+        },
+        {
+          "code": "UPDATE2",
+          "reward": "Boost 2x Coins",
+          "status": "Aktif"
+        },
+        {
+          "code": "PANJAT",
+          "reward": "Hadiah Gems Gratis",
+          "status": "Aktif"
+        },
+        {
+          "code": "PRESTIGE",
+          "reward": "Bonus Progres Prestige",
+          "status": "Aktif"
+        }
+      ],
+      "note": "Codes peka terhadap huruf besar-kecil. Buka menu penukaran code di dalam Zenith Inc, masukkan code yang aktif, dan konfirmasi untuk segera mengklaim hadiah Anda secara instan."
+    },
+    "zenithIncBeginnerGuide": {
+      "title": "Panduan Pemula Zenith Inc",
+      "displayType": "langkah-demi-langkah",
+      "intro": "Pemain baru harus fokus membangun fondasi pendapatan yang kuat sebelum mendaki lantai menara yang lebih tinggi. Ikuti langkah-langkah pemula ini untuk memahami upgrade, otomatisasi, dan progres prestige di Zenith Inc.",
+      "steps": [
+        {
+          "title": "Dapatkan Coins Pertama Anda",
+          "description": "Mulailah dengan mengumpulkan pendapatan dasar melalui gameplay aktif dan progres menara awal. Gunakan Coins pertama Anda untuk membuka potensi penghasilan yang lebih kuat."
+        },
+        {
+          "title": "Beli Upgrade Pertama Anda",
+          "description": "Upgrade Click Power dan sistem terkait pendapatan terlebih dahulu untuk meningkatkan kecepatan pengumpulan sumber daya dan progres."
+        },
+        {
+          "title": "Buka Pendapatan Otomatis",
+          "description": "Berinvestasi dalam upgrade otomatisasi untuk menghasilkan sumber daya secara otomatis saat bermain atau saat sedang tidak bermain."
+        },
+        {
+          "title": "Panjat Lantai Menara Pertama Anda",
+          "description": "Gunakan pendapatan dan upgrade yang ditingkatkan untuk membuka lantai yang lebih tinggi dan mencapai pencapaian progres baru."
+        },
+        {
+          "title": "Selesaikan Prestige Pertama Anda",
+          "description": "Reset progres melalui Prestige saat tersedia untuk mendapatkan bonus permanen dan mempercepat pertumbuhan di masa depan."
+        },
+        {
+          "title": "Pantau Acara dan Update",
+          "description": "Ikuti update resmi Roblox dan sistem hadiah untuk menemukan codes, acara, dan bonus progres baru."
+        }
+      ],
+      "quickTips": [
+        "Gunakan Coins pertama Anda untuk upgrade pendapatan sebelum hal lainnya.",
+        "Buka otomatisasi sedini mungkin agar tetap menghasilkan saat sedang tidak bermain.",
+        "Lakukan Prestige saat progres melambat untuk mendapatkan bonus permanen.",
+        "Tukarkan codes baru secara teratur untuk mendapatkan sumber daya dan boost gratis."
+      ]
+    },
+    "zenithIncProgressionGuide": {
+      "title": "Panduan Progres Zenith Inc",
+      "displayType": "daftar-kartu",
+      "intro": "Progres Zenith Inc bergantung pada peningkatan penghasilan sumber daya, pembukaan upgrade yang lebih kuat, dan penggunaan mekanik reset secara efisien. Sistem-sistem ini bekerja sama untuk membantu pemain mencapai level menara yang lebih tinggi.",
+      "items": [
+        {
+          "title": "Otomatisasi",
+          "description": "Buka sistem pendapatan otomatis yang menghasilkan Coins seiring waktu dan mengurangi kebutuhan untuk mengklik terus-menerus."
+        },
+        {
+          "title": "Prestige",
+          "description": "Reset progres tertentu untuk mendapatkan Prestige Points dan bonus permanen yang meningkatkan sesi permainan selanjutnya."
+        },
+        {
+          "title": "Multiplier",
+          "description": "Tingkatkan efisiensi penghasilan secara keseluruhan melalui upgrade multiplier yang meningkatkan produksi sumber daya."
+        },
+        {
+          "title": "Rebirth",
+          "description": "Gunakan mekanik reset tingkat lanjut untuk menukar kemajuan dengan peningkatan permanen yang lebih kuat."
+        },
+        {
+          "title": "Ascension",
+          "description": "Capai tahap kemajuan yang lebih tinggi yang membuka bonus kuat dan sistem gameplay tingkat lanjut."
+        },
+        {
+          "title": "Lantai Lebih Tinggi",
+          "description": "Dorong kemajuan menara ke depan untuk mengakses pencapaian baru, hadiah, dan peluang peningkatan yang lebih kuat."
+        }
+      ]
+    },
+    "zenithIncUpgradeGuide": {
+      "title": "Panduan Upgrade Zenith Inc",
+      "displayType": "tier-grid",
+      "intro": "Memilih urutan upgrade yang tepat membantu pemain memaksimalkan pendapatan dan mencapai lantai menara yang lebih tinggi dengan lebih cepat. Fokus pada sistem yang meningkatkan penghasilan sumber daya jangka panjang sebelum peningkatan kosmetik atau minor.",
+      "tiers": [
+        {
+          "title": "Pendapatan Otomatis",
+          "tier": "S",
+          "description": "Menyediakan penghasilan sumber daya yang berkelanjutan dan meningkatkan efisiensi kemajuan AFK."
+        },
+        {
+          "title": "Pengali",
+          "tier": "S",
+          "description": "Meningkatkan total pendapatan dan meningkatkan efektivitas setiap sumber pendapatan lainnya."
+        },
+        {
+          "title": "Kekuatan Klik",
+          "tier": "A",
+          "description": "Meningkatkan pendapatan gameplay aktif dan membantu kemajuan awal sebelum otomatisasi dikembangkan sepenuhnya."
+        },
+        {
+          "title": "Pendapatan Offline",
+          "tier": "A",
+          "description": "Meningkatkan kemajuan saat tidak memainkan game dan mendukung pertumbuhan jangka panjang."
+        },
+        {
+          "title": "Kapasitas",
+          "tier": "B",
+          "description": "Meningkatkan batas penyimpanan sumber daya dan mengurangi gangguan selama kemajuan."
+        },
+        {
+          "title": "Kecepatan",
+          "tier": "C",
+          "description": "Memberikan peningkatan efisiensi yang lebih kecil dibandingkan dengan upgrade pendapatan utama."
+        }
+      ]
+    },
+    "zenithIncCurrencyGuide": {
+      "title": "Panduan Mata Uang Zenith Inc",
+      "displayType": "table",
+      "intro": "Zenith Inc menggunakan beberapa mata uang untuk mendukung sistem kemajuan inkrementalnya. Memahami setiap sumber daya membantu pemain melakukan upgrade dengan efisien, membuka lantai yang lebih tinggi, dan memaksimalkan pertumbuhan jangka panjang.",
+      "currencies": [
+        {
+          "title": "Coins",
+          "earning": "Mengklik, pendapatan otomatis, kemajuan menara",
+          "usage": "Upgrade dasar seperti kekuatan klik, peningkatan pendapatan, dan peningkatan kapasitas"
+        },
+        {
+          "title": "Gems",
+          "earning": "Pencapaian, hadiah, aktivitas khusus",
+          "usage": "Upgrade yang kuat, peningkatan, dan opsi kemajuan eksklusif"
+        },
+        {
+          "title": "Poin Prestige",
+          "earning": "Reset Prestige",
+          "usage": "Membuka pengali yang lebih kuat dan meningkatkan kecepatan pertumbuhan di masa mendatang"
+        },
+        {
+          "title": "Token",
+          "earning": "Acara, pencapaian, tantangan pencapaian",
+          "usage": "Peningkatan terbatas dan hadiah bonus"
+        },
+        {
+          "title": "Kristal",
+          "earning": "Sistem progres tingkat lanjut",
+          "usage": "Peningkatan tingkat tinggi dan pembukaan spesial"
+        },
+        {
+          "title": "Uang",
+          "earning": "Aktivitas gameplay dan hadiah",
+          "usage": "Berbagai pembelian dan sistem peningkatan"
+        }
+      ]
+    },
+    "zenithIncTowerGuide": {
+      "title": "Panduan Menara Zenith Inc",
+      "displayType": "daftar-kartu",
+      "intro": "Menara adalah jalur progres utama di Zenith Inc. Pemain mendaki lantai demi lantai dengan meningkatkan pendapatan, membuka peningkatan, dan mencapai pencapaian baru.",
+      "floors": [
+        {
+          "title": "Lantai 1-10: Level Awal",
+          "description": "Lantai-lantai pertama memperkenalkan inti dari gameplay. Pemain mendapatkan Coins, membeli peningkatan dasar, dan mempelajari cara kerja klik serta pendapatan otomatis."
+        },
+        {
+          "title": "Pencapaian Lantai 50",
+          "description": "Membutuhkan peningkatan yang lebih kuat dan penghasilan pendapatan yang lebih baik. Mencapai pencapaian ini membuka akses ke peluang progres dan hadiah yang lebih lanjut."
+        },
+        {
+          "title": "Pencapaian Lantai 100",
+          "description": "Titik pemeriksaan progres utama yang membutuhkan peningkatan efisien dan penggunaan Prestige sejak dini. Hadiahnya termasuk peningkatan kecepatan progres dan akses ke tantangan yang lebih tinggi."
+        },
+        {
+          "title": "Pencapaian Lantai 500",
+          "description": "Tahap menara tingkat lanjut di mana otomatisasi dan pengganda menjadi sangat penting. Pemain membutuhkan build yang dioptimalkan untuk terus mendaki dengan efisien."
+        },
+        {
+          "title": "Pencapaian Lantai 1000",
+          "description": "Target progres late-game yang membutuhkan bonus Prestige yang kuat, sistem yang ditingkatkan, dan manajemen sumber daya jangka panjang."
+        },
+        {
+          "title": "Lantai Terakhir",
+          "description": "Pencapaian menara tertinggi yang tersedia yang merepresentasikan progres end-game. Pemain fokus pada peningkatan maksimal, efisiensi, dan konten mendatang."
+        }
+      ]
+    },
+    "zenithIncTipsAndTricks": {
+      "title": "Tips dan Trik Zenith Inc",
+      "displayType": "akordeon",
+      "intro": "Pilihan peningkatan yang cerdas dan manajemen sumber daya yang efisien sangat penting dalam game inkremental. Tips ini membantu pemain Zenith Inc menghindari progres yang lambat dan memaksimalkan pertumbuhan.",
+      "tips": [
+        {
+          "title": "Optimalkan Pendapatan AFK",
+          "description": "Tingkatkan sistem pendapatan otomatis sejak dini dan biarkan game tetap berjalan jika memungkinkan. Pendapatan AFK memberikan progres yang konsisten tanpa perlu mengklik terus-menerus."
+        },
+        {
+          "title": "Prioritaskan Peningkatan Penting",
+          "description": "Fokus pada peningkatan yang meningkatkan penghasilan pendapatan terlebih dahulu, terutama pengganda dan otomatisasi sebelum peningkatan kosmetik atau minor."
+        },
+        {
+          "title": "Pilih Waktu Prestige yang Tepat",
+          "description": "Lakukan Prestige saat progres melambat secara signifikan. Melakukan reset pada saat yang tepat memberikan bonus permanen yang mempercepat pendakian di masa depan."
+        },
+        {
+          "title": "Kelola Mata Uang dengan Hati-hati",
+          "description": "Hindari menghabiskan mata uang langka dengan segera. Simpan sumber daya berharga untuk peningkatan yang memberikan manfaat progres jangka panjang."
+        },
+        {
+          "title": "Selesaikan Hadiah Harian",
+          "description": "Periksa tugas harian yang tersedia dan sistem hadiah secara rutin untuk mengumpulkan sumber daya tambahan dan bonus progres."
+        },
+        {
+          "title": "Tukarkan Codes secara Teratur",
+          "description": "Pantau Codes Zenith Inc yang baru dan segera tukarkan untuk mendapatkan Coins, Gems, dan boost sementara secara gratis."
+        }
+      ]
+    },
+    "zenithIncUpdates": {
+      "title": "Pembaruan Zenith Inc",
+      "displayType": "akordeon",
+      "intro": "Pelacak pembaruan ini menyusun perubahan penting Zenith Inc, termasuk peningkatan progres, konten menara baru, dan peningkatan kualitas hidup.",
+      "updates": [
+        {
+          "title": "Rilis Peluncuran",
+          "description": "Rilis awal memperkenalkan pengalaman simulator inkremental inti dengan pemanjatan menara, mata uang, peningkatan, dan sistem progres."
+        },
+        {
+          "title": "Update 1.0",
+          "description": "Memperkenalkan peningkatan awal pada keseimbangan progres, opsi peningkatan tambahan, dan penyesuaian pada pengalaman pertumbuhan pemain."
+        },
+        {
+          "title": "Update 2.0",
+          "description": "Memperluas sistem progres dengan mekanik baru, peningkatan yang lebih kuat, dan konten tambahan untuk pemain tingkat lanjut."
+        },
+        {
+          "title": "Ekspansi Lantai Baru",
+          "description": "Menambahkan lebih banyak lantai menara dan pencapaian progres, memberikan target pemanjatan baru dan hadiah tambahan bagi pemain."
+        },
+        {
+          "title": "Peningkatan Sistem Prestige",
+          "description": "Meningkatkan mekanik Prestige dengan hadiah yang lebih baik, reset yang lebih lancar, dan opsi progres jangka panjang yang lebih kuat."
+        },
+        {
+          "title": "Peningkatan Kualitas Hidup",
+          "description": "Menambahkan peningkatan kegunaan, pembaruan antarmuka, dan penyesuaian gameplay untuk membuat progres menjadi lebih lancar."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering",
+    "titleHighlight": "Diajukan",
+    "subtitle": "Semua yang perlu kamu ketahui tentang Zenith Inc",
+    "questions": [
+      {
+        "question": "Apa itu Zenith Inc?",
+        "answer": "Zenith Inc adalah simulator menara inkremental Roblox tempat pemain memanjat menara tanpa akhir, meningkatkan sistem pendapatan, mengotomatiskan sumber daya, dan melakukan prestige untuk pertumbuhan permanen."
+      },
+      {
+        "question": "Di mana saya bisa memainkan Zenith Inc?",
+        "answer": "Zenith Inc tersedia di Roblox di seluruh platform web, seluler, dan konsol yang mendukung aplikasi Roblox."
+      },
+      {
+        "question": "Bagaimana cara menukarkan Codes Zenith Inc?",
+        "answer": "Buka menu penukaran Codes di dalam Zenith Inc, masukkan Codes yang aktif, dan konfirmasi untuk menerima Coins, Gems, dan boost gratis secara instan."
+      },
+      {
+        "question": "Apa itu Prestige di Zenith Inc?",
+        "answer": "Prestige adalah mekanik reset yang menukar progres saat ini dengan bonus permanen dan Prestige Points, mempercepat setiap pemanjatan di masa mendatang di Zenith Inc."
+      },
+      {
+        "question": "Bagaimana cara memanjat menara lebih cepat di Zenith Inc?",
+        "answer": "Fokus pada otomatisasi dan peningkatan pengganda terlebih dahulu, lakukan prestige saat progres melambat, dan tukarkan Codes Zenith Inc secara teratur untuk mendapatkan sumber daya dan boost gratis."
+      },
+      {
+        "question": "Apakah Zenith Inc menerima update?",
+        "answer": "Ya. Zenith Inc terus menerima update konten yang menambahkan lantai baru, peningkatan, sistem progres, dan Codes penukaran baru."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap Memanjat Menara di Zenith Inc?",
+    "description": "Mulailah perjalanan Zenith Inc kamu di Roblox. Tukarkan Codes, optimalkan peningkatan, dan lakukan prestige untuk pertumbuhan tanpa batas!",
+    "joinCommunity": "Tonton Gameplay",
+    "joinGame": "Mainkan di Roblox"
+  },
+  "footer": {
+    "title": "Wiki Zenith Inc",
+    "description": "Pusat sumber daya lengkap kamu untuk Codes Zenith Inc, peningkatan, progres menara, strategi prestige, dan panduan mata uang di Roblox.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Hukum",
+    "roblox": "Mainkan di Roblox",
+    "youtube": "Video Gameplay",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Zenith Inc Wiki. Tidak berafiliasi dengan pengembang Zenith Inc atau Roblox Corporation.",
+    "disclaimer": "Situs web sumber daya buatan penggemar yang tidak resmi."
+  },
+  "pages": {
+    "guide": {
+      "title": "Panduan Zenith Inc",
+      "description": "Panduan pemula Zenith Inc lengkap yang mencakup mekanik inti, jalur upgrade, progres menara, dan strategi awal permainan untuk pemain Roblox.",
+      "metaTitle": "Panduan Zenith Inc - Tips Pemula & Progres",
+      "metaDescription": "Kuasai Zenith Inc dengan panduan pemula lengkap kami. Pelajari mekanik inti, urutan upgrade, tips memanjat menara, dan strategi awal permainan.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa itu Panduan Zenith Inc?",
+      "whatIsDescription": "Panduan Zenith Inc memandu Anda melalui siklus gameplay inkremental inti — mendapatkan mata uang, membeli upgrade, memanjat menara, dan melakukan Prestige untuk pertumbuhan yang lebih cepat. Ini mencakup semua yang perlu dipahami oleh pemain baru tentang sistem permainan dan mulai berprogres secara efisien sejak hari pertama.",
+      "why": "Mengapa menggunakan panduan ini?",
+      "whySteps": {
+        "step1Title": "Pahami Mekanik Inti",
+        "step1Description": "Pelajari bagaimana pendapatan inkremental, upgrade, dan lapisan Prestige bekerja sama sehingga setiap keputusan mempercepat progres Anda.",
+        "step2Title": "Optimalkan Upgrade Awal",
+        "step2Description": "Ikuti urutan upgrade awal yang direkomendasikan untuk melipatgandakan pendapatan Anda dengan cepat daripada membuang-buang sumber daya.",
+        "step3Title": "Panjat Menara Lebih Cepat",
+        "step3Description": "Terapkan tips progres menara untuk melewati lantai secara efisien dan membuka lapisan konten berikutnya."
+      },
+      "featured": "Panduan Unggulan",
+      "all": "Semua Panduan"
+    },
+    "codes": {
+      "title": "Codes Zenith Inc",
+      "description": "Codes Zenith Inc terbaru yang masih berfungsi untuk mendapatkan Coins, Gems, boost, dan hadiah eksklusif gratis. Diperbarui secara berkala dengan Codes yang aktif.",
+      "metaTitle": "Codes Zenith Inc - Coins, Gems & Boost Gratis",
+      "metaDescription": "Tukarkan Codes Zenith Inc terbaru untuk mendapatkan Coins, Gems, boost, dan hadiah eksklusif gratis. Diperbarui secara berkala dengan Codes aktif yang masih berfungsi.",
+      "categoryLabel": "TUKARKAN CODES",
+      "whatIs": "Apa itu Codes Zenith Inc?",
+      "whatIsDescription": "Codes Zenith Inc adalah string penukaran gratis yang dirilis oleh pengembang yang memberikan bonus seperti Coins, Gems, boost, dan item eksklusif. Codes baru muncul bersamaan dengan pembaruan, pencapaian, dan acara komunitas, memberikan pemain aliran sumber daya gratis secara rutin untuk mempercepat pendakian menara mereka.",
+      "why": "Mengapa menukarkan Codes?",
+      "whySteps": {
+        "step1Title": "Sumber Daya Gratis Secara Instan",
+        "step1Description": "Setiap Code aktif memberikan Coins, Gems, atau boost saat Anda menukarkannya — keuntungan awal gratis tanpa perlu grinding.",
+        "step2Title": "Tetap Ikuti Pembaruan Terbaru",
+        "step2Description": "Codes terikat dengan pembaruan dan acara, sehingga menukarkannya membuat Anda tetap sinkron dengan hadiah terbaru.",
+        "step3Title": "Tingkatkan Progres Awal",
+        "step3Description": "Boost dan mata uang yang ditukarkan membantu akun baru melewati lantai menara awal dengan jauh lebih cepat."
+      },
+      "featured": "Codes Unggulan",
+      "all": "Semua Codes"
+    },
+    "tier-list": {
+      "title": "Tier List Zenith Inc",
+      "description": "Tier List Zenith Inc yang memberi peringkat upgrade, strategi, dan loadout terbaik untuk kecepatan dan efisiensi progres maksimal.",
+      "metaTitle": "Tier List Zenith Inc - Upgrade & Strategi Terbaik",
+      "metaDescription": "Temukan upgrade dan strategi terbaik dalam Tier List Zenith Inc kami. Maksimalkan kecepatan progres Anda dengan rekomendasi berperingkat.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "Apa itu Zenith Inc Tier List?",
+      "whatIsDescription": "Zenith Inc Tier List mengurutkan upgrade, modul otomatisasi, dan strategi progresi berdasarkan nilai dan efisiensi jangka panjangnya. Ini membantu Anda memutuskan upgrade mana yang harus diprioritaskan, mana yang harus dilewati, dan kombinasi mana yang menghasilkan pertumbuhan tercepat sehingga Anda dapat memanjat menara dan melakukan Prestige dengan hasil terbaik.",
+      "why": "Mengapa menggunakan tier list?",
+      "whySteps": {
+        "step1Title": "Gunakan Sumber Daya dengan Bijak",
+        "step1Description": "Fokuskan Coins dan Gems Anda pada upgrade tier teratas alih-alih membuang-buangnya untuk pilihan bernilai rendah.",
+        "step2Title": "Bangun Strategi Terbaik",
+        "step2Description": "Kombinasikan upgrade dan modul berperingkat tinggi ke dalam strategi terbukti yang melipatgandakan pendapatan Anda.",
+        "step3Title": "Prestige di Waktu yang Tepat",
+        "step3Description": "Gunakan panduan berbasis tier untuk memutuskan kapan Prestige dan Rebirth memberikan pengganda permanen terbesar."
+      },
+      "featured": "Peringkat Unggulan",
+      "all": "Semua Peringkat"
+    },
+    "upgrades": {
+      "title": "Upgrade Zenith Inc",
+      "description": "Panduan lengkap upgrade Zenith Inc yang mencakup setiap tipe upgrade, mekanik Prestige dan Rebirth, otomatisasi, dan pendapatan AFK.",
+      "metaTitle": "Upgrade Zenith Inc - Prestige, Rebirth & Otomatisasi",
+      "metaDescription": "Kuasai setiap sistem upgrade Zenith Inc termasuk Prestige, Rebirth, otomatisasi, dan pendapatan AFK untuk memaksimalkan pertumbuhan permanen Anda.",
+      "categoryLabel": "UPGRADE",
+      "whatIs": "Apa itu Upgrade Zenith Inc?",
+      "whatIsDescription": "Upgrade Zenith Inc adalah sistem progresi inti — serangkaian peningkatan berlapis yang mencakup pengganda pendapatan, modul otomatisasi, reset Prestige, dan mekanik Rebirth. Setiap lapisan melipatgandakan lapisan sebelumnya, sehingga urutan upgrade yang cerdas dan siklus Prestige dengan waktu yang tepat adalah kunci untuk meningkatkan pendapatan Anda secara eksponensial.",
+      "why": "Mengapa mempelajari upgrade?",
+      "whySteps": {
+        "step1Title": "Lipat Gandakan Pendapatan Anda",
+        "step1Description": "Pilih upgrade pendapatan bernilai tinggi terlebih dahulu sehingga setiap Coin yang Anda peroleh berlipat ganda menjadi pertumbuhan yang lebih cepat.",
+        "step2Title": "Otomatiskan Pendapatan Anda",
+        "step2Description": "Buka modul otomatisasi untuk terus menghasilkan Coins dan Gems bahkan saat Anda offline.",
+        "step3Title": "Prestige untuk Peningkatan Permanen",
+        "step3Description": "Atur waktu siklus Prestige dan Rebirth Anda untuk mengumpulkan pengganda permanen yang mempercepat setiap permainan di masa mendatang."
+      },
+      "featured": "Upgrade Unggulan",
+      "all": "Semua Upgrade"
+    },
+    "currency": {
+      "title": "Mata Uang Zenith Inc",
+      "description": "Panduan lengkap mata uang Zenith Inc yang mencakup Coins, Gems, dan mata uang tingkat lanjut, ditambah metode farming tercepat.",
+      "metaTitle": "Panduan Mata Uang Zenith Inc - Coins, Gems & Farming",
+      "metaDescription": "Pelajari setiap mata uang Zenith Inc — Coins, Gems, dan sumber daya tingkat lanjut — dan temukan metode farming tercepat untuk menjadi kaya.",
+      "categoryLabel": "MATA UANG",
+      "whatIs": "Apa itu Mata Uang Zenith Inc?",
+      "whatIsDescription": "Zenith Inc berjalan pada sistem mata uang berlapis — dimulai dengan Coins dan Gems dan berkembang menjadi sumber daya tingkat lanjut yang terbuka seiring kemajuan Anda. Setiap mata uang menyokong lapisan upgrade yang berbeda, sehingga memahami cara mendapatkan, melakukan farming, dan mengonversinya sangat penting untuk memanjat menara dan mendanai siklus Prestige.",
+      "why": "Mengapa mempelajari sistem mata uang?",
+      "whySteps": {
+        "step1Title": "Lakukan Farming Coins dengan Efisien",
+        "step1Description": "Gunakan metode farming yang terbukti untuk menghasilkan Coins dengan cepat dan mendanai upgrade inti Anda.",
+        "step2Title": "Gunakan Gems dengan Cerdas",
+        "step2Description": "Cadangkan Gems untuk upgrade dan modul berdampak tinggi yang melipatgandakan pendapatan jangka panjang Anda.",
+        "step3Title": "Buka Sumber Daya Lanjutan",
+        "step3Description": "Berprogres ke mata uang lanjutan dan pelajari cara mengonversinya untuk nilai upgrade maksimal."
+      },
+      "featured": "Panduan Mata Uang Unggulan",
+      "all": "Semua Panduan Mata Uang"
+    },
+    "tower": {
+      "title": "Zenith Inc Tower",
+      "description": "Panduan lengkap Zenith Inc tower yang mencakup setiap lantai, syarat pembukaan, hadiah milestone, dan strategi mendaki.",
+      "metaTitle": "Panduan Zenith Inc Tower - Lantai, Milestone & Tips Mendaki",
+      "metaDescription": "Daki Zenith Inc tower dengan panduan lengkap kami — progres lantai, syarat pembukaan, hadiah milestone, dan strategi mendaki.",
+      "categoryLabel": "TOWER",
+      "whatIs": "Apa itu Zenith Inc Tower?",
+      "whatIsDescription": "Zenith Inc Tower adalah struktur progres utama — serangkaian lantai yang Anda daki dengan memenuhi milestone pendapatan dan upgrade. Setiap lantai membuka upgrade, mata uang, dan hadiah baru, sementara tingkatan milestone memberikan bonus permanen yang terbawa di seluruh siklus Prestige, menjadikan progres tower sebagai tulang punggung pertumbuhan jangka panjang.",
+      "why": "Mengapa fokus pada tower?",
+      "whySteps": {
+        "step1Title": "Buka Konten Baru",
+        "step1Description": "Menembus lantai akan membuka upgrade, modul, dan mata uang baru yang memperluas opsi progres Anda.",
+        "step2Title": "Dapatkan Hadiah Milestone",
+        "step2Description": "Capai tingkatan milestone di setiap lantai untuk mengeklaim bonus permanen yang meningkatkan setiap sesi permainan di masa mendatang.",
+        "step3Title": "Mendaki Secara Strategis",
+        "step3Description": "Terapkan strategi mendaki untuk menembus lantai yang sulit tanpa membuang sumber daya."
+      },
+      "featured": "Panduan Tower Unggulan",
+      "all": "Semua Panduan Tower"
+    },
+    "updates": {
+      "title": "Update Zenith Inc",
+      "description": "Update Zenith Inc terbaru, catatan patch, rilis konten baru, tanggal rilis, dan tautan komunitas resmi.",
+      "metaTitle": "Update Zenith Inc - Catatan Patch & Konten Baru",
+      "metaDescription": "Pantau setiap update Zenith Inc — catatan patch, konten baru, tanggal rilis, dan tautan komunitas resmi untuk pemain Roblox.",
+      "categoryLabel": "UPDATE",
+      "whatIs": "Apa itu Update Zenith Inc?",
+      "whatIsDescription": "Update Zenith Inc mencakup setiap patch, rilis konten baru, perubahan keseimbangan, dan event yang ditambahkan ke dalam game. Tetap mengikuti update membantu Anda mendapatkan Codes baru, memanfaatkan upgrade dan lantai tower yang baru, serta mengatur waktu siklus Prestige Anda di sekitar rilis konten utama untuk pertumbuhan maksimal.",
+      "why": "Mengapa mengikuti update?",
+      "whySteps": {
+        "step1Title": "Dapatkan Codes Baru",
+        "step1Description": "Update dan event secara rutin hadir dengan Codes baru untuk mendapatkan Coins, Gems, dan boost gratis.",
+        "step2Title": "Rencanakan Berdasarkan Konten Baru",
+        "step2Description": "Upgrade, lantai tower, dan mata uang baru mengubah meta — mengetahuinya memungkinkan Anda menyesuaikan strategi lebih awal.",
+        "step3Title": "Tetap Terhubung",
+        "step3Description": "Ikuti kanal komunitas resmi untuk mendapatkan pengumuman, event, dan tanggal rilis saat rilis."
+      },
+      "featured": "Update Unggulan",
+      "all": "Semua Update"
+    }
+  }
+}

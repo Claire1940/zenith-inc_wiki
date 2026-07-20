@@ -1,1 +1,582 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Zenith Inc Wiki - Codes, Mejoras y Prestige",
+      "description": "Zenith Inc Wiki ofrece Codes de Roblox, guías de mejoras, consejos de progresión de torres, estrategias de Prestige e información completa de jugabilidad para jugadores de Incremental Simulator.",
+      "keywords": "Zenith Inc, Roblox, Codes, Incremental Simulator, Torre, Prestige",
+      "ogTitle": "Zenith Inc Wiki - Codes, Mejoras y Prestige",
+      "ogDescription": "Zenith Inc Wiki ofrece Codes de Roblox, guías de mejoras, consejos de progresión de torres, estrategias de Prestige e información completa de jugabilidad para jugadores de Incremental Simulator.",
+      "twitterTitle": "Zenith Inc Wiki - Codes, Mejoras y Prestige",
+      "twitterDescription": "Zenith Inc Wiki cubre Codes de Roblox, mejoras, progresión de torres, Prestige y guías de divisas para el Incremental Simulator."
+    }
+  },
+  "nav": {
+    "guide": "Guía",
+    "codes": "Codes",
+    "tier-list": "Tier List",
+    "upgrades": "Mejoras",
+    "currency": "Divisas",
+    "tower": "Torre",
+    "updates": "Actualizaciones"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Roblox Simulador de Torre Incremental",
+    "title": "Zenith Inc Wiki",
+    "description": "Wiki completa de Zenith Inc que cubre progresión de torres, mejoras, divisas, mecánicas de Prestige, sistemas de automatización y Codes gratuitos para jugadores de Roblox.",
+    "getFreeCodesCTA": "Obtén Codes gratuitos",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "Incremental",
+        "label": "Simulador de Torres"
+      },
+      "stat2": {
+        "value": "Multicapa",
+        "label": "Sistemas de divisas"
+      },
+      "stat3": {
+        "value": "Activo",
+        "label": "Canjear Codes"
+      },
+      "stat4": {
+        "value": "Semanal",
+        "label": "Actualizaciones de contenido"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de Zenith Inc",
+    "description": "Escala una torre infinita, acumula mejoras, automatiza ingresos y haz Prestige para un crecimiento permanente en este simulador de torre incremental de Roblox."
+  },
+  "tools": {
+    "title": "Zenith Inc",
+    "titleHighlight": "Recursos",
+    "subtitle": "Todo lo que necesitas para escalar la torre, optimizar mejoras y hacer Prestige más rápido en Zenith Inc",
+    "cards": [
+      {
+        "icon": "Regalo",
+        "title": "Canjear Codes",
+        "description": "Codes activos para Coins, Gems y potenciadores gratis"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guía para principiantes",
+        "description": "Primeros pasos, conceptos básicos de ingresos y progresión inicial"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Guía de progresión",
+        "description": "Automatización, multiplicadores, Prestige y Ascension"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Guía de mejoras",
+        "description": "Prioridad de las mejores mejoras y clasificación por niveles"
+      },
+      {
+        "icon": "Gem",
+        "title": "Guía de monedas",
+        "description": "Coins, Gems, puntos de Prestige y cómo ganarlos"
+      },
+      {
+        "icon": "Layers",
+        "title": "Guía de la torre",
+        "description": "Hitos de piso, requisitos de desbloqueo y consejos para escalar"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Consejos y trucos",
+        "description": "Estrategias de eficiencia y errores comunes a evitar"
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Actualizaciones",
+        "description": "Últimos lanzamientos de contenido, cambios de equilibrio y nuevos Codes"
+      }
+    ]
+  },
+  "modules": {
+    "zenithIncCodes": {
+      "title": "Codes de Zenith Inc",
+      "displayType": "code-cards",
+      "intro": "Canjear Codes ayuda a los jugadores de Zenith Inc a obtener recursos adicionales durante su viaje de progresión. Usa estos Codes activos para recibir bonificaciones de moneda, potenciadores temporales y objetos útiles que facilitan las mejoras y la escalada de la torre.",
+      "codes": [
+        {
+          "code": "ZENITH",
+          "reward": "Coins y Gems gratis",
+          "status": "Activo"
+        },
+        {
+          "code": "RELEASE",
+          "reward": "Potenciador de moneda inicial",
+          "status": "Activo"
+        },
+        {
+          "code": "TOWER",
+          "reward": "Bonificación de progresión de la torre",
+          "status": "Activo"
+        },
+        {
+          "code": "ACTUALIZACIÓN2",
+          "reward": "Potenciador de 2x Coins",
+          "status": "Activo"
+        },
+        {
+          "code": "SUBIR",
+          "reward": "Recompensa de Gems gratis",
+          "status": "Activo"
+        },
+        {
+          "code": "PRESTIGE",
+          "reward": "Bono de progreso de Prestige",
+          "status": "Activo"
+        }
+      ],
+      "note": "Los Codes distinguen entre mayúsculas y minúsculas. Abre el menú de canje de Codes dentro de Zenith Inc, introduce un Code activo y confirma para reclamar tus recompensas al instante."
+    },
+    "zenithIncBeginnerGuide": {
+      "title": "Guía para principiantes de Zenith Inc",
+      "displayType": "paso a paso",
+      "intro": "Los nuevos jugadores deben centrarse en construir una base sólida de ingresos antes de intentar alcanzar pisos más altos de la torre. Sigue estos pasos para principiantes para entender las mejoras, la automatización y la progresión de Prestige en Zenith Inc.",
+      "steps": [
+        {
+          "title": "Gana tus primeras Coins",
+          "description": "Empieza recolectando ingresos básicos a través del juego activo y la progresión inicial de la torre. Usa tus primeras Coins para desbloquear un mayor potencial de ganancias."
+        },
+        {
+          "title": "Compra tu primera mejora",
+          "description": "Mejora primero el Click Power y los sistemas relacionados con los ingresos para aumentar la velocidad de recolección de recursos y de avance."
+        },
+        {
+          "title": "Desbloquea ingresos automáticos",
+          "description": "Invierte en mejoras de automatización para generar recursos automáticamente mientras juegas o estás fuera del juego."
+        },
+        {
+          "title": "Sube tus primeros pisos de la torre",
+          "description": "Usa los ingresos y mejoras mejorados para desbloquear pisos más altos y alcanzar nuevos hitos de progresión."
+        },
+        {
+          "title": "Completa tu primer Prestige",
+          "description": "Reinicia el progreso a través de Prestige cuando esté disponible para obtener bonos permanentes y acelerar el crecimiento futuro."
+        },
+        {
+          "title": "Sigue los eventos y actualizaciones",
+          "description": "Sigue las actualizaciones oficiales de Roblox y los sistemas de recompensas para descubrir nuevos Codes, eventos y bonos de progresión."
+        }
+      ],
+      "quickTips": [
+        "Gasta tus primeras Coins en mejoras de ingresos antes que en cualquier otra cosa.",
+        "Desbloquea la automatización lo antes posible para seguir ganando mientras estás ausente.",
+        "Haz Prestige cuando la progresión se ralentice para obtener bonos permanentes.",
+        "Canjea nuevos Codes regularmente para obtener recursos y potenciadores gratuitos."
+      ]
+    },
+    "zenithIncProgressionGuide": {
+      "title": "Guía de progresión de Zenith Inc",
+      "displayType": "card-list",
+      "intro": "La progresión en Zenith Inc depende de mejorar la generación de recursos, desbloquear mejoras más potentes y usar las mecánicas de reinicio de manera eficiente. Estos sistemas funcionan en conjunto para ayudar a los jugadores a alcanzar niveles de torre más altos.",
+      "items": [
+        {
+          "title": "Automatización",
+          "description": "Desbloquea sistemas de ingresos automáticos que generan Coins con el tiempo y reducen la necesidad de hacer clic constantemente."
+        },
+        {
+          "title": "Prestige",
+          "description": "Reinicia el progreso seleccionado para ganar Prestige Points y bonos permanentes que mejoren las futuras partidas."
+        },
+        {
+          "title": "Multiplicadores",
+          "description": "Aumenta la eficiencia general de ganancias mediante mejoras de multiplicadores que potencian la producción de recursos."
+        },
+        {
+          "title": "Rebirth",
+          "description": "Usa mecánicas de reinicio avanzadas para intercambiar el progreso por mejoras permanentes más fuertes."
+        },
+        {
+          "title": "Ascension",
+          "description": "Alcanza etapas de progresión más altas que desbloquean bonificaciones poderosas y sistemas de juego avanzados."
+        },
+        {
+          "title": "Pisos más altos",
+          "description": "Impulsa la progresión de la torre para acceder a nuevos hitos, recompensas y oportunidades de mejora más fuertes."
+        }
+      ]
+    },
+    "zenithIncUpgradeGuide": {
+      "title": "Guía de mejoras de Zenith Inc",
+      "displayType": "tier-grid",
+      "intro": "Elegir el orden de mejora correcto ayuda a los jugadores a maximizar los ingresos y alcanzar pisos más altos de la torre más rápido. Céntrate en los sistemas que mejoran la generación de recursos a largo plazo antes que en las mejoras estéticas o menores.",
+      "tiers": [
+        {
+          "title": "Ingresos automáticos",
+          "tier": "S",
+          "description": "Proporciona una generación continua de recursos y mejora la eficiencia de la progresión AFK."
+        },
+        {
+          "title": "Multiplicador",
+          "tier": "S",
+          "description": "Aumenta las ganancias totales e incrementa la efectividad de todas las demás fuentes de ingresos."
+        },
+        {
+          "title": "Poder de clic",
+          "tier": "A",
+          "description": "Mejora los ingresos del juego activo y ayuda en la progresión inicial antes de que la automatización esté completamente desarrollada."
+        },
+        {
+          "title": "Ganancias fuera de línea",
+          "tier": "A",
+          "description": "Mejora el progreso mientras no estás en el juego y apoya el crecimiento a largo plazo."
+        },
+        {
+          "title": "Capacidad",
+          "tier": "B",
+          "description": "Aumenta los límites de almacenamiento de recursos y reduce las interrupciones durante la progresión."
+        },
+        {
+          "title": "Velocidad",
+          "tier": "C",
+          "description": "Proporciona mejoras de eficiencia menores en comparación con las mejoras de ingresos principales."
+        }
+      ]
+    },
+    "zenithIncCurrencyGuide": {
+      "title": "Guía de monedas de Zenith Inc",
+      "displayType": "table",
+      "intro": "Zenith Inc utiliza múltiples monedas para soportar su sistema de progresión incremental. Entender cada recurso ayuda a los jugadores a mejorar de manera eficiente, desbloquear pisos más altos y maximizar el crecimiento a largo plazo.",
+      "currencies": [
+        {
+          "title": "Coins",
+          "earning": "Clics, ingresos automáticos, progresión de la torre",
+          "usage": "Mejoras básicas como el poder de clic, aumentos de ingresos y mejoras de capacidad"
+        },
+        {
+          "title": "Gems",
+          "earning": "Hitos, recompensas, actividades especiales",
+          "usage": "Mejoras poderosas, potenciadores y opciones de progresión exclusivas"
+        },
+        {
+          "title": "Puntos de Prestige",
+          "earning": "Reinicios de Prestige",
+          "usage": "Desbloquea multiplicadores más fuertes y mejora la velocidad de crecimiento futuro"
+        },
+        {
+          "title": "Tokens",
+          "earning": "Eventos, logros, desafíos de hitos",
+          "usage": "Mejoras limitadas y recompensas de bonificación"
+        },
+        {
+          "title": "Cristales",
+          "earning": "Sistemas de progresión avanzada",
+          "usage": "Mejoras de alto nivel y desbloqueos especiales"
+        },
+        {
+          "title": "Dinero",
+          "earning": "Actividades de juego y recompensas",
+          "usage": "Diversas compras y sistemas de mejora"
+        }
+      ]
+    },
+    "zenithIncTowerGuide": {
+      "title": "Guía de la Torre de Zenith Inc",
+      "displayType": "lista-de-tarjetas",
+      "intro": "La torre es la ruta de progresión principal en Zenith Inc. Los jugadores suben pisos mejorando los ingresos, desbloqueando mejoras y alcanzando nuevos hitos.",
+      "floors": [
+        {
+          "title": "Pisos 1-10: Niveles iniciales",
+          "description": "Los primeros pisos introducen el ciclo de juego principal. Los jugadores ganan Coins, compran mejoras básicas y aprenden cómo funcionan los clics y los ingresos automáticos."
+        },
+        {
+          "title": "Hito del Piso 50",
+          "description": "Requiere mejoras más potentes y una mejor generación de ingresos. Alcanzar este hito desbloquea el acceso a oportunidades de progresión y recompensas más avanzadas."
+        },
+        {
+          "title": "Hito del Piso 100",
+          "description": "Un punto de control de progresión importante que requiere mejoras eficientes y el uso temprano de Prestige. Las recompensas incluyen una velocidad de progresión mejorada y acceso a desafíos superiores."
+        },
+        {
+          "title": "Hito del Piso 500",
+          "description": "Una etapa avanzada de la torre donde la automatización y los multiplicadores se vuelven esenciales. Los jugadores necesitan configuraciones optimizadas para seguir subiendo de manera eficiente."
+        },
+        {
+          "title": "Hito del Piso 1000",
+          "description": "Un objetivo de progresión para el final del juego que requiere fuertes bonificaciones de Prestige, sistemas mejorados y gestión de recursos a largo plazo."
+        },
+        {
+          "title": "Piso final",
+          "description": "El hito más alto disponible de la torre que representa la progresión del final del juego. Los jugadores se enfocan en mejoras máximas, eficiencia y contenido futuro."
+        }
+      ]
+    },
+    "zenithIncTipsAndTricks": {
+      "title": "Consejos y trucos de Zenith Inc",
+      "displayType": "acordeón",
+      "intro": "Las elecciones de mejora inteligentes y la gestión eficiente de recursos son importantes en los juegos incrementales. Estos consejos ayudan a los jugadores de Zenith Inc a evitar una progresión lenta y a maximizar el crecimiento.",
+      "tips": [
+        {
+          "title": "Optimizar las ganancias AFK",
+          "description": "Mejora los sistemas de ingresos automáticos pronto y mantén el juego en ejecución cuando sea posible. Las ganancias AFK proporcionan un progreso constante sin necesidad de hacer clics continuamente."
+        },
+        {
+          "title": "Priorizar mejoras importantes",
+          "description": "Enfócate primero en las mejoras que aumenten la generación de ingresos, especialmente los multiplicadores y la automatización, antes que en mejoras cosméticas o menores."
+        },
+        {
+          "title": "Elegir el momento adecuado para el Prestige",
+          "description": "Realiza un Prestige cuando el progreso se ralentice significativamente. Reiniciar en el momento adecuado proporciona bonificaciones permanentes que aceleran las futuras subidas."
+        },
+        {
+          "title": "Gestionar las monedas con cuidado",
+          "description": "Evita gastar las monedas raras de inmediato. Ahorra recursos valiosos para mejoras que proporcionen beneficios de progresión a largo plazo."
+        },
+        {
+          "title": "Completar recompensas diarias",
+          "description": "Revisa las tareas diarias y los sistemas de recompensas regularmente para recolectar recursos adicionales y bonificaciones de progresión."
+        },
+        {
+          "title": "Canjear Codes regularmente",
+          "description": "Mantente atento a los nuevos Codes de Zenith Inc y canjéalos rápidamente para obtener Coins, Gems y potenciadores temporales gratuitos."
+        }
+      ]
+    },
+    "zenithIncUpdates": {
+      "title": "Actualizaciones de Zenith Inc",
+      "displayType": "acordeón",
+      "intro": "Este rastreador de actualizaciones organiza cambios importantes de Zenith Inc, incluyendo mejoras de progresión, nuevo contenido de la torre y mejoras de calidad de vida.",
+      "updates": [
+        {
+          "title": "Lanzamiento inicial",
+          "description": "El lanzamiento inicial introdujo la experiencia principal de simulador incremental con escalada de torres, divisas, mejoras y sistemas de progresión."
+        },
+        {
+          "title": "Actualización 1.0",
+          "description": "Se introdujeron mejoras tempranas en el equilibrio de la progresión, opciones de mejora adicionales y ajustes en la experiencia de crecimiento del jugador."
+        },
+        {
+          "title": "Actualización 2.0",
+          "description": "Se expandieron los sistemas de progresión con nuevas mecánicas, mejoras más potentes y contenido adicional para jugadores avanzados."
+        },
+        {
+          "title": "Expansión de nuevos pisos",
+          "description": "Se añadieron más pisos a la torre e hitos de progresión, otorgando a los jugadores nuevos objetivos de escalada y recompensas adicionales."
+        },
+        {
+          "title": "Mejoras del sistema de Prestige",
+          "description": "Se mejoraron las mecánicas de Prestige con mejores recompensas, reinicios más fluidos y opciones de progresión a largo plazo más potentes."
+        },
+        {
+          "title": "Mejoras de calidad de vida",
+          "description": "Se añadieron mejoras de usabilidad, actualizaciones de interfaz y ajustes de jugabilidad para que la progresión sea más fluida."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Zenith Inc",
+    "questions": [
+      {
+        "question": "¿Qué es Zenith Inc?",
+        "answer": "Zenith Inc es un simulador incremental de torre en Roblox donde los jugadores escalan una torre infinita, mejoran los sistemas de ingresos, automatizan recursos y realizan Prestige para un crecimiento permanente."
+      },
+      {
+        "question": "¿Dónde puedo jugar Zenith Inc?",
+        "answer": "Zenith Inc está disponible en Roblox en plataformas web, móviles y consolas que admitan la aplicación Roblox."
+      },
+      {
+        "question": "¿Cómo canjeo Codes de Zenith Inc?",
+        "answer": "Abre el menú de canje de códigos dentro de Zenith Inc, introduce un código activo y confirma para recibir Coins, Gems y potenciadores gratis al instante."
+      },
+      {
+        "question": "¿Qué es el Prestige en Zenith Inc?",
+        "answer": "Prestige es una mecánica de reinicio que intercambia tu partida actual por bonificaciones permanentes y puntos de Prestige, acelerando cada escalada futura en Zenith Inc."
+      },
+      {
+        "question": "¿Cómo escalo la torre más rápido en Zenith Inc?",
+        "answer": "Céntrate primero en la automatización y las mejoras de multiplicadores, realiza Prestige cuando el progreso se ralentice y canjea Codes de Zenith Inc regularmente para obtener recursos y potenciadores gratuitos."
+      },
+      {
+        "question": "¿Recibe actualizaciones Zenith Inc?",
+        "answer": "Sí. Zenith Inc sigue recibiendo actualizaciones de contenido que añaden nuevos pisos, mejoras, sistemas de progresión y nuevos Codes para canjear."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para escalar la torre en Zenith Inc?",
+    "description": "Comienza tu viaje en Zenith Inc en Roblox. ¡Canjea Codes, optimiza mejoras y realiza Prestige para un crecimiento infinito!",
+    "joinCommunity": "Ver gameplay",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Zenith Inc",
+    "description": "Tu centro de recursos completo para Codes de Zenith Inc, mejoras, progresión de la torre, estrategias de Prestige y guías de divisas en Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "roblox": "Jugar en Roblox",
+    "youtube": "Vídeo de gameplay",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Zenith Inc Wiki. No está afiliada a los desarrolladores de Zenith Inc ni a Roblox Corporation.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guía de Zenith Inc",
+      "description": "Guía completa de Zenith Inc para principiantes que cubre mecánicas principales, rutas de mejora, progresión de la torre y estrategias de juego temprano para jugadores de Roblox.",
+      "metaTitle": "Guía de Zenith Inc - Consejos para principiantes y progresión",
+      "metaDescription": "Domina Zenith Inc con nuestra guía completa para principiantes. Aprende las mecánicas principales, el orden de las mejoras, consejos para escalar la torre y estrategias de juego temprano.",
+      "categoryLabel": "GUÍAS",
+      "whatIs": "¿Qué es la Guía de Zenith Inc?",
+      "whatIsDescription": "La Guía de Zenith Inc te acompaña a través del ciclo de juego incremental principal: ganar divisas, comprar mejoras, escalar la torre y hacer Prestige para un crecimiento más rápido. Cubre todo lo que un nuevo jugador necesita para entender los sistemas del juego y comenzar a progresar de manera eficiente desde el primer día.",
+      "why": "¿Por qué usar esta guía?",
+      "whySteps": {
+        "step1Title": "Entiende las mecánicas principales",
+        "step1Description": "Aprende cómo las ganancias incrementales, las mejoras y las capas de Prestige funcionan juntas para que cada decisión multiplique tu progreso.",
+        "step2Title": "Optimiza las mejoras iniciales",
+        "step2Description": "Sigue el orden de mejoras iniciales recomendado para multiplicar tus ingresos rápidamente en lugar de desperdiciar recursos.",
+        "step3Title": "Escala la torre más rápido",
+        "step3Description": "Aplica consejos de progresión de torre para avanzar por los pisos de manera eficiente y desbloquear la siguiente capa de contenido."
+      },
+      "featured": "Guías destacadas",
+      "all": "Todas las guías"
+    },
+    "codes": {
+      "title": "Zenith Inc Codes",
+      "description": "Los últimos Zenith Inc Codes activos para obtener Coins, Gems, potenciadores y recompensas exclusivas gratis. Actualizado regularmente con Codes activos.",
+      "metaTitle": "Zenith Inc Codes - Coins, Gems y potenciadores gratis",
+      "metaDescription": "Canjea los últimos Zenith Inc Codes para obtener Coins, Gems, potenciadores y recompensas exclusivas gratis. Actualizado regularmente con Codes activos que funcionan.",
+      "categoryLabel": "CANJEAR CODES",
+      "whatIs": "¿Qué son los Zenith Inc Codes?",
+      "whatIsDescription": "Los Zenith Inc Codes son cadenas de canje gratuitas publicadas por los desarrolladores que otorgan bonificaciones como Coins, Gems, potenciadores y objetos exclusivos. Los nuevos Codes se lanzan junto con actualizaciones, hitos y eventos de la comunidad, ofreciendo a los jugadores un flujo constante de recursos gratuitos para acceder a su ascenso en la torre de manera más rápida.",
+      "why": "¿Por qué canjear Codes?",
+      "whySteps": {
+        "step1Title": "Recursos gratuitos al instante",
+        "step1Description": "Cada Code activo otorga Coins, Gems o potenciadores en el momento en que lo canjeas: una ventaja inicial gratuita sin tener que farmear.",
+        "step2Title": "Mantente al día con las actualizaciones",
+        "step2Description": "Los Codes están vinculados a actualizaciones y eventos, por lo que canjearlos te mantiene al día con las últimas recompensas.",
+        "step3Title": "Impulsa el progreso inicial",
+        "step3Description": "Los potenciadores canjeados y las divisas ayudan a las cuentas nuevas a avanzar por los primeros pisos de la torre mucho más rápido."
+      },
+      "featured": "Codes destacados",
+      "all": "Todos los Codes"
+    },
+    "tier-list": {
+      "title": "Tier List de Zenith Inc",
+      "description": "Tier List de Zenith Inc que clasifica las mejores mejoras, estrategias y equipamientos para una máxima velocidad y eficiencia de progresión.",
+      "metaTitle": "Tier List de Zenith Inc - Mejores mejoras y estrategias",
+      "metaDescription": "Encuentra las mejores mejoras y estrategias en nuestra Tier List de Zenith Inc. Maximiza tu velocidad de progresión con recomendaciones clasificadas.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "¿Qué es la Zenith Inc Tier List?",
+      "whatIsDescription": "La Zenith Inc Tier List clasifica las mejoras, los módulos de automatización y las estrategias de progresión según su valor y eficiencia a largo plazo. Te ayuda a decidir qué mejoras priorizar, cuáles omitir y qué combinaciones producen el crecimiento más rápido para que puedas subir la torre y hacer Prestige con los mejores rendimientos.",
+      "why": "¿Por qué usar la tier list?",
+      "whySteps": {
+        "step1Title": "Gasta los recursos sabiamente",
+        "step1Description": "Concentra tus Coins y Gems en mejoras de primer nivel en lugar de desperdiciarlos en opciones de poco valor.",
+        "step2Title": "Crea la mejor estrategia",
+        "step2Description": "Combina mejoras y módulos de alto rango en una estrategia comprobada que multiplique tus ingresos.",
+        "step3Title": "Haz Prestige en el momento adecuado",
+        "step3Description": "Usa la guía basada en niveles para decidir cuándo el Prestige y el Rebirth ofrecen el mayor multiplicador permanente."
+      },
+      "featured": "Clasificaciones destacadas",
+      "all": "Todas las clasificaciones"
+    },
+    "upgrades": {
+      "title": "Mejoras de Zenith Inc",
+      "description": "Guía completa de mejoras de Zenith Inc que cubre cada tipo de mejora, mecánicas de Prestige y Rebirth, automatización y ganancias AFK.",
+      "metaTitle": "Mejoras de Zenith Inc - Prestige, Rebirth y automatización",
+      "metaDescription": "Domina cada sistema de mejora de Zenith Inc, incluyendo Prestige, Rebirth, automatización y ganancias AFK para maximizar tu crecimiento permanente.",
+      "categoryLabel": "MEJORAS",
+      "whatIs": "¿Qué son las mejoras de Zenith Inc?",
+      "whatIsDescription": "Las mejoras de Zenith Inc son el sistema de progresión principal: un conjunto de potenciadores por capas que cubren multiplicadores de ingresos, módulos de automatización, reinicios de Prestige y mecánicas de Rebirth. Cada capa potencia a la anterior, por lo que el orden inteligente de las mejoras y los ciclos de Prestige bien cronometrados son la clave para escalar tus ganancias de forma exponencial.",
+      "why": "¿Por qué estudiar las mejoras?",
+      "whySteps": {
+        "step1Title": "Multiplica tus ingresos",
+        "step1Description": "Elige primero las mejoras de ingresos de alto valor para que cada Coin que ganes se traduzca en un crecimiento más rápido.",
+        "step2Title": "Automatiza tus ganancias",
+        "step2Description": "Desbloquea módulos de automatización para seguir ganando Coins y Gems incluso mientras estás desconectado.",
+        "step3Title": "Prestige para potenciadores permanentes",
+        "step3Description": "Cronometra tus ciclos de Prestige y Rebirth para acumular multiplicadores permanentes que aceleren cada partida futura."
+      },
+      "featured": "Mejoras destacadas",
+      "all": "Todas las mejoras"
+    },
+    "currency": {
+      "title": "Monedas de Zenith Inc",
+      "description": "Guía completa de monedas de Zenith Inc que cubre Coins, Gems y monedas avanzadas, además de los métodos de farmeo más rápidos.",
+      "metaTitle": "Guía de monedas de Zenith Inc - Coins, Gems y farmeo",
+      "metaDescription": "Conoce cada moneda de Zenith Inc (Coins, Gems y recursos avanzados) y descubre los métodos de farmeo más rápidos para hacerte rico.",
+      "categoryLabel": "MONEDAS",
+      "whatIs": "¿Qué es la moneda de Zenith Inc?",
+      "whatIsDescription": "Zenith Inc funciona con un sistema de monedas de varias capas, comenzando con Coins y Gems y expandiéndose a recursos avanzados que se desbloquean a medida que progresas. Cada moneda alimenta una capa de mejora diferente, por lo que entender cómo ganarlas, farmearlas y convertirlas es esencial para subir la torre y financiar los ciclos de Prestige.",
+      "why": "¿Por qué aprender el sistema de monedas?",
+      "whySteps": {
+        "step1Title": "Farmea Coins de manera eficiente",
+        "step1Description": "Usa métodos de farmeo comprobados para generar Coins rápidamente y financiar tus mejoras principales.",
+        "step2Title": "Gasta Gems de forma inteligente",
+        "step2Description": "Reserva Gems para mejoras y módulos de alto impacto que multipliquen tus ingresos a largo plazo.",
+        "step3Title": "Desbloquear recursos avanzados",
+        "step3Description": "Progresa hacia divisas avanzadas y aprende cómo convertirlas para obtener el máximo valor de mejora."
+      },
+      "featured": "Guías destacadas de divisas",
+      "all": "Todas las guías de divisas"
+    },
+    "tower": {
+      "title": "Torre de Zenith Inc",
+      "description": "Guía completa de la torre de Zenith Inc que cubre cada piso, condiciones de desbloqueo, recompensas de hitos y estrategias de escalada.",
+      "metaTitle": "Guía de la torre de Zenith Inc - Pisos, hitos y consejos de escalada",
+      "metaDescription": "Escala la torre de Zenith Inc con nuestra guía completa — progresión de pisos, condiciones de desbloqueo, recompensas de hitos y estrategias de escalada.",
+      "categoryLabel": "TORRE",
+      "whatIs": "¿Qué es la torre de Zenith Inc?",
+      "whatIsDescription": "La torre de Zenith Inc es la estructura central de progresión — una serie de pisos que escalas al cumplir hitos de ingresos y mejoras. Cada piso desbloquea nuevas mejoras, divisas y recompensas, mientras que los niveles de hitos otorgan bonificaciones permanentes que se mantienen a través de los ciclos de Prestige, haciendo que la progresión de la torre sea la columna vertebral del crecimiento a largo plazo.",
+      "why": "¿Por qué enfocarse en la torre?",
+      "whySteps": {
+        "step1Title": "Desbloquear nuevo contenido",
+        "step1Description": "Avanzar pisos desbloquea nuevas mejoras, módulos y divisas que expanden tus opciones de progresión.",
+        "step2Title": "Ganar recompensas de hitos",
+        "step2Description": "Alcanza niveles de hitos en cada piso para reclamar bonificaciones permanentes que potencian cada partida futura.",
+        "step3Title": "Escalar estratégicamente",
+        "step3Description": "Aplica estrategias de escalada para superar pisos difíciles sin desperdiciar recursos."
+      },
+      "featured": "Guías destacadas de la torre",
+      "all": "Todas las guías de la torre"
+    },
+    "updates": {
+      "title": "Actualizaciones de Zenith Inc",
+      "description": "Últimas actualizaciones de Zenith Inc, notas del parche, lanzamientos de nuevo contenido, fechas de lanzamiento y enlaces oficiales de la comunidad.",
+      "metaTitle": "Actualizaciones de Zenith Inc - Notas del parche y nuevo contenido",
+      "metaDescription": "Sigue cada actualización de Zenith Inc — notas del parche, nuevo contenido, fechas de lanzamiento y enlaces oficiales de la comunidad para jugadores de Roblox.",
+      "categoryLabel": "ACTUALIZACIONES",
+      "whatIs": "¿Qué son las actualizaciones de Zenith Inc?",
+      "whatIsDescription": "Las actualizaciones de Zenith Inc cubren cada parche, lanzamiento de nuevo contenido, cambio de equilibrio y evento añadido al juego. Mantenerse al día con las actualizaciones te ayuda a conseguir nuevos Codes, aprovechar las nuevas mejoras y pisos de la torre, y programar tus ciclos de Prestige en torno a los principales lanzamientos de contenido para un crecimiento máximo.",
+      "why": "¿Por qué seguir las actualizaciones?",
+      "whySteps": {
+        "step1Title": "Conseguir nuevos Codes",
+        "step1Description": "Las actualizaciones y eventos regularmente incluyen nuevos Codes para obtener Coins, Gems y potenciadores gratis.",
+        "step2Title": "Planificar en torno al nuevo contenido",
+        "step2Description": "Las nuevas mejoras, pisos de la torre y divisas cambian el meta — conocerlos te permite adaptar tu estrategia de forma anticipada.",
+        "step3Title": "Mantenerse conectado",
+        "step3Description": "Sigue los canales oficiales de la comunidad para enterarte de anuncios, eventos y fechas de lanzamiento en el momento en que se publiquen."
+      },
+      "featured": "Actualizaciones destacadas",
+      "all": "Todas las actualizaciones"
+    }
+  }
+}
