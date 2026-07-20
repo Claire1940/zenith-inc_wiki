@@ -266,8 +266,34 @@
         "file": "Zenith-Inc-milestones"
       },
       {
+        "slug": "Zenith-Inc-tower-levels",
+        "file": "Zenith-Inc-tower-levels"
+      },
+      {
         "slug": "Zenith-Inc-tower",
         "file": "Zenith-Inc-tower"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "Zenith-Inc-discord",
+        "file": "Zenith-Inc-discord"
+      },
+      {
+        "slug": "Zenith-Inc-new-update",
+        "file": "Zenith-Inc-new-update"
+      },
+      {
+        "slug": "Zenith-Inc-reddit",
+        "file": "Zenith-Inc-reddit"
+      },
+      {
+        "slug": "Zenith-Inc-release-date",
+        "file": "Zenith-Inc-release-date"
+      },
+      {
+        "slug": "Zenith-Inc-update",
+        "file": "Zenith-Inc-update"
       }
     ],
     "upgrades": [
@@ -394,6 +420,10 @@
     ],
     "tower": [
       {
+        "slug": "Zenith-Inc-floors",
+        "file": "Zenith-Inc-floors"
+      },
+      {
         "slug": "Zenith-Inc-milestones",
         "file": "Zenith-Inc-milestones"
       },
@@ -404,6 +434,28 @@
       {
         "slug": "Zenith-Inc-tower",
         "file": "Zenith-Inc-tower"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "Zenith-Inc-discord",
+        "file": "Zenith-Inc-discord"
+      },
+      {
+        "slug": "Zenith-Inc-new-update",
+        "file": "Zenith-Inc-new-update"
+      },
+      {
+        "slug": "Zenith-Inc-reddit",
+        "file": "Zenith-Inc-reddit"
+      },
+      {
+        "slug": "Zenith-Inc-release-date",
+        "file": "Zenith-Inc-release-date"
+      },
+      {
+        "slug": "Zenith-Inc-update",
+        "file": "Zenith-Inc-update"
       }
     ],
     "upgrades": [
@@ -542,6 +594,28 @@
         "file": "Zenith-Inc-tower"
       }
     ],
+    "updates": [
+      {
+        "slug": "Zenith-Inc-discord",
+        "file": "Zenith-Inc-discord"
+      },
+      {
+        "slug": "Zenith-Inc-new-update",
+        "file": "Zenith-Inc-new-update"
+      },
+      {
+        "slug": "Zenith-Inc-reddit",
+        "file": "Zenith-Inc-reddit"
+      },
+      {
+        "slug": "Zenith-Inc-release-date",
+        "file": "Zenith-Inc-release-date"
+      },
+      {
+        "slug": "Zenith-Inc-update",
+        "file": "Zenith-Inc-update"
+      }
+    ],
     "upgrades": [
       {
         "slug": "Zenith-Inc-afk-earnings",
@@ -558,6 +632,10 @@
       {
         "slug": "Zenith-Inc-rebirth",
         "file": "Zenith-Inc-rebirth"
+      },
+      {
+        "slug": "Zenith-Inc-upgrade-guide",
+        "file": "Zenith-Inc-upgrade-guide"
       },
       {
         "slug": "Zenith-Inc-upgrades",
