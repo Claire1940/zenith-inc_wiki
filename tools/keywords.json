@@ -1,46 +1,69 @@
 {
   "categories": [
     {
-      "category": "Guides",
+      "category": "Codes",
       "keywords": [
-        "lucid blocks guide"
+        "Zenith Inc codes"
       ]
     },
     {
-      "category": "Crafting",
+      "category": "Guide",
       "keywords": [
-        "lucid blocks crafting recipes",
-        "lucid blocks apotheosis"
+        "Zenith Inc beginner guide",
+        "Zenith Inc guide",
+        "Zenith Inc gameplay",
+        "Zenith Inc how to play",
+        "Zenith Inc tips and tricks",
+        "Zenith Inc progression guide",
+        "Zenith Inc tower guide",
+        "Zenith Inc climb the tower"
       ]
     },
     {
-      "category": "Items",
+      "category": "Upgrades",
       "keywords": [
-        "lucid blocks faith wand",
-        "lucid blocks bee glider",
-        "lucid blocks chest",
-        "lucid blocks osmium"
+        "Zenith Inc upgrades",
+        "Zenith Inc upgrade guide",
+        "Zenith Inc prestige",
+        "Zenith Inc rebirth",
+        "Zenith Inc automation",
+        "Zenith Inc afk earnings"
       ]
     },
     {
-      "category": "Biomes",
+      "category": "Currency",
       "keywords": [
-        "lucid blocks tiamana leyline"
+        "Zenith Inc coins",
+        "Zenith Inc gems",
+        "Zenith Inc currency guide",
+        "Zenith Inc farming"
       ]
     },
     {
-      "category": "Building",
+      "category": "Tower",
       "keywords": [
-        "lucid blocks qualia"
+        "Zenith Inc tower",
+        "Zenith Inc floors",
+        "Zenith Inc tower levels",
+        "Zenith Inc milestones"
       ]
     },
     {
-      "category": "Support",
+      "category": "Updates",
       "keywords": [
-        "lucid blocks steam deck",
-        "lucid blocks full screen",
-        "lucid blocks multiplayer",
-        "lucid blocks android"
+        "Zenith Inc update",
+        "Zenith Inc new update",
+        "Zenith Inc release date",
+        "Zenith Inc discord",
+        "Zenith Inc reddit"
+      ]
+    },
+    {
+      "category": "Tier List",
+      "keywords": [
+        "Zenith Inc tier list",
+        "Zenith Inc best upgrades",
+        "Zenith Inc best strategy"
       ]
     }
   ]

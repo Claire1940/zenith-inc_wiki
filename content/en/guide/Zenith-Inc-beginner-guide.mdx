@@ -1,0 +1,189 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Zenith Inc Beginner Guide: ERP Setup & Vendor Steps",
+  description: "Master the Zenith Inc ERP system implementation with our detailed beginner guide covering vendor selection, requirements, and workflows.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e3a8a/fff?text=ERP+Setup+Guide",
+  date: "2026-07-20",
+  author: "Zenith Inc Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Beginner Strategy**: Use this **Zenith Inc beginner guide** to establish a solid foundation for ERP implementation.
+- **Vendor Requirements**: Ensure your selected vendor meets the strict minimum experience guidelines across all six core teams.
+- **System Automation**: Prioritize automated document detection for purchase orders, delivery notes, and invoices to reduce manual work.
+- **Budget Management**: Monitor budget indicators closely to prevent cost overruns during the application phase.
+- **Security Protocol**: Secure all transactions using credit card authorization and multi-factor login authentication steps.
+</Callout>
+
+<Section icon={Map} title="ERP System Overview & Core Requirements">
+
+Implementing a modern Enterprise Resource Planning (ERP) platform is a critical step for corporate scaling. This **Zenith Inc beginner guide** highlights how the company transitions from outdated legacy setups to automated, cloud-based architectures. The primary motivation for this upgrade centers on North American business expansion, cost reduction, and faster management decision-making through real-time reporting.
+
+To ensure a smooth transition, the system must accommodate specific operational demands. These are divided into mandatory capabilities and optional enhancements that add value to the workflow.
+
+**Video Highlights:**
+- **Outdated Systems**: Legacy tools hinder expansion and require manual processing.
+- **North American Expansion**: Multi-language support (including Chinese and Mexican Spanish) is essential.
+- **Automated Document Processing**: The system must auto-detect purchase orders, delivery notes, and invoices.
+- **Role-Based Security**: Hierarchy-based authorization keeps data secure.
+
+<YouTubeEmbed videoId="Jli36CupwG0" title="RFP Presentation - ERP System for Zenith Inc." />
+
+The table below outlines the core requirements established for the new ERP framework.
+
+| Category | Feature | Description | Priority |
+|---|---|---|---|
+| Must-Have | Online Registration | Allows vendors to register and receive unique IDs | High |
+| Must-Have | Role Authorization | Access control based on organizational hierarchy | High |
+| Must-Have | Multi-Language | Support for English, Chinese, Mexican Spanish | High |
+| Must-Have | Auto-Detection | Differentiates POs, delivery notes, and invoices | High |
+| Nice-to-Have | Corporate Reporting | Visual workflow tracking to pinpoint bottlenecks | Medium |
+| Nice-to-Have | Budget Indicator | Automated alerts when spending exceeds limits | Medium |
+| Nice-to-Have | Email Alerts | Notifications sent to management for pending tasks | Medium |
+
+<Callout type="tip" title="Pro Tip">
+Configuring the auto-detection feature early reduces manual data entry errors by up to forty percent, streamlining your accounting pipeline.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Vendor Evaluation & Team Selection">
+
+Selecting the right vendor is crucial for the success of the Zenith Inc ERP project. The evaluation process relies on assessing the vendor's core skills, certifications, and years of experience across six specialized teams. 
+
+Each team plays a distinct role in the deployment, from initial system architecture to long-term production support. Vendors must meet or exceed these benchmarks to pass the initial screening phases.
+
+| Team | Core Skill | Experience | Certification |
+|---|---|---|---|
+| Architecture | Implementation | 12+ Years | Industry Level |
+| Management | Project Management | 10+ Years | Industry Level |
+| Quality | Quality Assurance | 2-6 Years | ISTQB Certified |
+| SME | Domain Expertise | 5+ Years | Domain Specific |
+| Development | Software Engineering | 4+ Years | Tech Stack |
+| Support | Maintenance | 3+ Years | SLA Management |
+
+<Callout type="warning" title="Critical Warning">
+Do not compromise on the Quality Assurance team requirements. Ensure at least one team member holds an active ISTQB certification to avoid post-launch bugs.
+</Callout>
+
+A secondary evaluation round focuses on the vendor's financial stability, historical references, and overall project timeline feasibility. The selection committee rates each candidate based on these combined metrics.
+
+</Section>
+
+<Section icon={Target} title="Step-by-Step ERP Implementation Workflow">
+
+Executing the ERP deployment requires a structured approach. This workflow guides both the internal team and external vendors through the application, authorization, and delivery phases.
+
+<Steps>
+  <Step num="1" title="Vendor Online Registration">
+    Vendors access the portal to register online. The system generates a unique vendor ID and assigns initial access permissions based on organizational hierarchy.
+  </Step>
+  <Step num="2" title="Order Finalization">
+    The customer enters the application phase, filling out required fields including item details, quantities, and delivery locations across the system interface.
+  </Step>
+  <Step num="3" title="Credit Card Authorization">
+    The system prompts the user for payment details. The credit card authorization process verifies the transaction security before moving to the next stage.
+  </Step>
+  <Step num="4" title="Login Authentication">
+    Users authenticate their identity using secure credentials. This step ensures that only authorized personnel can finalize high-value transactions.
+  </Step>
+  <Step num="5" title="Delivery & Notification">
+    Once approved, the order processes. The system automatically dispatches email or SMS notifications to the customer and the management team.
+  </Step>
+</Steps>
+
+<Callout type="success" title="System Success">
+Automating the step-by-step pipeline guarantees that no order moves forward without proper credit authorization and credential verification.
+</Callout>
+
+The system status during these steps can be monitored using the corporate reporting tools.
+
+| Phase | Actions | Security Level | Expected Output |
+|---|---|---|---|
+| Registration | Online form submission | Basic | Unique Vendor ID |
+| Order Final | Quantity & location check | Medium | Finalized Order |
+| Payment | Credit card authorization | High | Transaction Token |
+| Auth | Username & password login | High | Session Token |
+| Delivery | Email/Phone notification | Basic | Shipping Confirmation |
+
+</Section>
+
+<Section icon={Trophy} title="Key Performance Milestones">
+
+To monitor the health of the implementation, project managers must track specific milestones. This ensures the project remains on schedule and within budget constraints.
+
+<CardGrid cols={3}>
+  <Card title="Architecture & Design">
+    - **Verify system architecture**
+    - Confirm database schemas
+    - Establish security baselines
+  </Card>
+  <Card title="Development & Testing">
+    - **Complete custom modules**
+    - Run integration tests
+    - Perform QA audits
+  </Card>
+  <Card title="Deployment & Support">
+    - **Launch production system**
+    - Monitor system stability
+    - Provide user training
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="Milestone Tracking">
+Regularly audit the project progress against these milestones to ensure the development team meets the agreed-upon deadlines.
+</Callout>
+
+Use the following checklist to track critical project goals during the implementation phase.
+
+<Checklist
+  id="erp-milestones"
+  title="ERP Launch Goals:"
+  items={[
+    "Complete online vendor registration portal setup",
+    "Integrate multi-language translation modules",
+    "Configure automated document detection rules",
+    "Establish credit card authorization gateway",
+    "Pass all ISTQB quality assurance test cases"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Sparkles} title="Frequently Asked Questions">
+
+This section addresses common queries regarding the ERP system setup and vendor selection process.
+
+<FAQ items={[
+  {
+    question: "Why is a new ERP system required for Zenith Inc?",
+    answer: "The legacy systems are outdated and cannot support the planned business expansion across North America. The new system provides automation, reduces processing time, and lowers operational costs."
+  },
+  {
+    question: "What are the minimum experience requirements for the vendor's management team?",
+    answer: "The project management team must have a minimum of 10 years of experience, along with industry-level certifications to ensure proper project execution."
+  },
+  {
+    question: "How does the system handle budget overruns?",
+    answer: "The system features a nice-to-have budget indicator that flags transactions exceeding the allocated budget, notifying higher management immediately."
+  },
+  {
+    question: "What languages must the ERP system support?",
+    answer: "The system must support multiple languages, specifically English, Chinese, and Mexican Spanish, to facilitate North American operations."
+  }
+]} />
+
+<Callout type="tip" title="Final Advice">
+Consult this **Zenith Inc beginner guide** regularly during the preparation phase to ensure all vendor requirements align with corporate standards.
+</Callout>
+
+</Section>

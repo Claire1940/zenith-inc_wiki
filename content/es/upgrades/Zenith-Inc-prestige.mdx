@@ -1,0 +1,173 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Prestigio en Zenith Inc: Guía de Estrategia de 2026 y Recompensas de Renacimiento",
+  description: "Domina el sistema de prestigio de Zenith Inc con nuestra guía de 2026. Aprende cuándo reiniciar, cómo gastar los Puntos de Prestigio y optimiza tu eficiencia al subir la torre.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1a1a2e/ffffff?text=Prestige+Strategy+Guide",
+  date: "2026-07-20",
+  author: "Equipo de la Wiki de Zenith Inc"
+}
+
+<Callout type="info" title="Guía rápida">
+- **Prestigio de Zenith Inc**: La mecánica principal utilizada para reiniciar el progreso actual a cambio de multiplicadores permanentes y **Puntos de Prestigio**.
+- **Estrategia de tiempo**: El momento más eficiente para hacer prestigio es cuando tu velocidad de ascenso por los pisos disminuye en más del **50%**.
+- **Prioridad de mejora**: Concéntrate primero en los **ingresos automáticos** y los **multiplicadores globales** para acelerar tu próxima partida.
+- **Gestión de recursos**: Nunca gastes todas tus **gemas** antes de un prestigio; mantén una reserva para obtener mejoras inmediatas después del reinicio.
+- **Objetivos de hitos**: Intenta alcanzar al menos el **piso 100** antes de tu primer prestigio importante para maximizar la ganancia inicial de puntos.
+</Callout>
+
+<Section icon={Map} title="Comprendiendo la mecánica de prestigio de Zenith Inc">
+
+En el mundo de este simulador incremental de Roblox, el **prestigio de Zenith Inc** actúa como el motor principal para el crecimiento a largo plazo. Aunque el efecto inmediato de un prestigio es la pérdida de tus monedas actuales y del progreso en los pisos de la torre, los beneficios a largo plazo son esenciales para alcanzar el contenido del juego tardío (end-game). Al realizar un prestigio, conviertes tus esfuerzos temporales en poder permanente.
+
+Este sistema está diseñado para superar los "muros" o estancamientos naturales que se encuentran al subir la torre. A medida que el costo de las mejoras aumenta exponencialmente, tus ingresos estándar eventualmente no podrán mantener el ritmo. Reiniciar te permite volver al inicio con un potencial de ingresos significativamente mayor.
+
+| Característica | Estado antes del prestigio | Estado después del prestigio |
+| :--- | :--- | :--- |
+| **Monedas** | Alto (Se reinicia a cero) | Cero (Acumulación rápida) |
+| **Pisos de la torre** | Piso más alto actual | Piso 1 (Desbloqueado más rápido) |
+| **Multiplicadores** | Base x1.0 | Impulso permanente (ej. x2.5+) |
+| **Puntos de prestigio** | Cero | Ganados según el progreso |
+| **Automatización** | Básica | Mejorada mediante actualizaciones |
+
+<Callout type="tip" title="Nota de eficiencia">
+La cantidad de Puntos de Prestigio que recibes está directamente relacionada con tu piso más alto alcanzado y el total de monedas ganadas durante esa partida específica. Avanzar solo cinco pisos adicionales a veces puede duplicar tu rendimiento de puntos.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Cuándo activar tu próximo prestigio">
+
+Determinar el "punto ideal" para un reinicio marca la diferencia entre un jugador de primer nivel y un escalador casual. Si haces prestigio demasiado pronto, obtendrás bonificaciones insignificantes; si esperas demasiado, perderás tiempo en una progresión lenta que podrías haber aprovechado volando a través de los primeros pisos con nuevos multiplicadores.
+
+<CardGrid cols={3}>
+  <Card title="Juego temprano (Pisos 1-100)">
+    - **Objetivo**: Llegar al piso 100
+    - **Activador**: Cuando las mejoras tarden más de 5 minutos
+    - **Enfoque**: Desbloquear la automatización básica
+  </Card>
+  <Card title="Juego medio (Pisos 101-500)">
+    - **Objetivo**: Acumular más de 1,000 puntos
+    - **Activador**: La progresión se estanca en los pisos de jefes
+    - **Enfoque**: Acumulación de multiplicadores
+  </Card>
+  <Card title="Juego tardío (Pisos 500+)">
+    - **Objetivo**: Maximizar cristales/fichas
+    - **Activador**: Caída calculada en la tasa de puntos por hora
+    - **Enfoque**: Mecánicas de ascensión
+  </Card>
+</CardGrid>
+
+| Escenario | Recomendación | Razonamiento |
+| :--- | :--- | :--- |
+| **Escalada rápida** | **Esperar** | Si sigues superando pisos en segundos, continúa. |
+| **Ingresos estancados** | **Prestigio** | Si tus ingresos no se han duplicado en 10 minutos, reinicia. |
+| **Hito cercano** | **Presionar** | Si un hito importante (ej. Piso 250) está a 2 pisos de distancia, termínalo. |
+
+<Callout type="warning" title="Evita reinicios prematuros">
+Realizar un **prestigio de Zenith Inc** antes de llegar al menos al piso 50 es generalmente ineficiente, a menos que tengas requisitos de misión específicos. El tiempo necesario para volver a subir suele superar la pequeña bonificación obtenida.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Puntos de prestigio y prioridad de mejora">
+
+Una vez que hayas reiniciado con éxito, tendrás **Puntos de Prestigio** para gastar en la tienda de mejoras especializada. Estas mejoras son permanentes y no desaparecen en futuros reinicios. Elegir el orden correcto para estas mejoras es fundamental para mantener el impulso.
+
+<Steps>
+  <Step num="1" title="Multiplicadores de ingresos globales">
+    Invierte siempre tu primer lote de puntos en multiplicadores. Esto asegura que cada moneda que ganes desde el Piso 1 valga significativamente más, haciendo que el tedio del juego temprano desaparezca.
+  </Step>
+  <Step num="2" title="Velocidad de automatización">
+    Mejora la velocidad de funcionamiento de tus auto-clics y auto-recolectores. En Zenith Inc, la eficiencia AFK (lejos del teclado) es la clave para progresar durante la noche.
+  </Step>
+  <Step num="3" title="Probabilidad de saltar pisos">
+    Más adelante en el árbol de prestigio, puedes desbloquear la capacidad de saltar pisos por completo. Esta es la estadística más importante para las partidas de farmeo en el juego tardío.
+  </Step>
+  <Step num="4" title="Retención de recursos">
+    Desbloquea la capacidad de conservar un pequeño porcentaje de tus monedas o mejoras específicas después de un reinicio. Esto reduce drásticamente el tiempo de preparación para las nuevas partidas.
+  </Step>
+</Steps>
+
+| Nombre de la mejora | Prioridad | Efecto |
+| :--- | :--- | :--- |
+| **Multiplicador Zenith** | **Alta** | Aumenta todas las ganancias de monedas en un 50% por nivel |
+| **Bot de auto-escalada** | **Media** | Avanza pisos automáticamente cuando es posible |
+| **Buscador de gemas** | **Media** | Aumenta la probabilidad de que aparezcan gemas en las recompensas |
+| **Impulso de prestigio** | **Baja** | Aumenta los puntos ganados en el *próximo* prestigio |
+
+<Callout type="success" title="Consejo de estrategia">
+Prioriza los "multiplicadores" sobre las "adiciones planas". En un juego incremental como Zenith Inc, el crecimiento multiplicativo siempre superará al crecimiento aditivo a las pocas horas de juego.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Lista de verificación de preparación para el prestigio">
+
+Antes de hacer clic en el botón de reinicio, asegúrate de haber maximizado el valor de tu partida actual. Una vez que haces prestigio, no hay forma de volver a tu piso anterior hasta que subas allí de nuevo. Utiliza esta lista de verificación para asegurarte de que estás realmente listo.
+
+<Checklist
+  id="prestige-readiness"
+  title="Lista de verificación de la última partida:"
+  items={[
+    "Gasta todas las monedas actuales en mejoras no permanentes para alcanzar el piso más alto posible.",
+    "Reclama todas las recompensas de hitos pendientes y gemas del menú de logros.",
+    "Comprueba si algún potenciador o código activo está a punto de expirar (úsalo ahora).",
+    "Verifica que el número de 'Puntos ganados al reiniciar' se haya puesto en verde o haya alcanzado tu objetivo.",
+    "Asegúrate de tener al menos 10-15 minutos de juego activo para preparar la siguiente partida."
+  ]}
+/>
+
+<Callout type="info" title="Consejo de monedas">
+Recuerda que aunque las monedas se reinician, tus **gemas**, **fichas** y **cristales** son permanentes. Deberías intentar farmear tantos como sea posible en tu piso más alto antes de reiniciar.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Estrategias avanzadas de prestigio: Renacimiento y Ascensión">
+
+A medida que progreses más en Zenith Inc, te encontrarás con mecánicas de reinicio aún más profundas más allá del prestigio estándar. Estos sistemas, a menudo denominados **Renacimiento** o **Ascensión**, requieren que alcances hitos de pisos mucho más altos (como el piso 1000) pero ofrecen recompensas que cambian las reglas fundamentales del juego.
+
+| Mecánica | Requisito | Recompensa principal |
+| :--- | :--- | :--- |
+| **Prestigio estándar** | Piso 50+ | Puntos de prestigio y multiplicadores |
+| **Renacimiento** | 10k Puntos de prestigio | Nuevos árboles de mejoras y puntos de habilidad |
+| **Ascensión** | Piso 1000+ | Ventajas permanentes de la torre y cristales raros |
+
+Estos sistemas funcionan en capas. Harás prestigio muchas veces para permitirte un solo Renacimiento, y renacerás muchas veces para lograr la Ascensión. Este bucle de "prestigio sobre prestigio" es lo que permite el crecimiento numérico masivo característico del género.
+
+<Callout type="tip" title="Estrategia profesional">
+Cuando apuntes a un Renacimiento, deja de gastar Puntos de Prestigio en mejoras menores unas 3 partidas antes. Guardar tus puntos te permite activar la mecánica de Renacimiento más rápido y acceder al árbol de habilidades superior.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Preguntas frecuentes sobre el prestigio de Zenith Inc">
+
+<FAQ items={[
+  {
+    question: "¿Pierdo mis gemas al realizar un prestigio de Zenith Inc?",
+    answer: "No. Las gemas son una moneda premium en Zenith Inc y se conservan a través de todos los niveles de prestigio, renacimiento y ascensión."
+  },
+  {
+    question: "¿Cuál es el mejor piso para hacer prestigio por primera vez?",
+    answer: "La mayoría de los jugadores veteranos recomiendan el piso 100 para el primer prestigio. Esto asegura que tengas suficientes puntos para comprar los primeros niveles del multiplicador global."
+  },
+  {
+    question: "¿Por qué estoy ganando menos Puntos de Prestigio que en mi última partida?",
+    answer: "La ganancia de puntos se basa en tu progreso *dentro de esa partida específica*. Si reinicias en un piso inferior al de tu partida anterior, o con menos monedas totales ganadas, tu recompensa será menor."
+  },
+  {
+    question: "¿Debería usar códigos antes o después de un prestigio?",
+    answer: "Depende del código. Los códigos de moneda se utilizan mejor inmediatamente después de un prestigio para saltarse los primeros pisos. Los códigos de multiplicador deben usarse cuando estés en tu piso más alto para maximizar las ganancias."
+  }
+]} />
+
+</Section>

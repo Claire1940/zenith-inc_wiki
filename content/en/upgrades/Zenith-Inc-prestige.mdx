@@ -1,0 +1,173 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Zenith Inc Prestige: 2026 Strategy Guide & Rebirth Rewards",
+  description: "Master the Zenith Inc prestige system with our 2026 guide. Learn when to reset, how to spend Prestige Points, and optimize your tower climbing efficiency.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1a1a2e/ffffff?text=Prestige+Strategy+Guide",
+  date: "2026-07-20",
+  author: "Zenith Inc Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Zenith Inc prestige**: The core mechanic used to reset current progress in exchange for permanent multipliers and **Prestige Points**.
+- **Timing Strategy**: The most efficient time to prestige is when your floor climbing speed drops by more than **50%**.
+- **Upgrade Priority**: Focus on **Auto-Income** and **Global Multipliers** first to accelerate your next run.
+- **Resource Management**: Never spend all your **Gems** before a prestige; keep a reserve for immediate post-reset boosts.
+- **Milestone Goals**: Aim for at least **Floor 100** before your first major prestige to maximize initial point gains.
+</Callout>
+
+<Section icon={Map} title="Understanding the Zenith Inc Prestige Mechanic">
+
+In the world of this Roblox incremental simulator, **Zenith Inc prestige** acts as the primary engine for long-term growth. While the immediate effect of a prestige is the loss of your current coins and tower floor progress, the long-term benefits are essential for reaching the end-game content. By performing a prestige, you convert your temporary efforts into permanent power.
+
+This system is designed to overcome the natural "walls" or plateaus encountered during tower climbing. As the cost of upgrades increases exponentially, your standard income will eventually fail to keep up. Resetting allows you to return to the start with significantly higher earning potential.
+
+| Feature | Pre-Prestige State | Post-Prestige State |
+| :--- | :--- | :--- |
+| **Coins** | High (Reset to zero) | Zero (Fast accumulation) |
+| **Tower Floors** | Current highest floor | Floor 1 (Unlocked faster) |
+| **Multipliers** | Base x1.0 | Permanent Boost (e.g., x2.5+) |
+| **Prestige Points** | Zero | Earned based on progress |
+| **Automation** | Basic | Enhanced via upgrades |
+
+<Callout type="tip" title="Efficiency Note">
+The amount of Prestige Points you receive is directly tied to your highest floor reached and total coins earned during that specific run. Pushing just five extra floors can sometimes double your point yield.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="When to Trigger Your Next Prestige">
+
+Determining the "sweet spot" for a reset is the difference between a top-tier player and a casual climber. If you prestige too early, you gain negligible bonuses; if you wait too long, you waste time on slow progression that could have been spent flying through early floors with new multipliers.
+
+<CardGrid cols={3}>
+  <Card title="Early Game (Floors 1-100)">
+    - **Goal**: Reach Floor 100
+    - **Trigger**: When upgrades take >5 mins
+    - **Focus**: Unlocking basic automation
+  </Card>
+  <Card title="Mid Game (Floors 101-500)">
+    - **Goal**: Accumulate 1,000+ Points
+    - **Trigger**: Progression stalls at boss floors
+    - **Focus**: Multiplier stacking
+  </Card>
+  <Card title="End Game (Floors 500+)">
+    - **Goal**: Maximize Crystals/Tokens
+    - **Trigger**: Calculated point-per-hour drop
+    - **Focus**: Ascension mechanics
+  </Card>
+</CardGrid>
+
+| Scenario | Recommendation | Reasoning |
+| :--- | :--- | :--- |
+| **Fast Climbing** | **Wait** | If you are still clearing floors in seconds, keep going. |
+| **Stagnant Income** | **Prestige** | If your income hasn't doubled in 10 minutes, reset. |
+| **Milestone Near** | **Push** | If a major milestone (e.g., Floor 250) is 2 floors away, finish it. |
+
+<Callout type="warning" title="Avoid Premature Resets">
+Performing a **Zenith Inc prestige** before reaching at least Floor 50 is generally inefficient unless you have specific quest requirements. The time taken to climb back usually outweighs the tiny bonus gained.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Prestige Points and Upgrade Priority">
+
+Once you have successfully reset, you will have **Prestige Points** to spend in the specialized upgrade shop. These upgrades are permanent and do not disappear during future resets. Choosing the right order for these upgrades is critical for maintaining momentum.
+
+<Steps>
+  <Step num="1" title="Global Income Multipliers">
+    Always invest your first batch of points into multipliers. This ensures that every coin you earn from Floor 1 is worth significantly more, making the early-game "slog" non-existent.
+  </Step>
+  <Step num="2" title="Automation Speed">
+    Upgrade how fast your auto-clickers and auto-collectors function. In Zenith Inc, AFK (Away From Keyboard) efficiency is the key to overnight progress.
+  </Step>
+  <Step num="3" title="Floor Skip Chance">
+    Later in the prestige tree, you can unlock the ability to skip floors entirely. This is the single most important stat for late-game farming runs.
+  </Step>
+  <Step num="4" title="Resource Retention">
+    Unlock the ability to keep a small percentage of your coins or specific upgrades after a reset. This drastically reduces the setup time for new runs.
+  </Step>
+</Steps>
+
+| Upgrade Name | Priority | Effect |
+| :--- | :--- | :--- |
+| **Zenith Multiplier** | **High** | Increases all coin gains by 50% per level |
+| **Auto-Climb Bot** | **Medium** | Automatically advances floors when possible |
+| **Gem Finder** | **Medium** | Increases chance of Gems appearing in rewards |
+| **Prestige Boost** | **Low** | Increases points gained in the *next* prestige |
+
+<Callout type="success" title="Strategy Tip">
+Prioritize "Multipliers" over "Flat Additions." In an incremental game like Zenith Inc, multiplicative growth will always outperform additive growth within a few hours of gameplay.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Prestige Readiness Checklist">
+
+Before you click the reset button, ensure you have maximized the value of your current run. Once you prestige, there is no going back to your previous floor until you climb there again. Use this checklist to ensure you are truly ready.
+
+<Checklist
+  id="prestige-readiness"
+  title="Final Run Checklist:"
+  items={[
+    "Spend all current Coins on non-permanent upgrades to reach the highest possible floor.",
+    "Claim all pending Milestone rewards and Gems from the achievement menu.",
+    "Check if any active Boosts or Codes are about to expire (use them now).",
+    "Verify that the 'Points Gained on Reset' number has turned green or reached your target.",
+    "Ensure you have at least 10-15 minutes of active play time to set up the next run."
+  ]}
+/>
+
+<Callout type="info" title="Currency Tip">
+Remember that while Coins reset, your **Gems**, **Tokens**, and **Crystals** are permanent. You should try to farm as many of these as possible on your highest floor before resetting.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Advanced Prestige Strategies: Rebirth and Ascension">
+
+As you progress further into Zenith Inc, you will encounter even deeper reset mechanics beyond the standard prestige. These systems, often referred to as **Rebirth** or **Ascension**, require you to reach much higher floor milestones (such as Floor 1000) but offer rewards that change the fundamental rules of the game.
+
+| Mechanic | Requirement | Major Reward |
+| :--- | :--- | :--- |
+| **Standard Prestige** | Floor 50+ | Prestige Points & Multipliers |
+| **Rebirth** | 10k Prestige Points | New Upgrade Trees & Skill Points |
+| **Ascension** | Floor 1000+ | Permanent Tower Perks & Rare Crystals |
+
+These systems work in layers. You will prestige many times to afford a single Rebirth, and Rebirth many times to achieve Ascension. This "prestige-on-prestige" loop is what allows for the massive numerical growth characteristic of the genre.
+
+<Callout type="tip" title="Pro Strategy">
+When aiming for a Rebirth, stop spending Prestige Points on minor upgrades about 3 runs beforehand. Saving your points allows you to trigger the Rebirth mechanic faster and access the superior skill tree.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Zenith Inc Prestige FAQ">
+
+<FAQ items={[
+  {
+    question: "Do I lose my Gems when I perform a Zenith Inc prestige?",
+    answer: "No. Gems are a premium currency in Zenith Inc and are kept through all levels of prestige, rebirth, and ascension."
+  },
+  {
+    question: "What is the best floor to prestige for the first time?",
+    answer: "Most veteran players recommend Floor 100 for the first prestige. This ensures you have enough points to buy the first few levels of the Global Multiplier."
+  },
+  {
+    question: "Why am I earning fewer Prestige Points than my last run?",
+    answer: "Point gain is based on your progress *within that specific run*. If you reset at a lower floor than your previous run, or with fewer total coins earned, your reward will be lower."
+  },
+  {
+    question: "Should I use codes before or after a prestige?",
+    answer: "It depends on the code. Currency codes are best used immediately after a prestige to skip the early floors. Multiplier codes should be used when you are at your highest floor to maximize gains."
+  }
+]} />
+
+</Section>

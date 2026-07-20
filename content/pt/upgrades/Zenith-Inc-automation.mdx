@@ -1,0 +1,203 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Languages, Settings, Users, ClipboardCheck } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Automação da Zenith Inc: Guia de Implementação de ERP Passo a Passo",
+  description: "Explore a estratégia abrangente para a automação da Zenith Inc por meio de sistemas ERP, cobrindo requisitos de fornecedores, fluxos de trabalho técnicos e metas de expansão.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/3b82f6/fff?text=Zenith+Inc+Automation+Guide",
+  date: "2026-07-20",
+  author: "Equipe da Wiki da Zenith Inc"
+}
+
+<Callout type="info" title="Guia Rápido">
+- A **automação da Zenith Inc** foca na substituição de sistemas obsoletos por uma estrutura moderna de ERP para apoiar a expansão na América do Norte.
+- Os **requisitos principais** incluem a detecção automatizada de documentos para pedidos de compra, notas de entrega e faturas.
+- O **suporte multilíngue** é crítico, visando especificamente os mercados chinês e espanhol (mexicano) para escalabilidade global.
+- A **seleção de fornecedores** baseia-se em critérios rigorosos, incluindo certificações do setor e um mínimo de 10 a 12 anos de experiência para cargos seniores.
+- Recursos de **monitoramento do sistema**, como indicadores de orçamento e notificações por e-mail, garantem a tomada de decisões gerenciais em tempo real.
+</Callout>
+
+<Section icon={Map} title="Visão Estratégica para a Automação da Zenith Inc">
+
+A mudança para a **automação da Zenith Inc** é impulsionada pela necessidade de modernizar sistemas legados obsoletos que atualmente dificultam o crescimento da empresa. Enquanto a empresa se prepara para uma expansão massiva na América do Norte, a equipe de gestão priorizou a implementação de um sistema de Planejamento de Recursos Empresariais (ERP). Essa transição não se trata apenas de atualizar o software; é um esforço estratégico para obter uma vantagem competitiva, reduzindo os custos operacionais e liberando a equipe de tarefas manuais de processamento de dados.
+
+Ao automatizar as principais funções de negócios, a Zenith Inc visa fornecer à sua gestão recursos de relatórios em tempo real. Isso garante que as decisões sejam baseadas nos dados mais atuais, permitindo agilidade em um mercado de ritmo acelerado. A estrutura de automação foi projetada para lidar com volumes crescentes de transações sem um aumento linear na sobrecarga administrativa, escalando o negócio de forma eficiente.
+
+**Destaques do Vídeo:**
+- **Substituição de Sistemas Obsoletos**: Por que a infraestrutura atual é insuficiente para a expansão na América do Norte.
+- **Metas Principais de Automação**: Redução do tempo de processamento manual e dos custos operacionais.
+- **Relatórios em Tempo Real**: Como o novo sistema facilita decisões de gestão imediatas.
+- **Recursos de Escalabilidade**: Preparando a empresa para atividades comerciais de alto volume.
+
+<YouTubeEmbed videoId="Jli36CupwG0" title="Apresentação de RFP - Sistema ERP para Zenith Inc." />
+
+<Callout type="tip" title="Insight Estratégico">
+A automação na Zenith Inc foi projetada para priorizar recursos "Indispensáveis" que impactam diretamente o resultado final, como a geração de ID exclusivo de fornecedor e autorizações automatizadas baseadas em hierarquia.
+</Callout>
+
+| Meta de Automação | Descrição | Benefício Principal |
+| :--- | :--- | :--- |
+| **Modernização do Sistema** | Substituição de software legado por ERP | Melhor estabilidade e segurança |
+| **Expansão de Negócios** | Escalonamento de operações na América do Norte | Aumento da participação de mercado e alcance |
+| **Redução de Custos** | Minimização da entrada manual de dados | Menor custo operacional |
+| **Precisão de Dados** | Comparação automatizada de documentos | Redução de erros humanos em faturamento |
+| **Suporte à Decisão** | Dashboards de relatórios em tempo real | Resposta mais rápida às mudanças do mercado |
+
+</Section>
+
+<Section icon={Settings} title="Requisitos Essenciais para o Sistema ERP">
+
+Para alcançar o sucesso na **automação da Zenith Inc**, o sistema ERP proposto deve atender a um conjunto rigoroso de requisitos funcionais. Esses requisitos são divididos em recursos "Indispensáveis" (Must-Have), essenciais para as operações diárias, e recursos "Desejáveis" (Nice-to-Have), que fornecem valor adicional e "personalidade" ao sistema. Uma das capacidades técnicas mais críticas é a habilidade do sistema de detectar e diferenciar automaticamente entre pedidos de compra (PO), notas de entrega de produtos e faturas.
+
+Além disso, o sistema deve suportar uma força de trabalho global. Isso inclui uma interface robusta em vários idiomas para acomodar a equipe diversificada da empresa e seus parceiros internacionais. A automação do processo de registro de fornecedores, incluindo a geração de IDs exclusivos e o estabelecimento de uma hierarquia organizacional para autorizações, é um pilar fundamental desta transformação digital.
+
+<Callout type="warning" title="Requisito Crítico">
+O sistema deve detectar automaticamente os tipos de documentos (PO, Nota de Entrega, Fatura) para aprimorar as capacidades de integração e apoiar a reconciliação automatizada.
+</Callout>
+
+| Categoria do Recurso | Requisito | Prioridade |
+| :--- | :--- | :--- |
+| **Gestão de Fornecedores** | Registro online e geração de ID exclusivo | Alta (Indispensável) |
+| **Segurança** | Hierarquia de autorização baseada em funções | Alta (Indispensável) |
+| **Localização** | Suporte para Chinês e Espanhol (Mexicano) | Alta (Indispensável) |
+| **Processamento de Documentos** | Detecção automática de PO e Fatura | Alta (Indispensável) |
+| **Acompanhamento de Fluxo** | Status de conclusão de trabalho baseado em porcentagem | Média (Desejável) |
+| **Alertas** | Notificações por e-mail para tarefas pendentes | Média (Desejável) |
+| **Controle Financeiro** | Indicadores de orçamento e avisos de limite excedido | Média (Desejável) |
+
+</Section>
+
+<Section icon={Users} title="Seleção de Fornecedores e Expertise da Equipe">
+
+O sucesso da **automação da Zenith Inc** depende fortemente da qualidade do fornecedor escolhido para implementar o sistema ERP. A Zenith Inc estabeleceu um conjunto abrangente de critérios de sucesso para avaliar parceiros em potencial. Essa avaliação vai além do software em si, analisando de perto o capital humano que o fornecedor traz para o projeto. O projeto exige uma equipe multidisciplinar com anos específicos de experiência e certificações padrão da indústria.
+
+A equipe de arquitetura, por exemplo, deve possuir mais de 12 anos de experiência em implementação de ERP. Os cargos de gestão exigem pelo menos 10 anos de experiência em gerenciamento de projetos, enquanto a equipe de garantia de qualidade deve possuir certificações ISTQB para garantir a confiabilidade do sistema.
+
+<CardGrid cols={3}>
+  <Card title="Equipe de Arquitetura">
+    - **12+ anos** de experiência
+    - Expertise em implementação de ERP
+    - Foco na escalabilidade do sistema
+  </Card>
+  <Card title="Equipe de Gestão">
+    - **10+ anos** de experiência
+    - Habilidades essenciais de gestão de projetos
+    - Responsável pela entrega no prazo
+  </Card>
+  <Card title="Equipe de Qualidade">
+    - **2 a 6 anos** de experiência
+    - **Certificação ISTQB** obrigatória
+    - Foco no suporte à produção
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Avaliação de Fornecedores">
+Os fornecedores são julgados com base em um sistema de classificação ponderado que considera sua situação financeira, referências de projetos anteriores e as habilidades específicas das equipes de desenvolvimento e suporte.
+</Callout>
+
+| Função | Experiência Mínima | Habilidades Chave | Certificação Exigida |
+| :--- | :--- | :--- | :--- |
+| **Arquiteto** | 12 Anos | Arquitetura de Sistema, Design de ERP | Nível Industrial |
+| **Gerente de Projeto** | 10 Anos | Gestão de Stakeholders, Cronograma | PMP ou equivalente |
+| **Desenvolvedor** | 5 Anos | Customização de ERP, Integração de API | Nível Profissional |
+| **Especialista em QA** | 2-6 Anos | Testes de Regressão, Automação | Certificação ISTQB |
+| **Equipe de Suporte** | 3 Anos | Manutenção, Suporte à Produção | Gestão de Serviços |
+
+</Section>
+
+<Section icon={Target} title="O Processo de Fluxo de Trabalho Automatizado">
+
+A jornada do usuário dentro do novo sistema automatizado foi projetada para ser tão intuitiva quanto as plataformas de varejo modernas, como o eBay. Desde a colocação inicial do pedido até a notificação final de entrega, cada etapa é rastreada e validada pelo ERP. Esse fluxo de trabalho garante que os dados do cliente sejam tratados com segurança e que todas as transações sejam autorizadas por meio de um processo de autenticação de várias etapas.
+
+A automação começa na fase de aplicação, onde os clientes preenchem as quantidades e locais dos itens. Uma vez finalizado, o sistema aciona um processo de autorização de cartão de crédito seguido por uma autenticação de login segura para verificar a identidade do usuário.
+
+<Steps>
+  <Step num="1" title="Finalização do Pedido">
+    Os clientes selecionam itens, quantidades e locais de entrega através da interface do ERP.
+  </Step>
+  <Step num="2" title="Autorização de Pagamento">
+    O sistema solicita autorização do cartão de crédito para garantir que os fundos estejam disponíveis para a transação.
+  </Step>
+  <Step num="3" title="Autenticação do Usuário">
+    O usuário fornece um nome de usuário e senha para autenticar o login para processamento seguro.
+  </Step>
+  <Step num="4" title="Processamento de Pagamento">
+    Os clientes selecionam seu método de pagamento preferido e fornecem os detalhes finais de faturamento.
+  </Step>
+  <Step num="5" title="Notificação">
+    Notificações automatizadas por e-mail ou telefone são enviadas ao cliente assim que o pacote entra na fase de entrega.
+  </Step>
+</Steps>
+
+<Callout type="info" title="Experiência do Usuário">
+O objetivo deste fluxo de trabalho é espelhar a simplicidade dos sites de e-commerce de alto nível, mantendo a segurança robusta de um ERP de nível empresarial.
+</Callout>
+
+</Section>
+
+<Section icon={ClipboardCheck} title="Marcos Técnicos e Manutenção">
+
+Para que o projeto de **automação da Zenith Inc** permaneça viável a longo prazo, uma estrutura rígida de manutenção e suporte deve estar em vigor. Isso inclui suporte contínuo à produção e um roteiro claro para atualizações do sistema. Espera-se que o fornecedor forneça um cronograma detalhado para a conclusão do projeto ERP, juntamente com uma cotação que reflita o custo total de propriedade.
+
+A equipe de suporte à produção é responsável por garantir que o sistema permaneça operacional 24 horas por dia, 7 dias por semana, especialmente à medida que a empresa se expande para diferentes fusos horários na América do Norte. Auditorias regulares do desempenho do sistema em relação aos critérios de sucesso iniciais são obrigatórias.
+
+<Checklist
+  id="automation-milestones"
+  title="Checklist de Sucesso do Projeto:"
+  items={[
+    "Lançamento bem-sucedido do portal de registro de fornecedores online",
+    "Integração de suporte multilíngue (Chinês/Espanhol)",
+    "Implementação de detecção automatizada de PO e faturas",
+    "Verificação da certificação ISTQB para toda a equipe de QA",
+    "Estabelecimento de gatilhos de notificação por e-mail para tarefas pendentes",
+    "Finalização do requisito de 12 anos de experiência para arquitetos"
+  ]}
+/>
+
+<Callout type="warning" title="Nota de Manutenção">
+Uma segunda rodada de discussões com os fornecedores é normalmente necessária para finalizar os termos de suporte à produção e manutenção após a avaliação inicial da RFP.
+</Callout>
+
+| Fase | Atividade | Entregável |
+| :--- | :--- | :--- |
+| **Planejamento** | Coleta de requisitos e RFP | Critérios de Sucesso Finalizados |
+| **Seleção** | Classificação de fornecedores e entrevistas | Parceiro de Implementação Selecionado |
+| **Execução** | Desenvolvimento e testes do sistema | Ambiente ERP Funcional |
+| **Implantação** | Treinamento de usuários e migração de dados | Sistema de Automação em Operação |
+| **Suporte** | Manutenção e correções de bugs | Logs de Suporte à Produção |
+
+</Section>
+
+<Section icon={Swords} title="FAQ da Automação da Zenith Inc">
+
+<FAQ items={[
+  {
+    question: "Por que a Zenith Inc está investindo em automação agora?",
+    answer: "A Zenith Inc está se expandindo pela América do Norte e precisa substituir seus sistemas obsoletos por um ERP para ganhar vantagem competitiva, reduzir custos e melhorar a velocidade de tomada de decisão."
+  },
+  {
+    question: "Quais são os requisitos de idioma indispensáveis para o sistema?",
+    answer: "O sistema deve suportar vários idiomas, incluindo especificamente Chinês e Espanhol (Mexicano), para acomodar a expansão regional da empresa."
+  },
+  {
+    question: "Como o sistema lida com o processamento de documentos?",
+    answer: "O sistema ERP foi projetado para detectar e diferenciar automaticamente entre pedidos de compra, notas de entrega de produtos e faturas para aprimorar a integração e reduzir a entrada manual."
+  },
+  {
+    question: "Quais certificações são exigidas para a equipe de implementação?",
+    answer: "A equipe de garantia de qualidade deve ter certificação ISTQB, e os cargos seniores de arquitetura e gestão devem ter de 10 a 12 anos de experiência no setor."
+  }
+]} />
+
+<Callout type="success" title="Resumo Final">
+A iniciativa de **automação da Zenith Inc** é uma reformulação abrangente do DNA operacional da empresa, garantindo que, à medida que a empresa cresce, seus sistemas permaneçam eficientes, escaláveis e orientados por dados.
+</Callout>
+
+</Section>

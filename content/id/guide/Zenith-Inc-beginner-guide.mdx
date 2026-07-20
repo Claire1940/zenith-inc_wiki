@@ -1,0 +1,189 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Panduan Pemula Zenith Inc: Penyiapan ERP & Langkah Vendor",
+  description: "Kuasai implementasi sistem ERP Zenith Inc dengan panduan pemula terperinci kami yang mencakup pemilihan vendor, persyaratan, dan alur kerja.",
+  category: "Panduan",
+  image: "https://placehold.co/800x400/1e3a8a/fff?text=ERP+Setup+Guide",
+  date: "2026-07-20",
+  author: "Tim Wiki Zenith Inc"
+}
+
+<Callout type="info" title="Panduan Cepat">
+- **Strategi Pemula**: Gunakan **panduan pemula Zenith Inc** ini untuk membangun fondasi yang kokoh bagi implementasi ERP.
+- **Persyaratan Vendor**: Pastikan vendor yang Anda pilih memenuhi pedoman pengalaman minimum yang ketat di seluruh enam tim inti.
+- **Otomatisasi Sistem**: Prioritaskan deteksi dokumen otomatis untuk pesanan pembelian, nota pengiriman, dan faktur untuk mengurangi pekerjaan manual.
+- **Manajemen Anggaran**: Pantau indikator anggaran dengan cermat untuk mencegah kelebihan biaya selama fase pengajuan.
+- **Protokol Keamanan**: Amankan semua transaksi menggunakan otorisasi kartu kredit dan langkah-langkah autentikasi masuk multi-faktor.
+</Callout>
+
+<Section icon={Map} title="Ikhtisar Sistem ERP & Persyaratan Inti">
+
+Mengimplementasikan platform Enterprise Resource Planning (ERP) modern adalah langkah penting untuk penskalaan perusahaan. **Panduan pemula Zenith Inc** ini menyoroti bagaimana perusahaan bertransisi dari pengaturan warisan yang usang ke arsitektur berbasis cloud yang otomatis. Motivasi utama untuk peningkatan ini berpusat pada ekspansi bisnis di Amerika Utara, pengurangan biaya, dan pengambilan keputusan manajemen yang lebih cepat melalui pelaporan waktu nyata.
+
+Untuk memastikan transisi yang lancar, sistem harus mengakomodasi tuntutan operasional tertentu. Ini dibagi menjadi kemampuan wajib dan peningkatan opsional yang memberikan nilai tambah pada alur kerja.
+
+**Sorotan Video:**
+- **Sistem Usang**: Alat warisan menghambat ekspansi dan memerlukan pemrosesan manual.
+- **Ekspansi Amerika Utara**: Dukungan multi-bahasa (termasuk bahasa Mandarin dan Spanyol Meksiko) sangat penting.
+- **Pemrosesan Dokumen Otomatis**: Sistem harus mendeteksi secara otomatis pesanan pembelian, nota pengiriman, dan faktur.
+- **Keamanan Berbasis Peran**: Otorisasi berbasis hierarki menjaga keamanan data.
+
+<YouTubeEmbed videoId="Jli36CupwG0" title="RFP Presentation - ERP System for Zenith Inc." />
+
+Tabel di bawah ini menguraikan persyaratan inti yang ditetapkan untuk kerangka kerja ERP baru.
+
+| Kategori | Fitur | Deskripsi | Prioritas |
+|---|---|---|---|
+| Wajib | Pendaftaran Online | Memungkinkan vendor untuk mendaftar dan menerima ID unik | Tinggi |
+| Wajib | Otorisasi Peran | Kontrol akses berdasarkan hierarki organisasi | Tinggi |
+| Wajib | Multi-Bahasa | Dukungan untuk bahasa Inggris, Mandarin, Spanyol Meksiko | Tinggi |
+| Wajib | Deteksi Otomatis | Membedakan PO, nota pengiriman, dan faktur | Tinggi |
+| Opsional | Pelaporan Perusahaan | Pelacakan alur kerja visual untuk mengidentifikasi hambatan | Sedang |
+| Opsional | Indikator Anggaran | Peringatan otomatis ketika pengeluaran melebihi batas | Sedang |
+| Opsional | Peringatan Email | Pemberitahuan dikirim ke manajemen untuk tugas-tugas yang tertunda | Sedang |
+
+<Callout type="tip" title="Tips Pro">
+Mengonfigurasi fitur deteksi otomatis sejak dini mengurangi kesalahan entri data manual hingga empat puluh persen, merampingkan alur akuntansi Anda.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Evaluasi Vendor & Pemilihan Tim">
+
+Memilih vendor yang tepat sangat penting untuk keberhasilan proyek ERP Zenith Inc. Proses evaluasi bergantung pada penilaian keterampilan inti vendor, sertifikasi, dan tahun pengalaman di seluruh enam tim khusus.
+
+Setiap tim memainkan peran yang berbeda dalam penerapan, mulai dari arsitektur sistem awal hingga dukungan produksi jangka panjang. Vendor harus memenuhi atau melampaui tolok ukur ini untuk lulus fase penyaringan awal.
+
+| Tim | Keterampilan Inti | Pengalaman | Sertifikasi |
+|---|---|---|---|
+| Arsitektur | Implementasi | 12+ Tahun | Tingkat Industri |
+| Manajemen | Manajemen Proyek | 10+ Tahun | Tingkat Industri |
+| Kualitas | Jaminan Kualitas | 2-6 Tahun | Bersertifikat ISTQB |
+| SME | Keahlian Domain | 5+ Tahun | Spesifik Domain |
+| Pengembangan | Rekayasa Perangkat Lunak | 4+ Tahun | Stack Teknologi |
+| Dukungan | Pemeliharaan | 3+ Tahun | Manajemen SLA |
+
+<Callout type="warning" title="Peringatan Penting">
+Jangan berkompromi pada persyaratan tim Jaminan Kualitas. Pastikan setidaknya satu anggota tim memiliki sertifikasi ISTQB aktif untuk menghindari bug setelah peluncuran.
+</Callout>
+
+Putaran evaluasi kedua berfokus pada stabilitas keuangan vendor, referensi historis, dan kelayakan lini masa proyek secara keseluruhan. Komite pemilihan menilai setiap kandidat berdasarkan metrik gabungan ini.
+
+</Section>
+
+<Section icon={Target} title="Alur Kerja Implementasi ERP Langkah demi Langkah">
+
+Menjalankan penerapan ERP memerlukan pendekatan yang terstruktur. Alur kerja ini memandu tim internal dan vendor eksternal melalui fase pengajuan, otorisasi, dan pengiriman.
+
+<Steps>
+  <Step num="1" title="Pendaftaran Online Vendor">
+    Vendor mengakses portal untuk mendaftar secara online. Sistem menghasilkan ID vendor yang unik dan menetapkan izin akses awal berdasarkan hierarki organisasi.
+  </Step>
+  <Step num="2" title="Finalisasi Pesanan">
+    Pelanggan memasuki fase pengajuan, mengisi bidang yang diperlukan termasuk detail item, jumlah, dan lokasi pengiriman di seluruh antarmuka sistem.
+  </Step>
+  <Step num="3" title="Otorisasi Kartu Kredit">
+    Sistem meminta pengguna untuk detail pembayaran. Proses otorisasi kartu kredit memverifikasi keamanan transaksi sebelum berpindah ke tahap berikutnya.
+  </Step>
+  <Step num="4" title="Autentikasi Masuk">
+    Pengguna mengautentikasi identitas mereka menggunakan kredensial yang aman. Langkah ini memastikan bahwa hanya personel yang berwenang yang dapat memfinalisasi transaksi bernilai tinggi.
+  </Step>
+  <Step num="5" title="Pengiriman & Pemberitahuan">
+    Setelah disetujui, pesanan akan diproses. Sistem secara otomatis mengirimkan pemberitahuan email atau SMS ke pelanggan dan tim manajemen.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Keberhasilan Sistem">
+Mengotomatiskan alur langkah demi langkah menjamin bahwa tidak ada pesanan yang diproses tanpa otorisasi kredit dan verifikasi kredensial yang tepat.
+</Callout>
+
+Status sistem selama langkah-langkah ini dapat dipantau menggunakan alat pelaporan perusahaan.
+
+| Fase | Tindakan | Tingkat Keamanan | Output yang Diharapkan |
+|---|---|---|---|
+| Pendaftaran | Pengiriman formulir online | Dasar | ID Vendor Unik |
+| Finalisasi Pesanan | Pemeriksaan jumlah & lokasi | Sedang | Pesanan yang Difinalisasi |
+| Pembayaran | Otorisasi kartu kredit | Tinggi | Token Transaksi |
+| Autentikasi | Masuk dengan nama pengguna & kata sandi | Tinggi | Token Sesi |
+| Pengiriman | Pemberitahuan Email/Telepon | Dasar | Konfirmasi Pengiriman |
+
+</Section>
+
+<Section icon={Trophy} title="Tonggak Pencapaian Kinerja Utama">
+
+Untuk memantau kesehatan implementasi, manajer proyek harus melacak tonggak pencapaian tertentu. Ini memastikan proyek tetap sesuai jadwal dan dalam batasan anggaran.
+
+<CardGrid cols={3}>
+  <Card title="Arsitektur & Desain">
+    - **Verifikasi arsitektur sistem**
+    - Konfirmasi skema database
+    - Tetapkan garis dasar keamanan
+  </Card>
+  <Card title="Pengembangan & Pengujian">
+    - **Selesaikan modul kustom**
+    - Jalankan pengujian integrasi
+    - Lakukan audit QA
+  </Card>
+  <Card title="Penerapan & Dukungan">
+    - **Luncurkan sistem produksi**
+    - Pantau stabilitas sistem
+    - Sediakan pelatihan pengguna
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="Pelacakan Tonggak Pencapaian">
+Audit kemajuan proyek secara berkala terhadap tonggak pencapaian ini untuk memastikan tim pengembangan memenuhi tenggat waktu yang disepakati.
+</Callout>
+
+Gunakan daftar periksa berikut untuk melacak tujuan proyek yang penting selama fase implementasi.
+
+<Checklist
+  id="erp-milestones"
+  title="Tujuan Peluncuran ERP:"
+  items={[
+    "Selesaikan penyiapan portal pendaftaran vendor online",
+    "Integrasikan modul terjemahan multi-bahasa",
+    "Konfigurasikan aturan deteksi dokumen otomatis",
+    "Tetapkan gateway otorisasi kartu kredit",
+    "Lulus semua kasus uji jaminan kualitas ISTQB"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Sparkles} title="Pertanyaan yang Sering Diajukan">
+
+Bagian ini membahas pertanyaan umum mengenai penyiapan sistem ERP dan proses pemilihan vendor.
+
+<FAQ items={[
+  {
+    question: "Mengapa sistem ERP baru diperlukan untuk Zenith Inc?",
+    answer: "Sistem warisan sudah usang dan tidak dapat mendukung rencana ekspansi bisnis di Amerika Utara. Sistem baru menyediakan otomatisasi, mengurangi waktu pemrosesan, dan menurunkan biaya operasional."
+  },
+  {
+    question: "Apa persyaratan pengalaman minimum untuk tim manajemen vendor?",
+    answer: "Tim manajemen proyek harus memiliki pengalaman minimal 10 tahun, bersama dengan sertifikasi tingkat industri untuk memastikan pelaksanaan proyek yang tepat."
+  },
+  {
+    question: "Bagaimana sistem menangani kelebihan anggaran?",
+    answer: "Sistem ini memiliki indikator anggaran opsional yang menandai transaksi yang melebihi anggaran yang dialokasikan, dan segera memberi tahu manajemen yang lebih tinggi."
+  },
+  {
+    question: "Bahasa apa saja yang harus didukung oleh sistem ERP?",
+    answer: "Sistem harus mendukung banyak bahasa, khususnya bahasa Inggris, Mandarin, dan Spanyol Meksiko, untuk memfasilitasi operasi di Amerika Utara."
+  }
+]} />
+
+<Callout type="tip" title="Saran Terakhir">
+Konsultasikan **panduan pemula Zenith Inc** ini secara berkala selama fase persiapan untuk memastikan semua persyaratan vendor selaras dengan standar perusahaan.
+</Callout>
+
+</Section>

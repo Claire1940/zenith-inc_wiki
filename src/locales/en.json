@@ -10,7 +10,15 @@
       "twitterDescription": "Zenith Inc Wiki covers Roblox codes, upgrades, tower progression, prestige, and currency guides for the Incremental Simulator."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "tier-list": "Tier List",
+    "upgrades": "Upgrades",
+    "currency": "Currency",
+    "tower": "Tower",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -430,125 +438,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
+    "guide": {
+      "title": "Zenith Inc Guide",
+      "description": "Complete Zenith Inc beginner guide covering core mechanics, upgrade paths, tower progression, and early-game strategies for Roblox players.",
+      "metaTitle": "Zenith Inc Guide - Beginner Tips & Progression",
+      "metaDescription": "Master Zenith Inc with our complete beginner guide. Learn core mechanics, upgrade order, tower climbing tips, and early-game strategies.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What is the Zenith Inc Guide?",
+      "whatIsDescription": "The Zenith Inc Guide walks you through the core incremental gameplay loop — earning currencies, buying upgrades, climbing the tower, and prestiging for faster growth. It covers everything a new player needs to understand the game's systems and start progressing efficiently from day one.",
+      "why": "Why use this guide?",
+      "whySteps": {
+        "step1Title": "Understand Core Mechanics",
+        "step1Description": "Learn how incremental earnings, upgrades, and prestige layers work together so every decision compounds your progress.",
+        "step2Title": "Optimize Early Upgrades",
+        "step2Description": "Follow the recommended early upgrade order to multiply your income quickly instead of wasting resources.",
+        "step3Title": "Climb the Tower Faster",
+        "step3Description": "Apply tower progression tips to push through floors efficiently and unlock the next layer of content."
+      },
+      "featured": "Featured Guides",
+      "all": "All Guides"
+    },
     "codes": {
       "title": "Zenith Inc Codes",
-      "description": "Active Zenith Inc redeem codes for free coins, gems, boosts, and progression rewards.",
-      "metaTitle": "Zenith Inc Codes - Active Redeem Codes (Free Rewards)",
-      "metaDescription": "Latest active Zenith Inc codes for free coins, gems, and boosts. Redeem working codes and stay updated with new releases.",
+      "description": "Latest working Zenith Inc codes for free coins, gems, boosts, and exclusive rewards. Updated regularly with active codes.",
+      "metaTitle": "Zenith Inc Codes - Free Coins, Gems & Boosts",
+      "metaDescription": "Redeem the latest Zenith Inc codes for free coins, gems, boosts, and exclusive rewards. Updated regularly with active working codes.",
       "categoryLabel": "REDEEM CODES",
       "whatIs": "What are Zenith Inc Codes?",
-      "whatIsDescription": "Zenith Inc codes are free redeem strings released by the developers that grant coins, gems, boosts, and progression items to help players climb the tower faster.",
-      "why": "Why redeem Zenith Inc codes?",
+      "whatIsDescription": "Zenith Inc codes are free redeem strings released by the developers that grant bonuses like coins, gems, boosts, and exclusive items. New codes drop alongside updates, milestones, and community events, giving players a regular stream of free resources to accelerate their tower climb.",
+      "why": "Why redeem codes?",
       "whySteps": {
-        "step1Title": "Free Resources",
-        "step1Description": "Codes grant coins, gems, and boosts without spending premium currency.",
-        "step2Title": "Faster Progression",
-        "step2Description": "Bonus resources accelerate early upgrades and tower climbing.",
-        "step3Title": "Stay Updated",
-        "step3Description": "New codes drop alongside major Zenith Inc updates and events."
+        "step1Title": "Free Resources Instantly",
+        "step1Description": "Every active code drops coins, gems, or boosts the moment you redeem it — a free head start with zero grinding.",
+        "step2Title": "Stay Current With Updates",
+        "step2Description": "Codes are tied to updates and events, so redeeming them keeps you in sync with the latest rewards.",
+        "step3Title": "Boost Early Progress",
+        "step3Description": "Redeemed boosts and currency help new accounts push through the early tower floors much faster."
       },
       "featured": "Featured Codes",
       "all": "All Codes"
     },
-    "beginner": {
-      "title": "Zenith Inc Beginner Guide",
-      "description": "Starter tips, basic mechanics, and early progression strategies for new Zenith Inc players.",
-      "metaTitle": "Zenith Inc Beginner Guide - Starter Tips & Progression",
-      "metaDescription": "New to Zenith Inc? Learn the core gameplay loop, first upgrades, automation basics, and how to start climbing the tower efficiently.",
-      "categoryLabel": "BEGINNER GUIDE",
-      "whatIs": "What is the Zenith Inc Beginner Guide?",
-      "whatIsDescription": "A starter roadmap covering the first upgrades, automation unlock, and early tower progression to help new Zenith Inc players build a strong income foundation.",
-      "why": "Why follow a beginner guide?",
+    "tier-list": {
+      "title": "Zenith Inc Tier List",
+      "description": "Zenith Inc tier list ranking the best upgrades, strategies, and loadouts for maximum progression speed and efficiency.",
+      "metaTitle": "Zenith Inc Tier List - Best Upgrades & Strategies",
+      "metaDescription": "Find the best upgrades and strategies in our Zenith Inc tier list. Maximize your progression speed with ranked recommendations.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What is the Zenith Inc Tier List?",
+      "whatIsDescription": "The Zenith Inc Tier List ranks upgrades, automation modules, and progression strategies by their long-term value and efficiency. It helps you decide which upgrades to prioritize, which to skip, and which combinations produce the fastest growth so you can climb the tower and prestige with the best returns.",
+      "why": "Why use the tier list?",
       "whySteps": {
-        "step1Title": "Avoid Common Mistakes",
-        "step1Description": "Spend early coins on income instead of cosmetic upgrades.",
-        "step2Title": "Unlock Automation Early",
-        "step2Description": "Auto income keeps resources flowing while you are away.",
-        "step3Title": "Reach First Prestige",
-        "step3Description": "Prestige unlocks permanent bonuses that speed up every future run."
+        "step1Title": "Spend Resources Wisely",
+        "step1Description": "Focus your coins and gems on top-tier upgrades instead of wasting them on low-value options.",
+        "step2Title": "Build the Best Strategy",
+        "step2Description": "Combine high-ranked upgrades and modules into a proven strategy that multiplies your income.",
+        "step3Title": "Prestige at the Right Time",
+        "step3Description": "Use tier-based guidance to decide when prestige and rebirth deliver the biggest permanent multiplier."
       },
-      "featured": "Featured Beginner Guides",
-      "all": "All Beginner Guides"
+      "featured": "Featured Rankings",
+      "all": "All Rankings"
     },
     "upgrades": {
       "title": "Zenith Inc Upgrades",
-      "description": "Upgrade priority, tier rankings, and the best upgrade path for long-term growth.",
-      "metaTitle": "Zenith Inc Upgrades - Best Upgrade Priority & Tier List",
-      "metaDescription": "Find the best Zenith Inc upgrade order with a full tier ranking of auto income, multipliers, click power, and offline earnings.",
-      "categoryLabel": "UPGRADE GUIDE",
+      "description": "Complete Zenith Inc upgrades guide covering every upgrade type, prestige and rebirth mechanics, automation, and AFK earnings.",
+      "metaTitle": "Zenith Inc Upgrades - Prestige, Rebirth & Automation",
+      "metaDescription": "Master every Zenith Inc upgrade system including prestige, rebirth, automation, and AFK earnings to maximize your permanent growth.",
+      "categoryLabel": "UPGRADES",
       "whatIs": "What are Zenith Inc Upgrades?",
-      "whatIsDescription": "Upgrades are permanent improvements to click power, automation, multipliers, capacity, and offline earnings that drive long-term progression in Zenith Inc.",
-      "why": "Why plan your upgrade order?",
+      "whatIsDescription": "Zenith Inc Upgrades are the core progression system — a layered set of boosts covering income multipliers, automation modules, prestige resets, and rebirth mechanics. Each layer compounds the last, so smart upgrade ordering and well-timed prestige cycles are the key to scaling your earnings exponentially.",
+      "why": "Why study upgrades?",
       "whySteps": {
-        "step1Title": "Maximize Income",
-        "step1Description": "Auto income and multipliers deliver the highest long-term returns.",
-        "step2Title": "Avoid Waste",
-        "step2Description": "Spending on low-impact upgrades slows your overall growth.",
-        "step3Title": "Climb Faster",
-        "step3Description": "A clear upgrade path unlocks higher tower floors more quickly."
+        "step1Title": "Multiply Your Income",
+        "step1Description": "Pick high-value income upgrades first so every coin you earn compounds into faster growth.",
+        "step2Title": "Automate Your Earnings",
+        "step2Description": "Unlock automation modules to keep earning coins and gems even while you are offline.",
+        "step3Title": "Prestige for Permanent Boosts",
+        "step3Description": "Time your prestige and rebirth cycles to bank permanent multipliers that accelerate every future run."
       },
-      "featured": "Featured Upgrade Guides",
-      "all": "All Upgrade Guides"
-    },
-    "tower": {
-      "title": "Zenith Inc Tower Guide",
-      "description": "Tower floors, milestones, unlock requirements, and strategies for climbing higher.",
-      "metaTitle": "Zenith Inc Tower Guide - Floors, Milestones & Climbing Tips",
-      "metaDescription": "Master the Zenith Inc tower with floor milestones, unlock requirements, and climbing strategies from early levels to the final floor.",
-      "categoryLabel": "TOWER GUIDE",
-      "whatIs": "What is the Zenith Inc Tower?",
-      "whatIsDescription": "The tower is the main progression path in Zenith Inc. Players climb through floors by improving income, unlocking upgrades, and reaching new milestones.",
-      "why": "Why focus on tower progression?",
-      "whySteps": {
-        "step1Title": "Unlock New Content",
-        "step1Description": "Higher floors reveal stronger upgrades and better rewards.",
-        "step2Title": "Hit Milestones",
-        "step2Description": "Key floors like 50, 100, and 500 mark major progression checkpoints.",
-        "step3Title": "Optimize Your Build",
-        "step3Description": "Advanced floors require automation, multipliers, and Prestige bonuses."
-      },
-      "featured": "Featured Tower Guides",
-      "all": "All Tower Guides"
+      "featured": "Featured Upgrades",
+      "all": "All Upgrades"
     },
     "currency": {
-      "title": "Zenith Inc Currency Guide",
-      "description": "Every currency in Zenith Inc, how to earn it, and where to spend it for maximum growth.",
-      "metaTitle": "Zenith Inc Currency Guide - Coins, Gems & Prestige Points",
-      "metaDescription": "Learn every Zenith Inc currency including coins, gems, prestige points, tokens, and crystals, plus the best ways to earn and spend them.",
-      "categoryLabel": "CURRENCY GUIDE",
-      "whatIs": "What currencies does Zenith Inc use?",
-      "whatIsDescription": "Zenith Inc runs on multiple currencies including Coins, Gems, Prestige Points, Tokens, Crystals, and Cash, each powering different upgrade paths.",
-      "why": "Why understand currencies?",
+      "title": "Zenith Inc Currency",
+      "description": "Complete Zenith Inc currency guide covering coins, gems, and advanced currencies, plus the fastest farming methods.",
+      "metaTitle": "Zenith Inc Currency Guide - Coins, Gems & Farming",
+      "metaDescription": "Learn every Zenith Inc currency — coins, gems, and advanced resources — and discover the fastest farming methods to grow rich.",
+      "categoryLabel": "CURRENCY",
+      "whatIs": "What is Zenith Inc Currency?",
+      "whatIsDescription": "Zenith Inc runs on a multi-layer currency system — starting with coins and gems and expanding into advanced resources unlocked as you progress. Each currency feeds a different upgrade layer, so understanding how to earn, farm, and convert them is essential to climbing the tower and funding prestige cycles.",
+      "why": "Why learn the currency system?",
       "whySteps": {
-        "step1Title": "Earn Efficiently",
-        "step1Description": "Know which activities generate each currency fastest.",
-        "step2Title": "Spend Wisely",
-        "step2Description": "Save rare currencies for high-impact long-term upgrades.",
-        "step3Title": "Avoid Bottlenecks",
-        "step3Description": "Balanced currency income keeps every upgrade path moving."
+        "step1Title": "Farm Coins Efficiently",
+        "step1Description": "Use proven farming methods to generate coins quickly and fund your core upgrades.",
+        "step2Title": "Spend Gems Smartly",
+        "step2Description": "Reserve gems for high-impact upgrades and modules that multiply your long-term income.",
+        "step3Title": "Unlock Advanced Resources",
+        "step3Description": "Progress into advanced currencies and learn how to convert them for maximum upgrade value."
       },
       "featured": "Featured Currency Guides",
       "all": "All Currency Guides"
     },
-    "tips": {
-      "title": "Zenith Inc Tips and Tricks",
-      "description": "Efficiency strategies, resource management tips, and mistakes to avoid in Zenith Inc.",
-      "metaTitle": "Zenith Inc Tips and Tricks - Best Strategies & Mistakes",
-      "metaDescription": "Boost your Zenith Inc progression with AFK earning tips, upgrade priority advice, prestige timing, and currency management strategies.",
-      "categoryLabel": "TIPS AND TRICKS",
-      "whatIs": "What are Zenith Inc Tips and Tricks?",
-      "whatIsDescription": "A collection of efficiency strategies, resource management tips, and common mistakes to avoid that help Zenith Inc players progress faster.",
-      "why": "Why use tips and tricks?",
+    "tower": {
+      "title": "Zenith Inc Tower",
+      "description": "Complete Zenith Inc tower guide covering every floor, unlock conditions, milestone rewards, and climbing strategies.",
+      "metaTitle": "Zenith Inc Tower Guide - Floors, Milestones & Climbing Tips",
+      "metaDescription": "Climb the Zenith Inc tower with our complete guide — floor progression, unlock conditions, milestone rewards, and climbing strategies.",
+      "categoryLabel": "TOWER",
+      "whatIs": "What is the Zenith Inc Tower?",
+      "whatIsDescription": "The Zenith Inc Tower is the central progression structure — a series of floors you climb by meeting income and upgrade milestones. Each floor unlocks new upgrades, currencies, and rewards, while milestone tiers grant permanent bonuses that carry across prestige cycles, making tower progression the backbone of long-term growth.",
+      "why": "Why focus on the tower?",
       "whySteps": {
-        "step1Title": "Progress Faster",
-        "step1Description": "Optimized AFK earnings and upgrade order save hours of grinding.",
-        "step2Title": "Avoid Pitfalls",
-        "step2Description": "Learn the common mistakes that slow down new players.",
-        "step3Title": "Maximize Growth",
-        "step3Description": "Smart prestige timing and currency management compound over time."
+        "step1Title": "Unlock New Content",
+        "step1Description": "Pushing floors unlocks fresh upgrades, modules, and currencies that expand your progression options.",
+        "step2Title": "Earn Milestone Rewards",
+        "step2Description": "Reach milestone tiers on each floor to claim permanent bonuses that boost every future run.",
+        "step3Title": "Climb Strategically",
+        "step3Description": "Apply climbing strategies to break through difficult floors without wasting resources."
       },
-      "featured": "Featured Tips",
-      "all": "All Tips"
+      "featured": "Featured Tower Guides",
+      "all": "All Tower Guides"
+    },
+    "updates": {
+      "title": "Zenith Inc Updates",
+      "description": "Latest Zenith Inc updates, patch notes, new content drops, release dates, and official community links.",
+      "metaTitle": "Zenith Inc Updates - Patch Notes & New Content",
+      "metaDescription": "Track every Zenith Inc update — patch notes, new content, release dates, and official community links for Roblox players.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What are Zenith Inc Updates?",
+      "whatIsDescription": "Zenith Inc Updates cover every patch, new content drop, balance change, and event added to the game. Staying current with updates helps you catch new codes, take advantage of fresh upgrades and tower floors, and time your prestige cycles around major content releases for maximum growth.",
+      "why": "Why follow updates?",
+      "whySteps": {
+        "step1Title": "Catch New Codes",
+        "step1Description": "Updates and events regularly ship with fresh codes for free coins, gems, and boosts.",
+        "step2Title": "Plan Around New Content",
+        "step2Description": "New upgrades, tower floors, and currencies change the meta — knowing them lets you adapt your strategy early.",
+        "step3Title": "Stay Connected",
+        "step3Description": "Follow official community channels to catch announcements, events, and release dates the moment they drop."
+      },
+      "featured": "Featured Updates",
+      "all": "All Updates"
     }
   }
 }

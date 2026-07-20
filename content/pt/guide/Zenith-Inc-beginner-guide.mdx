@@ -1,0 +1,190 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guia para Iniciantes da Zenith Inc: Configuração de ERP e Etapas de Fornecedores",
+  description: "Domine a implementação do sistema ERP da Zenith Inc com nosso guia detalhado para iniciantes, cobrindo seleção de fornecedores, requisitos e fluxos de trabalho.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1e3a8a/fff?text=ERP+Setup+Guide",
+  date: "2026-07-20",
+  author: "Equipe da Wiki da Zenith Inc",
+  keywords: "ERP, Zenith Inc, guia para iniciantes, implementação, fornecedor, automação"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Estratégia para Iniciantes**: Use este **guia para iniciantes da Zenith Inc** para estabelecer uma base sólida para a implementação do ERP.
+- **Requisitos de Fornecedores**: Certifique-se de que o fornecedor selecionado atenda às diretrizes rigorosas de experiência mínima em todas as seis equipes principais.
+- **Automação do Sistema**: Priorize a detecção automática de documentos para pedidos de compra, notas de entrega e faturas para reduzir o trabalho manual.
+- **Gestão de Orçamento**: Monitore os indicadores de orçamento de perto para evitar excessos de custos durante a fase de aplicação.
+- **Protocolo de Segurança**: Proteja todas as transações usando autorização de cartão de crédito e etapas de autenticação de login multifator.
+</Callout>
+
+<Section icon={Map} title="Visão Geral do Sistema ERP e Requisitos Principais">
+
+A implementação de uma plataforma moderna de Planejamento de Recursos Empresariais (ERP) é um passo crítico para a escala corporativa. Este **guia para iniciantes da Zenith Inc** destaca como a empresa transita de configurações legadas obsoletas para arquiteturas automatizadas baseadas em nuvem. A principal motivação para esta atualização centra-se na expansão dos negócios na América do Norte, redução de custos e tomada de decisões de gestão mais rápida através de relatórios em tempo real.
+
+Para garantir uma transição suave, o sistema deve acomodar demandas operacionais específicas. Estas são divididas em capacidades obrigatórias e melhorias opcionais que agregam valor ao fluxo de trabalho.
+
+**Destaques do Vídeo:**
+- **Sistemas Obsoletos**: Ferramentas legadas dificultam a expansão e exigem processamento manual.
+- **Expansão na América do Norte**: O suporte a vários idiomas (incluindo chinês e espanhol mexicano) é essencial.
+- **Processamento Automatizado de Documentos**: O sistema deve detectar automaticamente pedidos de compra, notas de entrega e faturas.
+- **Segurança Baseada em Funções**: A autorização baseada em hierarquia mantém os dados seguros.
+
+<YouTubeEmbed videoId="Jli36CupwG0" title="RFP Presentation - ERP System for Zenith Inc." />
+
+A tabela abaixo descreve os requisitos principais estabelecidos para a nova estrutura de ERP.
+
+| Categoria | Recurso | Descrição | Prioridade |
+|---|---|---|---|
+| Obrigatório | Registro Online | Permite que os fornecedores se registrem e recebam IDs exclusivos | Alta |
+| Obrigatório | Autorização de Função | Controle de acesso baseado na hierarquia organizacional | Alta |
+| Obrigatório | Multi-idioma | Suporte para Inglês, Chinês, Espanhol Mexicano | Alta |
+| Obrigatório | Detecção Automática | Diferencia POs, notas de entrega e faturas | Alta |
+| Desejável | Relatórios Corporativos | Rastreamento visual do fluxo de trabalho para identificar gargalos | Média |
+| Desejável | Indicador de Orçamento | Alertas automatizados quando os gastos excedem os limites | Média |
+| Desejável | Alertas por E-mail | Notificações enviadas à gerência para tarefas pendentes | Média |
+
+<Callout type="tip" title="Dica Profissional">
+Configurar o recurso de detecção automática logo no início reduz erros de entrada manual de dados em até quarenta por cento, otimizando seu pipeline contábil.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Avaliação de Fornecedores e Seleção de Equipe">
+
+Selecionar o fornecedor certo é crucial para o sucesso do projeto de ERP da Zenith Inc. O processo de avaliação baseia-se na análise das habilidades principais do fornecedor, certificações e anos de experiência em seis equipes especializadas.
+
+Cada equipe desempenha um papel distinto na implantação, desde a arquitetura inicial do sistema até o suporte de produção a longo prazo. Os fornecedores devem atender ou exceder esses marcos para passar pelas fases iniciais de triagem.
+
+| Equipe | Habilidade Principal | Experiência | Certificação |
+|---|---|---|---|
+| Arquitetura | Implementação | 12+ Anos | Nível Industrial |
+| Gestão | Gestão de Projetos | 10+ Anos | Nível Industrial |
+| Qualidade | Garantia de Qualidade | 2-6 Anos | Certificado ISTQB |
+| SME | Especialista no Domínio | 5+ Anos | Específica do Domínio |
+| Desenvolvimento | Engenharia de Software | 4+ Anos | Stack Tecnológica |
+| Suporte | Manutenção | 3+ Anos | Gestão de SLA |
+
+<Callout type="warning" title="Aviso Crítico">
+Não comprometa os requisitos da equipe de Garantia de Qualidade. Certifique-se de que pelo menos um membro da equipe possua uma certificação ISTQB ativa para evitar bugs pós-lançamento.
+</Callout>
+
+Uma segunda rodada de avaliação foca na estabilidade financeira do fornecedor, referências históricas e viabilidade do cronograma geral do projeto. O comitê de seleção avalia cada candidato com base nessas métricas combinadas.
+
+</Section>
+
+<Section icon={Target} title="Fluxo de Trabalho de Implementação de ERP Passo a Passo">
+
+A execução da implantação do ERP requer uma abordagem estruturada. Este fluxo de trabalho guia tanto a equipe interna quanto os fornecedores externos através das fases de aplicação, autorização e entrega.
+
+<Steps>
+  <Step num="1" title="Registro Online do Fornecedor">
+    Os fornecedores acessam o portal para se registrarem online. O sistema gera um ID de fornecedor exclusivo e atribui permissões de acesso iniciais com base na hierarquia organizacional.
+  </Step>
+  <Step num="2" title="Finalização do Pedido">
+    O cliente entra na fase de aplicação, preenchendo os campos obrigatórios, incluindo detalhes dos itens, quantidades e locais de entrega através da interface do sistema.
+  </Step>
+  <Step num="3" title="Autorização de Cartão de Crédito">
+    O sistema solicita ao usuário os detalhes do pagamento. O processo de autorização do cartão de crédito verifica a segurança da transação antes de passar para a próxima fase.
+  </Step>
+  <Step num="4" title="Autenticação de Login">
+    Os usuários autenticam sua identidade usando credenciais seguras. Esta etapa garante que apenas pessoal autorizado possa finalizar transações de alto valor.
+  </Step>
+  <Step num="5" title="Entrega e Notificação">
+    Uma vez aprovado, o pedido é processado. O sistema envia automaticamente notificações por e-mail ou SMS para o cliente e para a equipe de gestão.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Sucesso do Sistema">
+Automatizar o pipeline passo a passo garante que nenhum pedido avance sem a devida autorização de crédito e verificação de credenciais.
+</Callout>
+
+O status do sistema durante essas etapas pode ser monitorado usando as ferramentas de relatórios corporativos.
+
+| Fase | Ações | Nível de Segurança | Saída Esperada |
+|---|---|---|---|
+| Registro | Envio de formulário online | Básico | ID de Fornecedor Único |
+| Pedido Final | Verificação de quant. e local | Médio | Pedido Finalizado |
+| Pagamento | Autorização de cartão | Alto | Token de Transação |
+| Autenticação | Login com usuário e senha | Alto | Token de Sessão |
+| Entrega | Notificação por e-mail/telefone | Básico | Confirmação de Envio |
+
+</Section>
+
+<Section icon={Trophy} title="Marcos Principais de Desempenho">
+
+Para monitorar a saúde da implementação, os gerentes de projeto devem rastrear marcos específicos. Isso garante que o projeto permaneça no cronograma e dentro das restrições orçamentárias.
+
+<CardGrid cols={3}>
+  <Card title="Arquitetura e Design">
+    - **Verificar arquitetura do sistema**
+    - Confirmar esquemas de banco de dados
+    - Estabelecer bases de segurança
+  </Card>
+  <Card title="Desenvolvimento e Testes">
+    - **Concluir módulos personalizados**
+    - Executar testes de integração
+    - Realizar auditorias de QA
+  </Card>
+  <Card title="Implantação e Suporte">
+    - **Lançar sistema de produção**
+    - Monitorar estabilidade do sistema
+    - Fornecer treinamento aos usuários
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="Rastreamento de Marcos">
+Audite regularmente o progresso do projeto em relação a esses marcos para garantir que a equipe de desenvolvimento cumpra os prazos acordados.
+</Callout>
+
+Use a seguinte lista de verificação para rastrear objetivos críticos do projeto durante a fase de implementação.
+
+<Checklist
+  id="erp-milestones"
+  title="Metas de Lançamento do ERP:"
+  items={[
+    "Concluir a configuração do portal de registro online de fornecedores",
+    "Integrar módulos de tradução multi-idioma",
+    "Configurar regras de detecção automática de documentos",
+    "Estabelecer gateway de autorização de cartão de crédito",
+    "Passar em todos os casos de teste de garantia de qualidade ISTQB"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Sparkles} title="Perguntas Frequentes">
+
+Esta seção aborda dúvidas comuns sobre a configuração do sistema ERP e o processo de seleção de fornecedores.
+
+<FAQ items={[
+  {
+    question: "Por que um novo sistema ERP é necessário para a Zenith Inc?",
+    answer: "Os sistemas legados estão obsoletos e não podem suportar a expansão de negócios planejada na América do Norte. O novo sistema oferece automação, reduz o tempo de processamento e diminui os custos operacionais."
+  },
+  {
+    question: "Quais são os requisitos mínimos de experiência para a equipe de gestão do fornecedor?",
+    answer: "A equipe de gestão do projeto deve ter no mínimo 10 anos de experiência, juntamente com certificações de nível industrial para garantir a execução adequada do projeto."
+  },
+  {
+    question: "Como o sistema lida com excessos de orçamento?",
+    answer: "O sistema apresenta um indicador de orçamento (recurso desejável) que sinaliza transações que excedem o orçamento alocado, notificando a alta gerência imediatamente."
+  },
+  {
+    question: "Quais idiomas o sistema ERP deve suportar?",
+    answer: "O sistema deve suportar vários idiomas, especificamente Inglês, Chinês e Espanhol Mexicano, para facilitar as operações na América do Norte."
+  }
+]} />
+
+<Callout type="tip" title="Conselho Final">
+Consulte este **guia para iniciantes da Zenith Inc** regularmente durante a fase de preparação para garantir que todos os requisitos do fornecedor estejam alinhados com os padrões corporativos.
+</Callout>
+
+</Section>

@@ -1,0 +1,173 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Prestígio do Zenith Inc: Guia de Estratégia de 2026 e Recompensas de Renascimento",
+  description: "Domine o sistema de prestígio do Zenith Inc com o nosso guia de 2026. Saiba quando reiniciar, como gastar Pontos de Prestígio e otimizar sua eficiência ao subir a torre.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1a1a2e/ffffff?text=Prestige+Strategy+Guide",
+  date: "2026-07-20",
+  author: "Equipe do Wiki Zenith Inc"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Prestígio do Zenith Inc**: A mecânica principal usada para reiniciar o progresso atual em troca de multiplicadores permanentes e **Pontos de Prestígio**.
+- **Estratégia de Tempo**: O momento mais eficiente para realizar o prestígio é quando sua velocidade de subida de andares cai mais de **50%**.
+- **Prioridade de Melhoria**: Foque em **Renda Automática** e **Multiplicadores Globais** primeiro para acelerar sua próxima rodada.
+- **Gerenciamento de Recursos**: Nunca gaste todas as suas **Gemas** antes de um prestígio; mantenha uma reserva para impulsos imediatos pós-reinício.
+- **Metas de Marcos**: Mire em pelo menos o **Andar 100** antes do seu primeiro grande prestígio para maximizar os ganhos iniciais de pontos.
+</Callout>
+
+<Section icon={Map} title="Entendendo a Mecânica de Prestígio do Zenith Inc">
+
+No mundo deste simulador incremental do Roblox, o **prestígio do Zenith Inc** atua como o motor primário para o crescimento a longo prazo. Embora o efeito imediato de um prestígio seja a perda de suas moedas atuais e do progresso de andares da torre, os benefícios a longo prazo são essenciais para alcançar o conteúdo de fim de jogo. Ao realizar um prestígio, você converte seus esforços temporários em poder permanente.
+
+Este sistema é projetado para superar as \"paredes\" ou platôs naturais encontrados durante a subida da torre. Como o custo das melhorias aumenta exponencialmente, sua renda padrão eventualmente não conseguirá acompanhar. Reiniciar permite que você retorne ao início com um potencial de ganho significativamente maior.
+
+| Recurso | Estado Pré-Prestígio | Estado Pós-Prestígio |
+| :--- | :--- | :--- |
+| **Moedas** | Alto (Reiniciado para zero) | Zero (Acumulação rápida) |
+| **Andares da Torre** | Andar mais alto atual | Andar 1 (Desbloqueado mais rápido) |
+| **Multiplicadores** | Base x1.0 | Bônus Permanente (ex: x2.5+) |
+| **Pontos de Prestígio** | Zero | Ganho com base no progresso |
+| **Automação** | Básica | Aprimorada através de melhorias |
+
+<Callout type="tip" title="Nota de Eficiência">
+A quantidade de Pontos de Prestígio que você recebe está diretamente ligada ao seu andar mais alto alcançado e ao total de moedas ganhas durante aquela rodada específica. Avançar apenas cinco andares extras às vezes pode dobrar o seu rendimento de pontos.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Quando Ativar seu Próximo Prestígio">
+
+Determinar o \"ponto ideal\" para um reinício é a diferença entre um jogador de elite e um escalador casual. Se você fizer o prestígio muito cedo, ganhará bônus insignificantes; se esperar demais, perderá tempo em uma progressão lenta que poderia ter sido gasta voando pelos andares iniciais com novos multiplicadores.
+
+<CardGrid cols={3}>
+  <Card title="Início de Jogo (Andares 1-100)">
+    - **Objetivo**: Alcançar o Andar 100
+    - **Gatilho**: Quando as melhorias demorarem >5 min
+    - **Foco**: Desbloquear automação básica
+  </Card>
+  <Card title="Meio de Jogo (Andares 101-500)">
+    - **Objetivo**: Acumular mais de 1.000 Pontos
+    - **Gatilho**: A progressão trava nos andares de chefes
+    - **Foco**: Acúmulo de multiplicadores
+  </Card>
+  <Card title="Fim de Jogo (Andares 500+)">
+    - **Objetivo**: Maximizar Cristais/Tokens
+    - **Gatilho**: Queda calculada de pontos por hora
+    - **Foco**: Mecânicas de Ascensão
+  </Card>
+</CardGrid>
+
+| Cenário | Recomendação | Justificativa |
+| :--- | :--- | :--- |
+| **Subida Rápida** | **Aguardar** | Se você ainda está limpando andares em segundos, continue. |
+| **Renda Estagnada** | **Prestígio** | Se sua renda não dobrou em 10 minutos, reinicie. |
+| **Marco Próximo** | **Avançar** | Se um marco importante (ex: Andar 250) estiver a 2 andares de distância, termine-o. |
+
+<Callout type="warning" title="Evite Reinícios Prematuros">
+Realizar um **prestígio do Zenith Inc** antes de atingir pelo menos o Andar 50 geralmente é ineficiente, a menos que você tenha requisitos específicos de missão. O tempo necessário para subir de volta geralmente supera o pequeno bônus ganho.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Pontos de Prestígio e Prioridade de Melhoria">
+
+Depois de reiniciar com sucesso, você terá **Pontos de Prestígio** para gastar na loja de melhorias especializada. Essas melhorias são permanentes e não desaparecem durante reinícios futuros. Escolher a ordem certa para essas melhorias é fundamental para manter o ritmo.
+
+<Steps>
+  <Step num="1" title="Multiplicadores Globais de Renda">
+    Sempre invista seu primeiro lote de pontos em multiplicadores. Isso garante que cada moeda ganha a partir do Andar 1 valha significativamente mais, eliminando a lentidão do início do jogo.
+  </Step>
+  <Step num="2" title="Velocidade de Automação">
+    Melhore a velocidade com que seus auto-clicadores e auto-coletores funcionam. No Zenith Inc, a eficiência AFK (Longe do Teclado) é a chave para o progresso da noite para o dia.
+  </Step>
+  <Step num="3" title="Chance de Pular Andar">
+    Mais tarde na árvore de prestígio, você pode desbloquear a habilidade de pular andares inteiros. Esta é a estatística mais importante para rodadas de farm no fim de jogo.
+  </Step>
+  <Step num="4" title="Retenção de Recursos">
+    Desbloqueie a habilidade de manter uma pequena porcentagem de suas moedas ou melhorias específicas após um reinício. Isso reduz drasticamente o tempo de preparação para novas rodadas.
+  </Step>
+</Steps>
+
+| Nome da Melhoria | Prioridade | Efeito |
+| :--- | :--- | :--- |
+| **Multiplicador Zenith** | **Alta** | Aumenta todos os ganhos de moedas em 50% por nível |
+| **Robô de Subida Automática** | **Média** | Avança andares automaticamente quando possível |
+| **Localizador de Gemas** | **Média** | Aumenta a chance de Gemas aparecerem nas recompensas |
+| **Impulso de Prestígio** | **Baixa** | Aumenta os pontos ganhos no *próximo* prestígio |
+
+<Callout type="success" title="Dica de Estratégia">
+Prioritize \"Multiplicadores\" em vez de \"Adições Diretas\". Em um jogo incremental como o Zenith Inc, o crescimento multiplicativo sempre superará o crescimento aditivo em poucas horas de jogo.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Lista de Verificação de Preparação para o Prestígio">
+
+Antes de clicar no botão de reinício, certifique-se de ter maximizado o valor da sua rodada atual. Uma vez que você faz o prestígio, não há como voltar ao seu andar anterior até subir lá novamente. Use esta lista de verificação para garantir que você está realmente pronto.
+
+<Checklist
+  id="prestige-readiness"
+  title="Lista de Verificação da Rodada Final:"
+  items={[
+    "Gaste todas as Moedas atuais em melhorias não permanentes para alcançar o andar mais alto possível.",
+    "Resgate todas as recompensas de Marcos pendentes e Gemas do menu de conquistas.",
+    "Verifique se algum Impulso ou Código ativo está prestes a expirar (use-os agora).",
+    "Verifique se o número de 'Pontos Ganhos ao Reiniciar' ficou verde ou atingiu sua meta.",
+    "Certifique-se de ter pelo menos 10 a 15 minutos de tempo de jogo ativo para configurar a próxima rodada."
+  ]}
+/>
+
+<Callout type="info" title="Dica de Moeda">
+Lembre-se de que, embora as Moedas reiniciem, suas **Gemas**, **Tokens** e **Cristais** são permanentes. Você deve tentar farmar o máximo possível deles no seu andar mais alto antes de reiniciar.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Estratégias Avançadas de Prestígio: Renascimento e Ascensão">
+
+À medida que avança mais no Zenith Inc, você encontrará mecânicas de reinício ainda mais profundas além do prestígio padrão. Esses sistemas, frequentemente chamados de **Renascimento** ou **Ascensão**, exigem que você alcance marcos de andares muito mais altos (como o Andar 1000), mas oferecem recompensas que mudam as regras fundamentais do jogo.
+
+| Mecânica | Requisito | Recompensa Principal |
+| :--- | :--- | :--- |
+| **Prestígio Padrão** | Andar 50+ | Pontos de Prestígio e Multiplicadores |
+| **Renascimento** | 10k Pontos de Prestígio | Novas Árvores de Melhoria e Pontos de Habilidade |
+| **Ascensão** | Andar 1000+ | Vantagens Permanentes da Torre e Cristais Raros |
+
+Esses sistemas funcionam em camadas. Você fará o prestígio muitas vezes para conseguir pagar um único Renascimento, e o Renascimento muitas vezes para alcançar a Ascensão. Esse ciclo de \"prestígio sobre prestígio\" é o que permite o crescimento numérico massivo característico do gênero.
+
+<Callout type="tip" title="Estratégia Profissional">
+Ao mirar em um Renascimento, pare de gastar Pontos de Prestígio em melhorias menores cerca de 3 rodadas antes. Economizar seus pontos permite que você ative a mecânica de Renascimento mais rápido e acesse a árvore de habilidades superior.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Perguntas Frequentes sobre o Prestígio do Zenith Inc">
+
+<FAQ items={[
+  {
+    question: "Eu perco minhas Gemas quando realizo um prestígio no Zenith Inc?",
+    answer: "Não. As Gemas são uma moeda premium no Zenith Inc e são mantidas em todos os níveis de prestígio, renascimento e ascensão."
+  },
+  {
+    question: "Qual é o melhor andar para fazer o prestígio pela primeira vez?",
+    answer: "A maioria dos jogadores veteranos recomenda o Andar 100 para o primeiro prestígio. Isso garante que você tenha pontos suficientes para comprar os primeiros níveis do Multiplicador Global."
+  },
+  {
+    question: "Por que estou ganhando menos Pontos de Prestígio do que na minha última rodada?",
+    answer: "O ganho de pontos é baseado no seu progresso *dentro daquela rodada específica*. Se você reiniciar em um andar inferior ao da sua rodada anterior, ou com menos moedas totais ganhas, sua recompensa será menor."
+  },
+  {
+    question: "Devo usar códigos antes ou depois de um prestígio?",
+    answer: "Depende do código. Códigos de moedas são melhor usados imediatamente após um prestígio para pular os andares iniciais. Códigos de multiplicadores devem ser usados quando você estiver no seu andar mais alto para maximizar os ganhos."
+  }
+]} />
+
+</Section>

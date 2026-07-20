@@ -1,0 +1,190 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guía para Principiantes de Zenith Inc: Configuración de ERP y Pasos del Proveedor",
+  description: "Domine la implementación del sistema ERP de Zenith Inc con nuestra guía detallada para principiantes que cubre la selección de proveedores, requisitos y flujos de trabajo.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e3a8a/fff?text=ERP+Setup+Guide",
+  date: "2026-07-20",
+  author: "Equipo de Wiki de Zenith Inc",
+  keywords: "Zenith Inc, ERP, guía para principiantes, configuración de proveedores, automatización"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Estrategia para Principiantes**: Use esta **guía para principiantes de Zenith Inc** para establecer una base sólida para la implementación del ERP.
+- **Requisitos del Proveedor**: Asegúrese de que su proveedor seleccionado cumpla con las estrictas pautas de experiencia mínima en los seis equipos principales.
+- **Automatización del Sistema**: Priorice la detección automática de documentos para órdenes de compra, notas de entrega y facturas para reducir el trabajo manual.
+- **Gestión de Presupuesto**: Monitoree de cerca los indicadores de presupuesto para evitar excesos de costos durante la fase de solicitud.
+- **Protocolo de Seguridad**: Asegure todas las transacciones mediante autorización de tarjeta de crédito y pasos de autenticación de inicio de sesión de múltiples factores.
+</Callout>
+
+<Section icon={Map} title="Descripción General del Sistema ERP y Requisitos Principales">
+
+Implementar una plataforma moderna de Planificación de Recursos Empresariales (ERP) es un paso crítico para el escalamiento corporativo. Esta **guía para principiantes de Zenith Inc** destaca cómo la empresa transiciona de configuraciones heredadas obsoletas a arquitecturas basadas en la nube y automatizadas. La motivación principal para esta actualización se centra en la expansión comercial en América del Norte, la reducción de costos y una toma de decisiones de gestión más rápida a través de informes en tiempo real.
+
+Para garantizar una transición fluida, el sistema debe adaptarse a demandas operativas específicas. Estas se dividen en capacidades obligatorias y mejoras opcionales que agregan valor al flujo de trabajo.
+
+**Puntos Destacados del Video:**
+- **Sistemas Obsoletos**: Las herramientas heredadas dificultan la expansión y requieren procesamiento manual.
+- **Expansión en América del Norte**: El soporte multi-idioma (incluyendo chino y español mexicano) es esencial.
+- **Procesamiento Automatizado de Documentos**: El sistema debe detectar automáticamente órdenes de compra, notas de entrega y facturas.
+- **Seguridad Basada en Roles**: La autorización basada en la jerarquía mantiene los datos seguros.
+
+<YouTubeEmbed videoId="Jli36CupwG0" title="Presentación de RFP - Sistema ERP para Zenith Inc." />
+
+La siguiente tabla resume los requisitos principales establecidos para el nuevo marco de trabajo del ERP.
+
+| Categoría | Característica | Descripción | Prioridad |
+|---|---|---|---|
+| Obligatorio | Registro en Línea | Permite a los proveedores registrarse y recibir IDs únicos | Alta |
+| Obligatorio | Autorización de Roles | Control de acceso basado en la jerarquía organizacional | Alta |
+| Obligatorio | Multi-idioma | Soporte para inglés, chino y español mexicano | Alta |
+| Obligatorio | Auto-detección | Diferencia entre OC, notas de entrega y facturas | Alta |
+| Deseable | Informes Corporativos | Seguimiento visual del flujo de trabajo para identificar cuellos de botella | Media |
+| Deseable | Indicador de Presupuesto | Alertas automatizadas cuando el gasto excede los límites | Media |
+| Deseable | Alertas por Email | Notificaciones enviadas a la gerencia para tareas pendientes | Media |
+
+<Callout type="tip" title="Consejo Profesional">
+Configurar la función de auto-detección de forma temprana reduce los errores de entrada manual de datos hasta en un cuarenta por ciento, agilizando su flujo contable.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Evaluación de Proveedores y Selección de Equipos">
+
+Seleccionar al proveedor adecuado es crucial para el éxito del proyecto ERP de Zenith Inc. El proceso de evaluación se basa en valorar las habilidades principales del proveedor, sus certificaciones y los años de experiencia en seis equipos especializados.
+
+Cada equipo desempeña un papel distinto en el despliegue, desde la arquitectura inicial del sistema hasta el soporte de producción a largo plazo. Los proveedores deben cumplir o superar estos puntos de referencia para superar las fases iniciales de selección.
+
+| Equipo | Habilidad Principal | Experiencia | Certificación |
+|---|---|---|---|
+| Arquitectura | Implementación | 12+ Años | Nivel Industrial |
+| Gestión | Gestión de Proyectos | 10+ Años | Nivel Industrial |
+| Calidad | Control de Calidad | 2-6 Años | Certificado ISTQB |
+| SME | Experto en Dominio | 5+ Años | Específica del Dominio |
+| Desarrollo | Ingeniería de Software | 4+ Años | Stack Tecnológico |
+| Soporte | Mantenimiento | 3+ Años | Gestión de SLA |
+
+<Callout type="warning" title="Advertencia Crítica">
+No comprometa los requisitos del equipo de Control de Calidad. Asegúrese de que al menos un miembro del equipo posea una certificación ISTQB activa para evitar errores tras el lanzamiento.
+</Callout>
+
+Una segunda ronda de evaluación se centra en la estabilidad financiera del proveedor, las referencias históricas y la viabilidad general del cronograma del proyecto. El comité de selección califica a cada candidato basándose en estas métricas combinadas.
+
+</Section>
+
+<Section icon={Target} title="Flujo de Trabajo de Implementación de ERP Paso a Paso">
+
+Ejecutar el despliegue del ERP requiere un enfoque estructurado. Este flujo de trabajo guía tanto al equipo interno como a los proveedores externos a través de las fases de solicitud, autorización y entrega.
+
+<Steps>
+  <Step num="1" title="Registro en Línea del Proveedor">
+    Los proveedores acceden al portal para registrarse en línea. El sistema genera un ID de proveedor único y asigna permisos de acceso iniciales basados en la jerarquía organizacional.
+  </Step>
+  <Step num="2" title="Finalización del Pedido">
+    El cliente entra en la fase de solicitud, completando los campos obligatorios que incluyen detalles del artículo, cantidades y ubicaciones de entrega a través de la interfaz del sistema.
+  </Step>
+  <Step num="3" title="Autorización de Tarjeta de Crédito">
+    El sistema solicita al usuario los detalles de pago. El proceso de autorización de la tarjeta de crédito verifica la seguridad de la transacción antes de pasar a la siguiente etapa.
+  </Step>
+  <Step num="4" title="Autenticación de Inicio de Sesión">
+    Los usuarios autentican su identidad utilizando credenciales seguras. Este paso garantiza que solo el personal autorizado pueda finalizar transacciones de alto valor.
+  </Step>
+  <Step num="5" title="Entrega y Notificación">
+    Una vez aprobado, el pedido se procesa. El sistema envía automáticamente notificaciones por correo electrónico o SMS al cliente y al equipo de gestión.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Éxito del Sistema">
+Automatizar el flujo paso a paso garantiza que ningún pedido avance sin la debida autorización de crédito y verificación de credenciales.
+</Callout>
+
+El estado del sistema durante estos pasos se puede monitorear utilizando las herramientas de informes corporativos.
+
+| Fase | Acciones | Nivel de Seguridad | Resultado Esperado |
+|---|---|---|---|
+| Registro | Envío de formulario en línea | Básico | ID de Proveedor Único |
+| Pedido Final | Verificación de cantidad y ubicación | Medio | Pedido Finalizado |
+| Pago | Autorización de tarjeta de crédito | Alto | Token de Transacción |
+| Autent. | Inicio de sesión con usuario y clave | Alto | Token de Sesión |
+| Entrega | Notificación por Email/Teléfono | Básico | Confirmación de Envío |
+
+</Section>
+
+<Section icon={Trophy} title="Hitos Clave de Rendimiento">
+
+Para monitorear la salud de la implementación, los gerentes de proyecto deben realizar un seguimiento de hitos específicos. Esto garantiza que el proyecto se mantenga en cronograma y dentro de las limitaciones presupuestarias.
+
+<CardGrid cols={3}>
+  <Card title="Arquitectura y Diseño">
+    - **Verificar la arquitectura del sistema**
+    - Confirmar esquemas de base de datos
+    - Establecer líneas base de seguridad
+  </Card>
+  <Card title="Desarrollo y Pruebas">
+    - **Completar módulos personalizados**
+    - Ejecutar pruebas de integración
+    - Realizar auditorías de control de calidad
+  </Card>
+  <Card title="Implementación y Soporte">
+    - **Lanzar el sistema de producción**
+    - Monitorear la estabilidad del sistema
+    - Proporcionar capacitación a los usuarios
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="Seguimiento de Hitos">
+Audite regularmente el progreso del proyecto frente a estos hitos para asegurar que el equipo de desarrollo cumpla con los plazos acordados.
+</Callout>
+
+Utilice la siguiente lista de verificación para seguir los objetivos críticos del proyecto durante la fase de implementación.
+
+<Checklist
+  id="erp-milestones"
+  title="Objetivos de Lanzamiento del ERP:"
+  items={[
+    "Completar la configuración del portal de registro de proveedores en línea",
+    "Integrar módulos de traducción multi-idioma",
+    "Configurar reglas de detección automática de documentos",
+    "Establecer la pasarela de autorización de tarjetas de crédito",
+    "Aprobar todos los casos de prueba de control de calidad ISTQB"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Sparkles} title="Preguntas Frecuentes">
+
+Esta sección aborda consultas comunes sobre la configuración del sistema ERP y el proceso de selección de proveedores.
+
+<FAQ items={[
+  {
+    question: "¿Por qué es necesario un nuevo sistema ERP para Zenith Inc?",
+    answer: "Los sistemas heredados están obsoletos y no pueden soportar la expansión comercial planificada en América del Norte. El nuevo sistema proporciona automatización, reduce el tiempo de procesamiento y baja los costos operativos."
+  },
+  {
+    question: "¿Cuáles son los requisitos mínimos de experiencia para el equipo de gestión del proveedor?",
+    answer: "El equipo de gestión del proyecto debe tener un mínimo de 10 años de experiencia, junto con certificaciones de nivel industrial para asegurar la ejecución adecuada del proyecto."
+  },
+  {
+    question: "¿Cómo maneja el sistema los excesos de presupuesto?",
+    answer: "El sistema cuenta con un indicador de presupuesto deseable que señala las transacciones que exceden el presupuesto asignado, notificando a la alta gerencia de inmediato."
+  },
+  {
+    question: "¿Qué idiomas debe admitir el sistema ERP?",
+    answer: "El sistema debe admitir múltiples idiomas, específicamente inglés, chino y español mexicano, para facilitar las operaciones en América del Norte."
+  }
+]} />
+
+<Callout type="tip" title="Consejo Final">
+Consulte esta **guía para principiantes de Zenith Inc** regularmente durante la fase de preparación para asegurar que todos los requisitos del proveedor se alineen con los estándares corporativos.
+</Callout>
+
+</Section>

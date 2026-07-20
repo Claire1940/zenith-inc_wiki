@@ -1,1 +1,568 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "Zenith-Inc-codes",
+        "file": "Zenith-Inc-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "Zenith-Inc-gameplay-video",
+        "file": "Zenith-Inc-gameplay-video"
+      },
+      {
+        "slug": "Zenith-Inc-official",
+        "file": "Zenith-Inc-official"
+      },
+      {
+        "slug": "Zenith-Inc-peak-incrementals",
+        "file": "Zenith-Inc-peak-incrementals"
+      },
+      {
+        "slug": "Zenith-Inc-roblox-game",
+        "file": "Zenith-Inc-roblox-game"
+      },
+      {
+        "slug": "Zenith-Inc-roblox",
+        "file": "Zenith-Inc-roblox"
+      }
+    ],
+    "currency": [
+      {
+        "slug": "Zenith-Inc-coins",
+        "file": "Zenith-Inc-coins"
+      },
+      {
+        "slug": "Zenith-Inc-currency-guide",
+        "file": "Zenith-Inc-currency-guide"
+      },
+      {
+        "slug": "Zenith-Inc-farming",
+        "file": "Zenith-Inc-farming"
+      },
+      {
+        "slug": "Zenith-Inc-gems",
+        "file": "Zenith-Inc-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Zenith-Inc-beginner-guide",
+        "file": "Zenith-Inc-beginner-guide"
+      },
+      {
+        "slug": "Zenith-Inc-climb-the-tower",
+        "file": "Zenith-Inc-climb-the-tower"
+      },
+      {
+        "slug": "Zenith-Inc-gameplay",
+        "file": "Zenith-Inc-gameplay"
+      },
+      {
+        "slug": "Zenith-Inc-guide",
+        "file": "Zenith-Inc-guide"
+      },
+      {
+        "slug": "Zenith-Inc-how-to-play",
+        "file": "Zenith-Inc-how-to-play"
+      },
+      {
+        "slug": "Zenith-Inc-progression-guide",
+        "file": "Zenith-Inc-progression-guide"
+      },
+      {
+        "slug": "Zenith-Inc-tips-and-tricks",
+        "file": "Zenith-Inc-tips-and-tricks"
+      },
+      {
+        "slug": "Zenith-Inc-tower-guide",
+        "file": "Zenith-Inc-tower-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Zenith-Inc-best-strategy",
+        "file": "Zenith-Inc-best-strategy"
+      },
+      {
+        "slug": "Zenith-Inc-best-upgrades",
+        "file": "Zenith-Inc-best-upgrades"
+      },
+      {
+        "slug": "Zenith-Inc-tier-list",
+        "file": "Zenith-Inc-tier-list"
+      }
+    ],
+    "tower": [
+      {
+        "slug": "Zenith-Inc-floors",
+        "file": "Zenith-Inc-floors"
+      },
+      {
+        "slug": "Zenith-Inc-milestones",
+        "file": "Zenith-Inc-milestones"
+      },
+      {
+        "slug": "Zenith-Inc-tower-levels",
+        "file": "Zenith-Inc-tower-levels"
+      },
+      {
+        "slug": "Zenith-Inc-tower",
+        "file": "Zenith-Inc-tower"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "Zenith-Inc-discord",
+        "file": "Zenith-Inc-discord"
+      },
+      {
+        "slug": "Zenith-Inc-new-update",
+        "file": "Zenith-Inc-new-update"
+      },
+      {
+        "slug": "Zenith-Inc-reddit",
+        "file": "Zenith-Inc-reddit"
+      },
+      {
+        "slug": "Zenith-Inc-release-date",
+        "file": "Zenith-Inc-release-date"
+      },
+      {
+        "slug": "Zenith-Inc-update",
+        "file": "Zenith-Inc-update"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "Zenith-Inc-afk-earnings",
+        "file": "Zenith-Inc-afk-earnings"
+      },
+      {
+        "slug": "Zenith-Inc-automation",
+        "file": "Zenith-Inc-automation"
+      },
+      {
+        "slug": "Zenith-Inc-prestige",
+        "file": "Zenith-Inc-prestige"
+      },
+      {
+        "slug": "Zenith-Inc-rebirth",
+        "file": "Zenith-Inc-rebirth"
+      },
+      {
+        "slug": "Zenith-Inc-upgrade-guide",
+        "file": "Zenith-Inc-upgrade-guide"
+      },
+      {
+        "slug": "Zenith-Inc-upgrades",
+        "file": "Zenith-Inc-upgrades"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "Zenith-Inc-codes",
+        "file": "Zenith-Inc-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "Zenith-Inc-gameplay-video",
+        "file": "Zenith-Inc-gameplay-video"
+      },
+      {
+        "slug": "Zenith-Inc-official",
+        "file": "Zenith-Inc-official"
+      },
+      {
+        "slug": "Zenith-Inc-peak-incrementals",
+        "file": "Zenith-Inc-peak-incrementals"
+      },
+      {
+        "slug": "Zenith-Inc-roblox-game",
+        "file": "Zenith-Inc-roblox-game"
+      },
+      {
+        "slug": "Zenith-Inc-roblox",
+        "file": "Zenith-Inc-roblox"
+      }
+    ],
+    "currency": [
+      {
+        "slug": "Zenith-Inc-coins",
+        "file": "Zenith-Inc-coins"
+      },
+      {
+        "slug": "Zenith-Inc-currency-guide",
+        "file": "Zenith-Inc-currency-guide"
+      },
+      {
+        "slug": "Zenith-Inc-farming",
+        "file": "Zenith-Inc-farming"
+      },
+      {
+        "slug": "Zenith-Inc-gems",
+        "file": "Zenith-Inc-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Zenith-Inc-beginner-guide",
+        "file": "Zenith-Inc-beginner-guide"
+      },
+      {
+        "slug": "Zenith-Inc-climb-the-tower",
+        "file": "Zenith-Inc-climb-the-tower"
+      },
+      {
+        "slug": "Zenith-Inc-gameplay",
+        "file": "Zenith-Inc-gameplay"
+      },
+      {
+        "slug": "Zenith-Inc-guide",
+        "file": "Zenith-Inc-guide"
+      },
+      {
+        "slug": "Zenith-Inc-how-to-play",
+        "file": "Zenith-Inc-how-to-play"
+      },
+      {
+        "slug": "Zenith-Inc-progression-guide",
+        "file": "Zenith-Inc-progression-guide"
+      },
+      {
+        "slug": "Zenith-Inc-tips-and-tricks",
+        "file": "Zenith-Inc-tips-and-tricks"
+      },
+      {
+        "slug": "Zenith-Inc-tower-guide",
+        "file": "Zenith-Inc-tower-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Zenith-Inc-best-strategy",
+        "file": "Zenith-Inc-best-strategy"
+      },
+      {
+        "slug": "Zenith-Inc-best-upgrades",
+        "file": "Zenith-Inc-best-upgrades"
+      },
+      {
+        "slug": "Zenith-Inc-tier-list",
+        "file": "Zenith-Inc-tier-list"
+      }
+    ],
+    "tower": [
+      {
+        "slug": "Zenith-Inc-floors",
+        "file": "Zenith-Inc-floors"
+      },
+      {
+        "slug": "Zenith-Inc-milestones",
+        "file": "Zenith-Inc-milestones"
+      },
+      {
+        "slug": "Zenith-Inc-tower",
+        "file": "Zenith-Inc-tower"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "Zenith-Inc-afk-earnings",
+        "file": "Zenith-Inc-afk-earnings"
+      },
+      {
+        "slug": "Zenith-Inc-automation",
+        "file": "Zenith-Inc-automation"
+      },
+      {
+        "slug": "Zenith-Inc-prestige",
+        "file": "Zenith-Inc-prestige"
+      },
+      {
+        "slug": "Zenith-Inc-rebirth",
+        "file": "Zenith-Inc-rebirth"
+      },
+      {
+        "slug": "Zenith-Inc-upgrade-guide",
+        "file": "Zenith-Inc-upgrade-guide"
+      },
+      {
+        "slug": "Zenith-Inc-upgrades",
+        "file": "Zenith-Inc-upgrades"
+      }
+    ]
+  },
+  "id": {
+    "codes": [
+      {
+        "slug": "Zenith-Inc-codes",
+        "file": "Zenith-Inc-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "Zenith-Inc-gameplay-video",
+        "file": "Zenith-Inc-gameplay-video"
+      },
+      {
+        "slug": "Zenith-Inc-official",
+        "file": "Zenith-Inc-official"
+      },
+      {
+        "slug": "Zenith-Inc-peak-incrementals",
+        "file": "Zenith-Inc-peak-incrementals"
+      },
+      {
+        "slug": "Zenith-Inc-roblox-game",
+        "file": "Zenith-Inc-roblox-game"
+      },
+      {
+        "slug": "Zenith-Inc-roblox",
+        "file": "Zenith-Inc-roblox"
+      }
+    ],
+    "currency": [
+      {
+        "slug": "Zenith-Inc-coins",
+        "file": "Zenith-Inc-coins"
+      },
+      {
+        "slug": "Zenith-Inc-currency-guide",
+        "file": "Zenith-Inc-currency-guide"
+      },
+      {
+        "slug": "Zenith-Inc-farming",
+        "file": "Zenith-Inc-farming"
+      },
+      {
+        "slug": "Zenith-Inc-gems",
+        "file": "Zenith-Inc-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Zenith-Inc-beginner-guide",
+        "file": "Zenith-Inc-beginner-guide"
+      },
+      {
+        "slug": "Zenith-Inc-climb-the-tower",
+        "file": "Zenith-Inc-climb-the-tower"
+      },
+      {
+        "slug": "Zenith-Inc-gameplay",
+        "file": "Zenith-Inc-gameplay"
+      },
+      {
+        "slug": "Zenith-Inc-guide",
+        "file": "Zenith-Inc-guide"
+      },
+      {
+        "slug": "Zenith-Inc-how-to-play",
+        "file": "Zenith-Inc-how-to-play"
+      },
+      {
+        "slug": "Zenith-Inc-progression-guide",
+        "file": "Zenith-Inc-progression-guide"
+      },
+      {
+        "slug": "Zenith-Inc-tips-and-tricks",
+        "file": "Zenith-Inc-tips-and-tricks"
+      },
+      {
+        "slug": "Zenith-Inc-tower-guide",
+        "file": "Zenith-Inc-tower-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Zenith-Inc-best-strategy",
+        "file": "Zenith-Inc-best-strategy"
+      },
+      {
+        "slug": "Zenith-Inc-best-upgrades",
+        "file": "Zenith-Inc-best-upgrades"
+      },
+      {
+        "slug": "Zenith-Inc-tier-list",
+        "file": "Zenith-Inc-tier-list"
+      }
+    ],
+    "tower": [
+      {
+        "slug": "Zenith-Inc-milestones",
+        "file": "Zenith-Inc-milestones"
+      },
+      {
+        "slug": "Zenith-Inc-tower-levels",
+        "file": "Zenith-Inc-tower-levels"
+      },
+      {
+        "slug": "Zenith-Inc-tower",
+        "file": "Zenith-Inc-tower"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "Zenith-Inc-afk-earnings",
+        "file": "Zenith-Inc-afk-earnings"
+      },
+      {
+        "slug": "Zenith-Inc-automation",
+        "file": "Zenith-Inc-automation"
+      },
+      {
+        "slug": "Zenith-Inc-prestige",
+        "file": "Zenith-Inc-prestige"
+      },
+      {
+        "slug": "Zenith-Inc-rebirth",
+        "file": "Zenith-Inc-rebirth"
+      },
+      {
+        "slug": "Zenith-Inc-upgrade-guide",
+        "file": "Zenith-Inc-upgrade-guide"
+      },
+      {
+        "slug": "Zenith-Inc-upgrades",
+        "file": "Zenith-Inc-upgrades"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "Zenith-Inc-codes",
+        "file": "Zenith-Inc-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "Zenith-Inc-gameplay-video",
+        "file": "Zenith-Inc-gameplay-video"
+      },
+      {
+        "slug": "Zenith-Inc-official",
+        "file": "Zenith-Inc-official"
+      },
+      {
+        "slug": "Zenith-Inc-peak-incrementals",
+        "file": "Zenith-Inc-peak-incrementals"
+      },
+      {
+        "slug": "Zenith-Inc-roblox",
+        "file": "Zenith-Inc-roblox"
+      }
+    ],
+    "currency": [
+      {
+        "slug": "Zenith-Inc-coins",
+        "file": "Zenith-Inc-coins"
+      },
+      {
+        "slug": "Zenith-Inc-currency-guide",
+        "file": "Zenith-Inc-currency-guide"
+      },
+      {
+        "slug": "Zenith-Inc-farming",
+        "file": "Zenith-Inc-farming"
+      },
+      {
+        "slug": "Zenith-Inc-gems",
+        "file": "Zenith-Inc-gems"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Zenith-Inc-beginner-guide",
+        "file": "Zenith-Inc-beginner-guide"
+      },
+      {
+        "slug": "Zenith-Inc-climb-the-tower",
+        "file": "Zenith-Inc-climb-the-tower"
+      },
+      {
+        "slug": "Zenith-Inc-gameplay",
+        "file": "Zenith-Inc-gameplay"
+      },
+      {
+        "slug": "Zenith-Inc-guide",
+        "file": "Zenith-Inc-guide"
+      },
+      {
+        "slug": "Zenith-Inc-how-to-play",
+        "file": "Zenith-Inc-how-to-play"
+      },
+      {
+        "slug": "Zenith-Inc-progression-guide",
+        "file": "Zenith-Inc-progression-guide"
+      },
+      {
+        "slug": "Zenith-Inc-tips-and-tricks",
+        "file": "Zenith-Inc-tips-and-tricks"
+      },
+      {
+        "slug": "Zenith-Inc-tower-guide",
+        "file": "Zenith-Inc-tower-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Zenith-Inc-best-strategy",
+        "file": "Zenith-Inc-best-strategy"
+      },
+      {
+        "slug": "Zenith-Inc-best-upgrades",
+        "file": "Zenith-Inc-best-upgrades"
+      },
+      {
+        "slug": "Zenith-Inc-tier-list",
+        "file": "Zenith-Inc-tier-list"
+      }
+    ],
+    "tower": [
+      {
+        "slug": "Zenith-Inc-floors",
+        "file": "Zenith-Inc-floors"
+      },
+      {
+        "slug": "Zenith-Inc-milestones",
+        "file": "Zenith-Inc-milestones"
+      },
+      {
+        "slug": "Zenith-Inc-tower-levels",
+        "file": "Zenith-Inc-tower-levels"
+      },
+      {
+        "slug": "Zenith-Inc-tower",
+        "file": "Zenith-Inc-tower"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "Zenith-Inc-afk-earnings",
+        "file": "Zenith-Inc-afk-earnings"
+      },
+      {
+        "slug": "Zenith-Inc-automation",
+        "file": "Zenith-Inc-automation"
+      },
+      {
+        "slug": "Zenith-Inc-prestige",
+        "file": "Zenith-Inc-prestige"
+      },
+      {
+        "slug": "Zenith-Inc-rebirth",
+        "file": "Zenith-Inc-rebirth"
+      },
+      {
+        "slug": "Zenith-Inc-upgrades",
+        "file": "Zenith-Inc-upgrades"
+      }
+    ]
+  }
+}
